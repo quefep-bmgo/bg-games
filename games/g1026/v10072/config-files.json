@@ -1,0 +1,74 @@
+[
+ {
+  "name": "Chip.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1026_1.1538038028389.Chip.csv",
+  "hash": "0cce85668004962f3cf9b46204e3076c",
+  "key": "sandbox/games/maps/m1026_1.1538038028389.Chip.csv"
+ },
+ {
+  "name": "Commodity.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1026_1.1538038028390.Commodity.csv",
+  "hash": "70a51f2c7abf10767b94298c4570f5cf",
+  "key": "sandbox/games/maps/m1026_1.1538038028390.Commodity.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1026_1.1575274161008.config.yml",
+  "hash": "257eb9dda13848ae090ed32abf539f8b",
+  "key": "sandbox/games/maps/m1026_1.1575274161008.config.yml"
+ },
+ {
+  "name": "Round.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1026_1.1538038028393.Round.csv",
+  "hash": "12c6e6d1d50076d18f9d98fcaa9ee696",
+  "key": "sandbox/games/maps/m1026_1.1538038028393.Round.csv"
+ },
+ {
+  "name": "Skill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1026_1.1538038028394.Skill.csv",
+  "hash": "760b1e4335d380d8ce77808b7bc0b894",
+  "key": "sandbox/games/maps/m1026_1.1538038028394.Skill.csv"
+ },
+ {
+  "name": "Title.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1026_1.1538038028395.Title.csv",
+  "hash": "cacad861199b203c37c706e3a70b863f",
+  "key": "sandbox/games/maps/m1026_1.1538038028395.Title.csv"
+ },
+ {
+  "name": "Chip.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1026_2.1538038102369.Chip.csv",
+  "hash": "0cce85668004962f3cf9b46204e3076c",
+  "key": "sandbox/games/maps/m1026_2.1538038102369.Chip.csv"
+ },
+ {
+  "name": "Commodity.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1026_2.1538038102371.Commodity.csv",
+  "hash": "70a51f2c7abf10767b94298c4570f5cf",
+  "key": "sandbox/games/maps/m1026_2.1538038102371.Commodity.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1026_2.1567568799168.config.yml",
+  "hash": "ca5d70c1b3bdb81467abe2d7114af1ab",
+  "key": "sandbox/games/maps/m1026_2.1567568799168.config.yml"
+ },
+ {
+  "name": "Round.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1026_2.1538038102373.Round.csv",
+  "hash": "6c0f2cf4169b7333c10dce19aa79a195",
+  "key": "sandbox/games/maps/m1026_2.1538038102373.Round.csv"
+ },
+ {
+  "name": "Skill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1026_2.1538038102374.Skill.csv",
+  "hash": "760b1e4335d380d8ce77808b7bc0b894",
+  "key": "sandbox/games/maps/m1026_2.1538038102374.Skill.csv"
+ },
+ {
+  "name": "Title.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1026_2.1538038102375.Title.csv",
+  "hash": "cacad861199b203c37c706e3a70b863f",
+  "key": "sandbox/games/maps/m1026_2.1538038102375.Title.csv"
+ }
+]
