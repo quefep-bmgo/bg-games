@@ -1,0 +1,292 @@
+{
+ "10066": {
+  "maps": [
+   {
+    "configFiles": [],
+    "prefix": "ClanWar",
+    "maxgame": 3,
+    "durl": "http://static.sandboxol.com/sandbox/games/maps/ClanWar.1520407714273.zip",
+    "name": "ClanWar_1_6"
+   }
+  ],
+  "pluginHash": "98cddaaf8347cc6a2e607b1f7f6cef98",
+  "id": "g1005",
+  "gamesetting": {
+   "teamminnum": 0,
+   "memnum": 30,
+   "nummin": 30,
+   "timeout": 30,
+   "teamgame": 0,
+   "teamnum": 0,
+   "nummax": 40
+  },
+  "plugin": "http://static.sandboxol.com/sandbox/games/plugins/ClanWar.1600697044409.zip",
+  "fileSize": 118585,
+  "fileCount": 103
+ },
+ "10064": {
+  "maps": [
+   {
+    "configFiles": [],
+    "prefix": "ClanWar",
+    "maxgame": 3,
+    "durl": "http://static.sandboxol.com/sandbox/games/maps/ClanWar.1520407714273.zip",
+    "name": "ClanWar_1_6"
+   }
+  ],
+  "pluginHash": "30ca602ce1a07c440722c574ffd29e57",
+  "id": "g1005",
+  "gamesetting": {
+   "teamminnum": 0,
+   "memnum": 30,
+   "nummin": 30,
+   "timeout": 30,
+   "teamgame": 0,
+   "teamnum": 0,
+   "nummax": 40
+  },
+  "plugin": "http://static.sandboxol.com/sandbox/games/plugins/ClanWar.1589364394174.zip"
+ },
+ "10065": {
+  "maps": [
+   {
+    "configFiles": [],
+    "prefix": "ClanWar",
+    "maxgame": 3,
+    "durl": "http://static.sandboxol.com/sandbox/games/maps/ClanWar.1520407714273.zip",
+    "name": "ClanWar_1_6"
+   }
+  ],
+  "pluginHash": "2b0936aa0efc677de9e8d7f9dcb47dea",
+  "id": "g1005",
+  "gamesetting": {
+   "teamminnum": 0,
+   "memnum": 30,
+   "nummin": 30,
+   "timeout": 30,
+   "teamgame": 0,
+   "teamnum": 0,
+   "nummax": 40
+  },
+  "plugin": "http://static.sandboxol.com/sandbox/games/plugins/ClanWar.1595300961402.zip"
+ },
+ "10057": {
+  "maps": [
+   {
+    "configFiles": [],
+    "prefix": "ClanWar",
+    "maxgame": 3,
+    "durl": "http://static.sandboxol.com/sandbox/games/maps/ClanWar.1520407714273.zip",
+    "name": "ClanWar_1_6"
+   }
+  ],
+  "pluginHash": "03689d10573457d7fd04fdfb4718ae50",
+  "id": "g1005",
+  "gamesetting": {
+   "teamminnum": 0,
+   "memnum": 30,
+   "nummin": 30,
+   "timeout": 30,
+   "teamgame": 0,
+   "teamnum": 0,
+   "nummax": 40
+  },
+  "plugin": "http://static.sandboxol.com/sandbox/games/plugins/ClanWar.1576290582723.zip"
+ },
+ "10062": {
+  "maps": [
+   {
+    "configFiles": [],
+    "prefix": "ClanWar",
+    "maxgame": 3,
+    "durl": "http://static.sandboxol.com/sandbox/games/maps/ClanWar.1520407714273.zip",
+    "name": "ClanWar_1_6"
+   }
+  ],
+  "pluginHash": "d92ad93b9ac2b9f5894f23c3d02aa7db",
+  "id": "g1005",
+  "gamesetting": {
+   "teamminnum": 0,
+   "memnum": 30,
+   "nummin": 30,
+   "timeout": 30,
+   "teamgame": 0,
+   "teamnum": 0,
+   "nummax": 40
+  },
+  "plugin": "http://static.sandboxol.com/sandbox/games/plugins/ClanWar.1584446163496.zip"
+ },
+ "10063": {
+  "maps": [
+   {
+    "configFiles": [],
+    "prefix": "ClanWar",
+    "maxgame": 3,
+    "durl": "http://static.sandboxol.com/sandbox/games/maps/ClanWar.1520407714273.zip",
+    "name": "ClanWar_1_6"
+   }
+  ],
+  "pluginHash": "0011db983591e0df5b719e319aa560f5",
+  "id": "g1005",
+  "gamesetting": {
+   "teamminnum": 0,
+   "memnum": 30,
+   "nummin": 30,
+   "timeout": 30,
+   "teamgame": 0,
+   "teamnum": 0,
+   "nummax": 40
+  },
+  "plugin": "http://static.sandboxol.com/sandbox/games/plugins/ClanWar.1587701325080.zip"
+ },
+ "10067": {
+  "maps": [
+   {
+    "configFiles": [],
+    "prefix": "ClanWar",
+    "maxgame": 3,
+    "durl": "http://static.sandboxol.com/sandbox/games/maps/ClanWar.1520407714273.zip",
+    "name": "ClanWar_1_6"
+   }
+  ],
+  "pluginHash": "0807b938057dbd68a1e198015efa6a12",
+  "id": "g1005",
+  "gamesetting": {
+   "teamminnum": 0,
+   "memnum": 30,
+   "nummin": 30,
+   "timeout": 30,
+   "teamgame": 0,
+   "teamnum": 0,
+   "nummax": 40
+  },
+  "plugin": "http://static.sandboxol.com/sandbox/games/plugins/ClanWar.1601173368338.zip",
+  "fileSize": 120221,
+  "fileCount": 103
+ },
+ "10068": {
+  "maps": [
+   {
+    "configFiles": [],
+    "prefix": "ClanWar",
+    "maxgame": 3,
+    "durl": "http://static.sandboxol.com/sandbox/games/maps/ClanWar.1520407714273.zip",
+    "name": "ClanWar_1_6"
+   }
+  ],
+  "pluginHash": "23e1d6c9ae3482e44922d37b8a5d9d71",
+  "id": "g1005",
+  "gamesetting": {
+   "teamminnum": 0,
+   "memnum": 30,
+   "nummin": 30,
+   "timeout": 30,
+   "teamgame": 0,
+   "teamnum": 0,
+   "nummax": 40
+  },
+  "plugin": "http://static.sandboxol.com/sandbox/games/plugins/ClanWar.1605683907896.zip",
+  "fileSize": 120199,
+  "fileCount": 103
+ },
+ "10069": {
+  "maps": [
+   {
+    "configFiles": [],
+    "prefix": "ClanWar",
+    "maxgame": 3,
+    "durl": "http://static.sandboxol.com/sandbox/games/maps/ClanWar.1520407714273.zip",
+    "name": "ClanWar_1_6"
+   }
+  ],
+  "pluginHash": "4310479fe140c1f140fb599864b5e933",
+  "id": "g1005",
+  "gamesetting": {
+   "teamminnum": 0,
+   "memnum": 30,
+   "nummin": 30,
+   "timeout": 30,
+   "teamgame": 0,
+   "teamnum": 0,
+   "nummax": 40
+  },
+  "plugin": "http://static.sandboxol.com/sandbox/games/plugins/ClanWar.1608886524753.zip",
+  "fileSize": 136727,
+  "fileCount": 117
+ },
+ "10070": {
+  "maps": [
+   {
+    "configFiles": [],
+    "prefix": "ClanWar",
+    "maxgame": 3,
+    "durl": "http://static.sandboxol.com/sandbox/games/maps/ClanWar.1520407714273.zip",
+    "name": "ClanWar_1_6"
+   }
+  ],
+  "pluginHash": "0b0baa108cad52341c87fe5133794d4e",
+  "id": "g1005",
+  "gamesetting": {
+   "teamminnum": 0,
+   "memnum": 30,
+   "nummin": 30,
+   "timeout": 30,
+   "teamgame": 0,
+   "teamnum": 0,
+   "nummax": 40
+  },
+  "plugin": "http://static.sandboxol.com/sandbox/games/plugins/ClanWar.1610158267264.zip",
+  "fileSize": 135221,
+  "fileCount": 117
+ },
+ "10071": {
+  "maps": [
+   {
+    "configFiles": [],
+    "prefix": "ClanWar",
+    "maxgame": 3,
+    "durl": "http://static.sandboxol.com/sandbox/games/maps/ClanWar.1520407714273.zip",
+    "name": "ClanWar_1_6"
+   }
+  ],
+  "pluginHash": "1fee4145d9864fcdcef8ec7d5a79c049",
+  "id": "g1005",
+  "gamesetting": {
+   "teamminnum": 0,
+   "memnum": 30,
+   "nummin": 30,
+   "timeout": 30,
+   "teamgame": 0,
+   "teamnum": 0,
+   "nummax": 40
+  },
+  "plugin": "http://static.sandboxol.com/sandbox/games/plugins/ClanWar.1616644761464.zip",
+  "fileSize": 136254,
+  "fileCount": 117
+ },
+ "10072": {
+  "maps": [
+   {
+    "configFiles": [],
+    "prefix": "ClanWar",
+    "maxgame": 3,
+    "durl": "http://static.sandboxol.com/sandbox/games/maps/ClanWar.1520407714273.zip",
+    "name": "ClanWar_1_6"
+   }
+  ],
+  "pluginHash": "0a54aa0ed3301362cfce84c7f319ccde",
+  "id": "g1005",
+  "gamesetting": {
+   "teamminnum": 0,
+   "memnum": 30,
+   "nummin": 30,
+   "timeout": 30,
+   "teamgame": 0,
+   "teamnum": 0,
+   "nummax": 40
+  },
+  "plugin": "http://static.sandboxol.com/sandbox/games/plugins/ClanWar.1617108843935.zip",
+  "fileSize": 139453,
+  "fileCount": 118
+ }
+}
