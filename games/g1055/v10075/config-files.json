@@ -1,0 +1,32 @@
+[
+ {
+  "name": "AdvancedScene.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1055_1.1607418334023.AdvancedScene.csv",
+  "hash": "764c8836de8c8d2b3be2ad6a8a565751",
+  "key": "sandbox/games/maps/m1055_1.1607418334023.AdvancedScene.csv"
+ },
+ {
+  "name": "AdvertSetting.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1055_1.1607418334027.AdvertSetting.csv",
+  "hash": "a3c932caeeb7d9f551d99405b162a881",
+  "key": "sandbox/games/maps/m1055_1.1607418334027.AdvertSetting.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1055_1.1607418334028.config.yml",
+  "hash": "8bee2543607451b90a45b9f12c66d996",
+  "key": "sandbox/games/maps/m1055_1.1607418334028.config.yml"
+ },
+ {
+  "name": "Monster.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1055_1.1607418334030.Monster.csv",
+  "hash": "1d1f00acceff575467c470bee9d636b5",
+  "key": "sandbox/games/maps/m1055_1.1607418334030.Monster.csv"
+ },
+ {
+  "name": "MonsterSkill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1055_1.1607418334031.MonsterSkill.csv",
+  "hash": "7be3c5a7d6996343fbc21db5451bdfc4",
+  "key": "sandbox/games/maps/m1055_1.1607418334031.MonsterSkill.csv"
+ }
+]
