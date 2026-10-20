@@ -1,0 +1,68 @@
+[
+ {
+  "name": "scene1.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1022_1.1537412766669.scene1.yml",
+  "hash": "88d16a3ebf4c9f0cc3bb57bc1dccd575",
+  "key": "sandbox/games/maps/m1022_1.1537412766669.scene1.yml"
+ },
+ {
+  "name": "money.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1022_1.1537412766671.money.yml",
+  "hash": "9716d4ba1da6abe216803915b20e5882",
+  "key": "sandbox/games/maps/m1022_1.1537412766671.money.yml"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1022_1.1537412766672.config.yml",
+  "hash": "f42dede3cf77d4a0a0d01cd78c05bff1",
+  "key": "sandbox/games/maps/m1022_1.1537412766672.config.yml"
+ },
+ {
+  "name": "SkillEffect.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1022_1.1537412766673.SkillEffect.csv",
+  "hash": "7930f68f0b962f022cfc155202451c47",
+  "key": "sandbox/games/maps/m1022_1.1537412766673.SkillEffect.csv"
+ },
+ {
+  "name": "Skill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1022_1.1537412766674.Skill.csv",
+  "hash": "086392ab1f1eac5f277f2e8bfa003335",
+  "key": "sandbox/games/maps/m1022_1.1537412766674.Skill.csv"
+ },
+ {
+  "name": "PotionEffect.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1022_1.1537412766675.PotionEffect.csv",
+  "hash": "da72569f796a2e0b2e2d6ae57a86e719",
+  "key": "sandbox/games/maps/m1022_1.1537412766675.PotionEffect.csv"
+ },
+ {
+  "name": "Occupation.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1022_1.1537412766676.Occupation.csv",
+  "hash": "daabd8bac061dbdbafa29ee1aecdf74a",
+  "key": "sandbox/games/maps/m1022_1.1537412766676.Occupation.csv"
+ },
+ {
+  "name": "Inventory.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1022_1.1537412766677.Inventory.csv",
+  "hash": "712c95ef8decd5fd093f46a3e024601b",
+  "key": "sandbox/games/maps/m1022_1.1537412766677.Inventory.csv"
+ },
+ {
+  "name": "FashionStore.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1022_1.1537412766678.FashionStore.csv",
+  "hash": "7f5ed8e3b74c0408633f373e0fe504f7",
+  "key": "sandbox/games/maps/m1022_1.1537412766678.FashionStore.csv"
+ },
+ {
+  "name": "Commodity.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1022_1.1537412766679.Commodity.csv",
+  "hash": "3b9967a77b0e3c2babd923a2caec6177",
+  "key": "sandbox/games/maps/m1022_1.1537412766679.Commodity.csv"
+ },
+ {
+  "name": "Arms.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1022_1.1537412766680.Arms.csv",
+  "hash": "a620df343513a86d59775507c8bef152",
+  "key": "sandbox/games/maps/m1022_1.1537412766680.Arms.csv"
+ }
+]
