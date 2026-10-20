@@ -1,0 +1,44 @@
+[
+ {
+  "name": "airplane.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1601.1565748158126.airplane.yml",
+  "hash": "ffb7e9efd3f1d4df5b38ac5a64699e39",
+  "key": "sandbox/games/maps/m1601.1565748158126.airplane.yml"
+ },
+ {
+  "name": "airsupport.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1601.1565748158128.airsupport.yml",
+  "hash": "7ea2fca5e14841e26dd74586c336d40a",
+  "key": "sandbox/games/maps/m1601.1565748158128.airsupport.yml"
+ },
+ {
+  "name": "chest.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1601.1565748158130.chest.yml",
+  "hash": "11e9a8005495aa2eec169b21fe941853",
+  "key": "sandbox/games/maps/m1601.1565748158130.chest.yml"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1601.1565748158131.config.yml",
+  "hash": "ef552b467dd0c341ac4c6935d0ee34d2",
+  "key": "sandbox/games/maps/m1601.1565748158131.config.yml"
+ },
+ {
+  "name": "map.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1601.1565748158132.map.yml",
+  "hash": "ea2852b3818d60102615ac891e5b4233",
+  "key": "sandbox/games/maps/m1601.1565748158132.map.yml"
+ },
+ {
+  "name": "vehicle.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1601.1565748158133.vehicle.yml",
+  "hash": "a8564521e078f7ef57ee561d41b74440",
+  "key": "sandbox/games/maps/m1601.1565748158133.vehicle.yml"
+ },
+ {
+  "name": "weapon.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1601.1565748158135.weapon.yml",
+  "hash": "1b7ba65f8a21098a35138c8a433cb82a",
+  "key": "sandbox/games/maps/m1601.1565748158135.weapon.yml"
+ }
+]
