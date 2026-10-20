@@ -1,0 +1,74 @@
+[
+ {
+  "name": "arms.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1019_1.1544670766579.arms.csv",
+  "hash": "54e08e62bf498dfd6a85e0945489b8c5",
+  "key": "sandbox/games/maps/m1019_1.1544670766579.arms.csv"
+ },
+ {
+  "name": "basement.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1019_1.1544670766581.basement.csv",
+  "hash": "42d701657c04ac134ed609792abb0ec8",
+  "key": "sandbox/games/maps/m1019_1.1544670766581.basement.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1019_1.1544670766582.config.yml",
+  "hash": "c5dcd0b4759a9f717b0be985ff316b9a",
+  "key": "sandbox/games/maps/m1019_1.1544670766582.config.yml"
+ },
+ {
+  "name": "equipment.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1019_1.1544670766583.equipment.csv",
+  "hash": "452795a9e1f5db87515a627c64e20f05",
+  "key": "sandbox/games/maps/m1019_1.1544670766583.equipment.csv"
+ },
+ {
+  "name": "game_level.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1019_1.1544670766584.game_level.csv",
+  "hash": "5e37379e458033a4476ead01fa08692c",
+  "key": "sandbox/games/maps/m1019_1.1544670766584.game_level.csv"
+ },
+ {
+  "name": "monster.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1019_1.1544670766585.monster.csv",
+  "hash": "78a9d1d439b07d3dab9fff9d107a5be7",
+  "key": "sandbox/games/maps/m1019_1.1544670766585.monster.csv"
+ },
+ {
+  "name": "monster_num.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1019_1.1544670766586.monster_num.csv",
+  "hash": "7de7e088486a63da3511317b34768a69",
+  "key": "sandbox/games/maps/m1019_1.1544670766586.monster_num.csv"
+ },
+ {
+  "name": "player_level.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1019_1.1544670766587.player_level.csv",
+  "hash": "c607aa5aa159614fae71bd503370008d",
+  "key": "sandbox/games/maps/m1019_1.1544670766587.player_level.csv"
+ },
+ {
+  "name": "scene1.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1019_1.1544670766588.scene1.yml",
+  "hash": "dea5a7e4b1d4da043968224563c21119",
+  "key": "sandbox/games/maps/m1019_1.1544670766588.scene1.yml"
+ },
+ {
+  "name": "scene2.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1019_1.1544670766589.scene2.yml",
+  "hash": "1f74ac77257ae4b114c303ab13d15426",
+  "key": "sandbox/games/maps/m1019_1.1544670766589.scene2.yml"
+ },
+ {
+  "name": "scene3.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1019_1.1544670766590.scene3.yml",
+  "hash": "63b9e45e0f506249316bf8f8bac62324",
+  "key": "sandbox/games/maps/m1019_1.1544670766590.scene3.yml"
+ },
+ {
+  "name": "skill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1019_1.1544670766591.skill.csv",
+  "hash": "7fcc37d99311f6418c80701f9ec39843",
+  "key": "sandbox/games/maps/m1019_1.1544670766591.skill.csv"
+ }
+]
