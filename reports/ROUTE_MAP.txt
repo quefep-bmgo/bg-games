@@ -1,0 +1,106 @@
+main-api-dev: 79 unique route-like paths
+inner-api-dev: 1 unique route-like paths
+game-service-api: 1 unique route-like paths
+game-service-dispatcher: 1 unique route-like paths
+
+=== live prefix -> decompiled endpoint inventory ===
+
+--- /user-api  (15 candidate endpoints from source)
+      /user/api/v1/file
+      /user/api/v1/app/auth-token
+      /user/api/v1/app/renew
+      /user/api/v1/app/set-password
+      /user/api/v1/app/login
+      /user/api/v1/login-out
+      /user/api/v1/user/password/modify
+      /clan/api/v1/clan/user/rank
+      /pay/api/v1/wealth/user
+      /user/api/v1/user/register
+      /user/api/v1/user/info
+      /user/api/v1/user/details/info
+      /user/api/v1/user/player/info
+      /user/api/v1/report/push
+      /user/api/v1/user/language
+
+--- /muser-api  (50 candidate endpoints from source)
+      /user/api/v1/file
+      /user/api/v1/app/auth-token
+      /user/api/v1/app/renew
+      /user/api/v1/app/set-password
+      /user/api/v1/app/login
+      /user/api/v1/login-out
+      /user/api/v1/user/password/modify
+      /clan/api/v1/clan/tribe/recommendation
+      /clan/api/v1/clan/tribe
+      /clan/api/v1/clan/tribe/member
+      /clan/api/v1/clan/tribe/base
+      /clan/api/v1/clan/tribe/member/remove
+      /clan/api/v1/clan/tribe/member/message
+      /clan/api/v1/clan/tribe/member/invite
+      /clan/api/v1/clan/tribe/member/agreement
+      /clan/api/v1/clan/tribe/member/rejection
+      /clan/api/v1/clan/tribe/member/agreement/invitation
+      /clan/api/v1/clan/tribe/member/rejection/invitation
+
+--- /creator-api  (52 candidate endpoints from source)
+      /activity/api/v1/activity/title
+      /activity/api/v1/activity/action
+      /activity/api/v1/lucky/turntable/gold/status
+      /activity/api/v1/lucky/turntable
+      /activity/api/v1/lucky/turntable/block/reward
+      /clan/api/v1/clan/tribe/recommendation
+      /clan/api/v1/clan/tribe
+      /clan/api/v1/clan/tribe/member
+      /clan/api/v1/clan/tribe/base
+      /clan/api/v1/clan/tribe/member/remove
+      /clan/api/v1/clan/tribe/member/message
+      /clan/api/v1/clan/tribe/member/invite
+      /clan/api/v1/clan/tribe/member/agreement
+      /clan/api/v1/clan/tribe/member/rejection
+      /clan/api/v1/clan/tribe/member/agreement/invitation
+      /clan/api/v1/clan/tribe/member/rejection/invitation
+      /clan/api/v1/clan/tribe/bulletin
+      /clan/api/v1/clan/decorations/purchase
+
+--- /editor-api  (1 candidate endpoints from source)
+      /game/api/v1/games/resource/version
+
+--- /file-api  (1 candidate endpoints from source)
+      /user/api/v1/file
+
+--- /notice-api  (3 candidate endpoints from source)
+      /clan/api/v1/clan/tribe/bulletin
+      /game/api/v1/games/announcement/info
+      /game/api/v1/games/stop/announcement/info
+
+--- /event-api  (1 candidate endpoints from source)
+      /user/api/v1/report/push
+
+--- /inner-api  (2 candidate endpoints from source)
+      /v1/dispatch
+      /game/api/v1/game/chat/room
+
+--- /admin-api  (0 candidate endpoints from source)
+
+--- /version-api  (1 candidate endpoints from source)
+      /game/api/v1/games/resource/version
+
+--- /community-api  (0 candidate endpoints from source)
+
+--- /meditor-api  (16 candidate endpoints from source)
+      /game/api/v2/games/recommendation
+      /game/api/v1/games/playlist/recently
+      /game/api/v1/games/playlist/friends
+      /game/api/v1/games
+      /game/api/v2/game/auth
+      /game/api/v1/party/auth
+      /game/api/v1/games/resource/version
+      /game/api/v1/games/engine
+      /game/api/v1/game/chat/room
+      /game/api/v2/games/recommendation/type
+      /game/api/v1/games/all/open/party
+      /game/api/v1/games/app-engine/upgrade
+      /game/api/v1/games/announcement/info
+      /game/api/v1/games/stop/announcement/info
+      /game/api/v1/games/ugc
+      /game/api/v1/games/ugc/status

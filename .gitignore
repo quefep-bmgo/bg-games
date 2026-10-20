@@ -1,0 +1,19 @@
+# Local-only working data (not part of the published archive)
+/Copy of Copie de Blockman-Go (2).zip
+/DECRYPTED/
+/_capture/
+/_scan_data/
+/g1042_analysis/
+
+# Root-level loose copies are mirrored under reports/
+/*.md
+!README.md
+/*.csv
+/*.txt
+/*.xlsx
+
+# OS/editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
