@@ -1,0 +1,80 @@
+[
+ {
+  "name": "block.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1532691918757.block.csv",
+  "hash": "38ca1fb9e6ee8fd23f1cdd6189447d01",
+  "key": "sandbox/games/maps/m1024_1.1532691918757.block.csv"
+ },
+ {
+  "name": "commodity.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1532691918758.commodity.csv",
+  "hash": "d42c73b781582f69c561bbbfab1debe9",
+  "key": "sandbox/games/maps/m1024_1.1532691918758.commodity.csv"
+ },
+ {
+  "name": "item.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1532691918759.item.csv",
+  "hash": "0c4286d66dfe702748ea57f26183384f",
+  "key": "sandbox/games/maps/m1024_1.1532691918759.item.csv"
+ },
+ {
+  "name": "jewel.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1532691918760.jewel.csv",
+  "hash": "04928e8d4906ca2a7518d8cdb6f180e5",
+  "key": "sandbox/games/maps/m1024_1.1532691918760.jewel.csv"
+ },
+ {
+  "name": "mine.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1532691918762.mine.csv",
+  "hash": "36d0b96cbfde2d952a47e6148d3e4595",
+  "key": "sandbox/games/maps/m1024_1.1532691918762.mine.csv"
+ },
+ {
+  "name": "mineArea.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1532691918762.mineArea.csv",
+  "hash": "79ce31b58853f449d4d5527c237d3adc",
+  "key": "sandbox/games/maps/m1024_1.1532691918762.mineArea.csv"
+ },
+ {
+  "name": "noDropItem.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1532691918764.noDropItem.csv",
+  "hash": "a55d31ea454ec4c3badc1ee9d8c45912",
+  "key": "sandbox/games/maps/m1024_1.1532691918764.noDropItem.csv"
+ },
+ {
+  "name": "resource.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1532691918765.resource.csv",
+  "hash": "d5d5c9c3d1d6f9ee48c4293966f09751",
+  "key": "sandbox/games/maps/m1024_1.1532691918765.resource.csv"
+ },
+ {
+  "name": "sessionNpc.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1532691918766.sessionNpc.csv",
+  "hash": "eb9ab7fdbac16bed16e30ea04ab79b27",
+  "key": "sandbox/games/maps/m1024_1.1532691918766.sessionNpc.csv"
+ },
+ {
+  "name": "teams.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1532691918767.teams.csv",
+  "hash": "c5b1c4b5645bf41152b629685501829b",
+  "key": "sandbox/games/maps/m1024_1.1532691918767.teams.csv"
+ },
+ {
+  "name": "tools.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1532691918768.tools.csv",
+  "hash": "42a98e1f0c76f301001d0ced8eb65edb",
+  "key": "sandbox/games/maps/m1024_1.1532691918768.tools.csv"
+ },
+ {
+  "name": "toolsShop.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1532691918769.toolsShop.csv",
+  "hash": "0dbc22adf7f95955365b4822f0c1781c",
+  "key": "sandbox/games/maps/m1024_1.1532691918769.toolsShop.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1024_1.1567415761610.config.yml",
+  "hash": "a7f88528c6a79ad561629651d4d18405",
+  "key": "sandbox/games/maps/m1024_1.1567415761610.config.yml"
+ }
+]
