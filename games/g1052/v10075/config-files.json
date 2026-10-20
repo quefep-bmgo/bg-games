@@ -1,0 +1,56 @@
+[
+ {
+  "name": "hardness.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1052_2.1564366546869.hardness.csv",
+  "hash": "60e4382b54a1e97d84f8779eeadf28d3",
+  "key": "sandbox/games/maps/m1052_2.1564366546869.hardness.csv"
+ },
+ {
+  "name": "manor.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1052_2.1564366546871.manor.csv",
+  "hash": "19c3d9502c18be237a29a570c661d814",
+  "key": "sandbox/games/maps/m1052_2.1564366546871.manor.csv"
+ },
+ {
+  "name": "manorLevel.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1052_2.1564366546873.manorLevel.csv",
+  "hash": "b12070f540cdbd1e3198f93ffec20427",
+  "key": "sandbox/games/maps/m1052_2.1564366546873.manorLevel.csv"
+ },
+ {
+  "name": "playerLevel.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1052_2.1564366546875.playerLevel.csv",
+  "hash": "7e0523f517349834ff5e54184e0487f6",
+  "key": "sandbox/games/maps/m1052_2.1564366546875.playerLevel.csv"
+ },
+ {
+  "name": "preinstall.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1052_2.1564366546877.preinstall.csv",
+  "hash": "9161a26d45dafcc540bfde5baa717698",
+  "key": "sandbox/games/maps/m1052_2.1564366546877.preinstall.csv"
+ },
+ {
+  "name": "sessionNpc.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1052_2.1564366546878.sessionNpc.csv",
+  "hash": "05ebd77d47bfc5361bcee0bff68bac77",
+  "key": "sandbox/games/maps/m1052_2.1564366546878.sessionNpc.csv"
+ },
+ {
+  "name": "store.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1052_2.1564366546879.store.csv",
+  "hash": "565bfbb88f6e47d1e9f404b31d7aa595",
+  "key": "sandbox/games/maps/m1052_2.1564366546879.store.csv"
+ },
+ {
+  "name": "tag.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1052_2.1564366546880.tag.csv",
+  "hash": "e7e9aed9b91ba50fed624032cf0b3c2e",
+  "key": "sandbox/games/maps/m1052_2.1564366546880.tag.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1052_2.1564366546881.config.yml",
+  "hash": "7fd9722d0023f6aafb4940a2a9216997",
+  "key": "sandbox/games/maps/m1052_2.1564366546881.config.yml"
+ }
+]
