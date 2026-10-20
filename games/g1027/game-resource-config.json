@@ -1,0 +1,1624 @@
+{
+ "10068": {
+  "maps": [
+   {
+    "configFiles": [
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724027.AppProps.csv",
+      "hash": "03882c17a7f31ce2bb01931b99fd7e5b",
+      "name": "AppProps.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724027.AppProps.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724030.block.csv",
+      "hash": "fa7f821ee3d7ad7292e546581a68896f",
+      "name": "block.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724030.block.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv",
+      "hash": "c3f257d8fd8810dd5192081d3d380e01",
+      "name": "blockHardness.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724034.chest.csv",
+      "hash": "5a59a154db20bf6a0cea19d33cd85275",
+      "name": "chest.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724034.chest.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724036.chestArea.csv",
+      "hash": "306eded8e3f349e173ebead9aca15f42",
+      "name": "chestArea.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724036.chestArea.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv",
+      "hash": "787f1896fabefdc6a30f9664ff6ecfa5",
+      "name": "chestTeam.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724041.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156",
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1571816724041.config.yml"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv",
+      "hash": "0a5aabdef5625cc042418e05258d9fc6",
+      "name": "enchantmentShop.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724044.playerItem.csv",
+      "hash": "7bd7087e9e912c519fbc461ea2a3c3e8",
+      "name": "playerItem.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724044.playerItem.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724046.respawn.csv",
+      "hash": "72657402d04fd4d20664c0a1f04fcb29",
+      "name": "respawn.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724046.respawn.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724047.teams.csv",
+      "hash": "de017233758a087bdfcdd108835efccc",
+      "name": "teams.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724047.teams.csv"
+     }
+    ],
+    "mapHash": "ce0cadbcd33f92ac144bf3cb465c8f29",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1571816720524.zip",
+    "name": "m1027_1"
+   }
+  ],
+  "pluginHash": "30ec4b03e458a4bbcc0d530eeafc457d",
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/SkyRoyale.1608544804903.zip",
+  "fileSize": 129172,
+  "fileCount": 117
+ },
+ "10069": {
+  "maps": [
+   {
+    "configFiles": [
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724027.AppProps.csv",
+      "hash": "03882c17a7f31ce2bb01931b99fd7e5b",
+      "name": "AppProps.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724027.AppProps.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724030.block.csv",
+      "hash": "fa7f821ee3d7ad7292e546581a68896f",
+      "name": "block.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724030.block.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv",
+      "hash": "c3f257d8fd8810dd5192081d3d380e01",
+      "name": "blockHardness.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724034.chest.csv",
+      "hash": "5a59a154db20bf6a0cea19d33cd85275",
+      "name": "chest.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724034.chest.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724036.chestArea.csv",
+      "hash": "306eded8e3f349e173ebead9aca15f42",
+      "name": "chestArea.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724036.chestArea.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv",
+      "hash": "787f1896fabefdc6a30f9664ff6ecfa5",
+      "name": "chestTeam.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724041.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156",
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1571816724041.config.yml"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv",
+      "hash": "0a5aabdef5625cc042418e05258d9fc6",
+      "name": "enchantmentShop.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724044.playerItem.csv",
+      "hash": "7bd7087e9e912c519fbc461ea2a3c3e8",
+      "name": "playerItem.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724044.playerItem.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724046.respawn.csv",
+      "hash": "72657402d04fd4d20664c0a1f04fcb29",
+      "name": "respawn.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724046.respawn.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724047.teams.csv",
+      "hash": "de017233758a087bdfcdd108835efccc",
+      "name": "teams.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724047.teams.csv"
+     }
+    ],
+    "mapHash": "ce0cadbcd33f92ac144bf3cb465c8f29",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1571816720524.zip",
+    "name": "m1027_1"
+   }
+  ],
+  "pluginHash": "bebd7c8567a38cb55323de6759651ec5",
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/SkyRoyale.1608886527000.zip",
+  "fileSize": 145639,
+  "fileCount": 131
+ },
+ "10070": {
+  "maps": [
+   {
+    "configFiles": [
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724027.AppProps.csv",
+      "hash": "03882c17a7f31ce2bb01931b99fd7e5b",
+      "name": "AppProps.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724027.AppProps.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724030.block.csv",
+      "hash": "fa7f821ee3d7ad7292e546581a68896f",
+      "name": "block.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724030.block.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv",
+      "hash": "c3f257d8fd8810dd5192081d3d380e01",
+      "name": "blockHardness.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724034.chest.csv",
+      "hash": "5a59a154db20bf6a0cea19d33cd85275",
+      "name": "chest.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724034.chest.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724036.chestArea.csv",
+      "hash": "306eded8e3f349e173ebead9aca15f42",
+      "name": "chestArea.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724036.chestArea.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv",
+      "hash": "787f1896fabefdc6a30f9664ff6ecfa5",
+      "name": "chestTeam.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724041.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156",
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1571816724041.config.yml"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv",
+      "hash": "0a5aabdef5625cc042418e05258d9fc6",
+      "name": "enchantmentShop.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724044.playerItem.csv",
+      "hash": "7bd7087e9e912c519fbc461ea2a3c3e8",
+      "name": "playerItem.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724044.playerItem.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724046.respawn.csv",
+      "hash": "72657402d04fd4d20664c0a1f04fcb29",
+      "name": "respawn.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724046.respawn.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724047.teams.csv",
+      "hash": "de017233758a087bdfcdd108835efccc",
+      "name": "teams.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724047.teams.csv"
+     }
+    ],
+    "mapHash": "ce0cadbcd33f92ac144bf3cb465c8f29",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1571816720524.zip",
+    "name": "m1027_1"
+   }
+  ],
+  "pluginHash": "d3198a454022c7c54d2ad2030e00fb5a",
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/SkyRoyale.1610158271149.zip",
+  "fileSize": 144130,
+  "fileCount": 131
+ },
+ "10071": {
+  "maps": [
+   {
+    "configFiles": [
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724027.AppProps.csv",
+      "hash": "03882c17a7f31ce2bb01931b99fd7e5b",
+      "name": "AppProps.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724027.AppProps.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724030.block.csv",
+      "hash": "fa7f821ee3d7ad7292e546581a68896f",
+      "name": "block.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724030.block.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv",
+      "hash": "c3f257d8fd8810dd5192081d3d380e01",
+      "name": "blockHardness.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724034.chest.csv",
+      "hash": "5a59a154db20bf6a0cea19d33cd85275",
+      "name": "chest.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724034.chest.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724036.chestArea.csv",
+      "hash": "306eded8e3f349e173ebead9aca15f42",
+      "name": "chestArea.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724036.chestArea.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv",
+      "hash": "787f1896fabefdc6a30f9664ff6ecfa5",
+      "name": "chestTeam.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724041.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156",
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1571816724041.config.yml"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv",
+      "hash": "0a5aabdef5625cc042418e05258d9fc6",
+      "name": "enchantmentShop.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724044.playerItem.csv",
+      "hash": "7bd7087e9e912c519fbc461ea2a3c3e8",
+      "name": "playerItem.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724044.playerItem.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724046.respawn.csv",
+      "hash": "72657402d04fd4d20664c0a1f04fcb29",
+      "name": "respawn.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724046.respawn.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724047.teams.csv",
+      "hash": "de017233758a087bdfcdd108835efccc",
+      "name": "teams.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724047.teams.csv"
+     }
+    ],
+    "mapHash": "ce0cadbcd33f92ac144bf3cb465c8f29",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1571816720524.zip",
+    "name": "m1027_1"
+   }
+  ],
+  "pluginHash": "9329d10a0117076e5d31daca7ebd8468",
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/SkyRoyale.1616644763714.zip",
+  "fileSize": 145166,
+  "fileCount": 131
+ },
+ "10072": {
+  "maps": [
+   {
+    "configFiles": [
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724027.AppProps.csv",
+      "hash": "03882c17a7f31ce2bb01931b99fd7e5b",
+      "name": "AppProps.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724027.AppProps.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724030.block.csv",
+      "hash": "fa7f821ee3d7ad7292e546581a68896f",
+      "name": "block.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724030.block.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv",
+      "hash": "c3f257d8fd8810dd5192081d3d380e01",
+      "name": "blockHardness.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724034.chest.csv",
+      "hash": "5a59a154db20bf6a0cea19d33cd85275",
+      "name": "chest.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724034.chest.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724036.chestArea.csv",
+      "hash": "306eded8e3f349e173ebead9aca15f42",
+      "name": "chestArea.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724036.chestArea.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv",
+      "hash": "787f1896fabefdc6a30f9664ff6ecfa5",
+      "name": "chestTeam.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724041.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156",
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1571816724041.config.yml"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv",
+      "hash": "0a5aabdef5625cc042418e05258d9fc6",
+      "name": "enchantmentShop.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724044.playerItem.csv",
+      "hash": "7bd7087e9e912c519fbc461ea2a3c3e8",
+      "name": "playerItem.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724044.playerItem.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724046.respawn.csv",
+      "hash": "72657402d04fd4d20664c0a1f04fcb29",
+      "name": "respawn.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724046.respawn.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724047.teams.csv",
+      "hash": "de017233758a087bdfcdd108835efccc",
+      "name": "teams.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724047.teams.csv"
+     }
+    ],
+    "mapHash": "ce0cadbcd33f92ac144bf3cb465c8f29",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1571816720524.zip",
+    "name": "m1027_1"
+   }
+  ],
+  "pluginHash": "22df1d7dc77a35a255694b8cf6f9d094",
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/SkyRoyale.1617108853638.zip",
+  "fileSize": 148469,
+  "fileCount": 132
+ },
+ "10073": {
+  "maps": [
+   {
+    "configFiles": [
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724027.AppProps.csv",
+      "hash": "03882c17a7f31ce2bb01931b99fd7e5b",
+      "name": "AppProps.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724027.AppProps.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724030.block.csv",
+      "hash": "fa7f821ee3d7ad7292e546581a68896f",
+      "name": "block.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724030.block.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv",
+      "hash": "c3f257d8fd8810dd5192081d3d380e01",
+      "name": "blockHardness.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724034.chest.csv",
+      "hash": "5a59a154db20bf6a0cea19d33cd85275",
+      "name": "chest.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724034.chest.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724036.chestArea.csv",
+      "hash": "306eded8e3f349e173ebead9aca15f42",
+      "name": "chestArea.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724036.chestArea.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv",
+      "hash": "787f1896fabefdc6a30f9664ff6ecfa5",
+      "name": "chestTeam.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724041.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156",
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1571816724041.config.yml"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv",
+      "hash": "0a5aabdef5625cc042418e05258d9fc6",
+      "name": "enchantmentShop.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724044.playerItem.csv",
+      "hash": "7bd7087e9e912c519fbc461ea2a3c3e8",
+      "name": "playerItem.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724044.playerItem.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724046.respawn.csv",
+      "hash": "72657402d04fd4d20664c0a1f04fcb29",
+      "name": "respawn.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724046.respawn.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724047.teams.csv",
+      "hash": "de017233758a087bdfcdd108835efccc",
+      "name": "teams.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724047.teams.csv"
+     }
+    ],
+    "mapHash": "ce0cadbcd33f92ac144bf3cb465c8f29",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1571816720524.zip",
+    "name": "m1027_1"
+   }
+  ],
+  "pluginHash": "38dbfdacd245961c4262e13a075f7385",
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1618816607701.zip",
+  "fileSize": 260569,
+  "fileCount": 227
+ },
+ "10074": {
+  "maps": [
+   {
+    "configFiles": [
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724027.AppProps.csv",
+      "hash": "03882c17a7f31ce2bb01931b99fd7e5b",
+      "name": "AppProps.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724027.AppProps.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724030.block.csv",
+      "hash": "fa7f821ee3d7ad7292e546581a68896f",
+      "name": "block.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724030.block.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv",
+      "hash": "c3f257d8fd8810dd5192081d3d380e01",
+      "name": "blockHardness.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724034.chest.csv",
+      "hash": "5a59a154db20bf6a0cea19d33cd85275",
+      "name": "chest.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724034.chest.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724036.chestArea.csv",
+      "hash": "306eded8e3f349e173ebead9aca15f42",
+      "name": "chestArea.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724036.chestArea.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv",
+      "hash": "787f1896fabefdc6a30f9664ff6ecfa5",
+      "name": "chestTeam.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724041.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156",
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1571816724041.config.yml"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv",
+      "hash": "0a5aabdef5625cc042418e05258d9fc6",
+      "name": "enchantmentShop.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724044.playerItem.csv",
+      "hash": "7bd7087e9e912c519fbc461ea2a3c3e8",
+      "name": "playerItem.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724044.playerItem.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724046.respawn.csv",
+      "hash": "72657402d04fd4d20664c0a1f04fcb29",
+      "name": "respawn.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724046.respawn.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724047.teams.csv",
+      "hash": "de017233758a087bdfcdd108835efccc",
+      "name": "teams.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724047.teams.csv"
+     }
+    ],
+    "mapHash": "ce0cadbcd33f92ac144bf3cb465c8f29",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1571816720524.zip",
+    "name": "m1027_1"
+   }
+  ],
+  "pluginHash": "38dbfdacd245961c4262e13a075f7385",
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1618816607701.zip",
+  "fileSize": 260569,
+  "fileCount": 227
+ },
+ "10075": {
+  "maps": [
+   {
+    "configFiles": [
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724027.AppProps.csv",
+      "hash": "03882c17a7f31ce2bb01931b99fd7e5b",
+      "name": "AppProps.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724027.AppProps.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724030.block.csv",
+      "hash": "fa7f821ee3d7ad7292e546581a68896f",
+      "name": "block.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724030.block.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv",
+      "hash": "c3f257d8fd8810dd5192081d3d380e01",
+      "name": "blockHardness.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724034.chest.csv",
+      "hash": "5a59a154db20bf6a0cea19d33cd85275",
+      "name": "chest.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724034.chest.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724036.chestArea.csv",
+      "hash": "306eded8e3f349e173ebead9aca15f42",
+      "name": "chestArea.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724036.chestArea.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv",
+      "hash": "787f1896fabefdc6a30f9664ff6ecfa5",
+      "name": "chestTeam.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724041.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156",
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1571816724041.config.yml"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv",
+      "hash": "0a5aabdef5625cc042418e05258d9fc6",
+      "name": "enchantmentShop.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724044.playerItem.csv",
+      "hash": "7bd7087e9e912c519fbc461ea2a3c3e8",
+      "name": "playerItem.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724044.playerItem.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724046.respawn.csv",
+      "hash": "72657402d04fd4d20664c0a1f04fcb29",
+      "name": "respawn.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724046.respawn.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724047.teams.csv",
+      "hash": "de017233758a087bdfcdd108835efccc",
+      "name": "teams.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724047.teams.csv"
+     }
+    ],
+    "mapHash": "ce0cadbcd33f92ac144bf3cb465c8f29",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1571816720524.zip",
+    "name": "m1027_1"
+   }
+  ],
+  "pluginHash": "053ae8140adfd5a077319e35b411ae7a",
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1622017647260.zip",
+  "fileSize": 333886,
+  "fileCount": 274
+ },
+ "10076": {
+  "maps": [
+   {
+    "configFiles": [
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724027.AppProps.csv",
+      "hash": "03882c17a7f31ce2bb01931b99fd7e5b",
+      "name": "AppProps.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724027.AppProps.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724030.block.csv",
+      "hash": "fa7f821ee3d7ad7292e546581a68896f",
+      "name": "block.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724030.block.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv",
+      "hash": "c3f257d8fd8810dd5192081d3d380e01",
+      "name": "blockHardness.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724034.chest.csv",
+      "hash": "5a59a154db20bf6a0cea19d33cd85275",
+      "name": "chest.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724034.chest.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724036.chestArea.csv",
+      "hash": "306eded8e3f349e173ebead9aca15f42",
+      "name": "chestArea.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724036.chestArea.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv",
+      "hash": "787f1896fabefdc6a30f9664ff6ecfa5",
+      "name": "chestTeam.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724041.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156",
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1571816724041.config.yml"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv",
+      "hash": "0a5aabdef5625cc042418e05258d9fc6",
+      "name": "enchantmentShop.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724044.playerItem.csv",
+      "hash": "7bd7087e9e912c519fbc461ea2a3c3e8",
+      "name": "playerItem.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724044.playerItem.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724046.respawn.csv",
+      "hash": "72657402d04fd4d20664c0a1f04fcb29",
+      "name": "respawn.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724046.respawn.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724047.teams.csv",
+      "hash": "de017233758a087bdfcdd108835efccc",
+      "name": "teams.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724047.teams.csv"
+     }
+    ],
+    "mapHash": "ce0cadbcd33f92ac144bf3cb465c8f29",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1571816720524.zip",
+    "name": "m1027_1"
+   }
+  ],
+  "pluginHash": "2529dcfd75d4dbae25900e6c30a84aa1",
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1622268659208.zip",
+  "fileSize": 332720,
+  "fileCount": 273
+ },
+ "10077": {
+  "maps": [
+   {
+    "configFiles": [
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724027.AppProps.csv",
+      "hash": "03882c17a7f31ce2bb01931b99fd7e5b",
+      "name": "AppProps.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724027.AppProps.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724030.block.csv",
+      "hash": "fa7f821ee3d7ad7292e546581a68896f",
+      "name": "block.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724030.block.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv",
+      "hash": "c3f257d8fd8810dd5192081d3d380e01",
+      "name": "blockHardness.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724032.blockHardness.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724034.chest.csv",
+      "hash": "5a59a154db20bf6a0cea19d33cd85275",
+      "name": "chest.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724034.chest.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724036.chestArea.csv",
+      "hash": "306eded8e3f349e173ebead9aca15f42",
+      "name": "chestArea.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724036.chestArea.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv",
+      "hash": "787f1896fabefdc6a30f9664ff6ecfa5",
+      "name": "chestTeam.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724039.chestTeam.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724041.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156",
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1571816724041.config.yml"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv",
+      "hash": "0a5aabdef5625cc042418e05258d9fc6",
+      "name": "enchantmentShop.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724042.enchantmentShop.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724044.playerItem.csv",
+      "hash": "7bd7087e9e912c519fbc461ea2a3c3e8",
+      "name": "playerItem.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724044.playerItem.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724046.respawn.csv",
+      "hash": "72657402d04fd4d20664c0a1f04fcb29",
+      "name": "respawn.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724046.respawn.csv"
+     },
+     {
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1571816724047.teams.csv",
+      "hash": "de017233758a087bdfcdd108835efccc",
+      "name": "teams.csv",
+      "key": "sandbox/games/maps/m1027_1.1571816724047.teams.csv"
+     }
+    ],
+    "mapHash": "ce0cadbcd33f92ac144bf3cb465c8f29",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1571816720524.zip",
+    "name": "m1027_1"
+   }
+  ],
+  "pluginHash": "2529dcfd75d4dbae25900e6c30a84aa1",
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1622268659208.zip",
+  "fileSize": 332720,
+  "fileCount": 273
+ },
+ "10079": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1629473661829.zip",
+  "pluginHash": "d6d79dee045804a7d807f00c6f9bbbc2",
+  "fileSize": 375360,
+  "fileCount": 307,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082515981.zip",
+    "mapHash": "cf55e46730bdf580cfbf562b7520668f",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3735992,
+    "fileCount": 35
+   }
+  ],
+  "mapsStaging": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628154510397.zip",
+    "mapHash": "ea24a7939983c5a25496100db7535a63",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628154512677.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628154512677.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3736016,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10080": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1629275619360.zip",
+  "pluginHash": "5ff25f0a58d5f5e5713e3ab33848e02b",
+  "fileSize": 375643,
+  "fileCount": 307,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082515981.zip",
+    "mapHash": "cf55e46730bdf580cfbf562b7520668f",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3735992,
+    "fileCount": 35
+   }
+  ],
+  "mapsStaging": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628154510397.zip",
+    "mapHash": "ea24a7939983c5a25496100db7535a63",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628154512677.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628154512677.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3736016,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10082": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1632454532892.zip",
+  "pluginHash": "b5b4f49ad9f49075c354df1d4d1e24f3",
+  "fileSize": 394223,
+  "fileCount": 323,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082515981.zip",
+    "mapHash": "cf55e46730bdf580cfbf562b7520668f",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3735992,
+    "fileCount": 35
+   }
+  ],
+  "mapsStaging": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628154510397.zip",
+    "mapHash": "ea24a7939983c5a25496100db7535a63",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628154512677.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628154512677.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3736016,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10083": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1636535539498.zip",
+  "pluginHash": "1a30cc545605896758184592d18a8dcd",
+  "fileSize": 356527,
+  "fileCount": 290,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082515981.zip",
+    "mapHash": "cf55e46730bdf580cfbf562b7520668f",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3735992,
+    "fileCount": 35
+   }
+  ],
+  "mapsStaging": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628154510397.zip",
+    "mapHash": "ea24a7939983c5a25496100db7535a63",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628154512677.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628154512677.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3736016,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10084": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1638628580625.zip",
+  "pluginHash": "0ef5a95c21735317ad97f323586f4e02",
+  "fileSize": 360091,
+  "fileCount": 292,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082515981.zip",
+    "mapHash": "cf55e46730bdf580cfbf562b7520668f",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3735992,
+    "fileCount": 35
+   }
+  ],
+  "mapsStaging": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628154510397.zip",
+    "mapHash": "ea24a7939983c5a25496100db7535a63",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628154512677.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628154512677.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3736016,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10085": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1640702647059.zip",
+  "pluginHash": "8ae4abf9ac8ee5ce5625c1b10085d01c",
+  "fileSize": 360996,
+  "fileCount": 292,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082515981.zip",
+    "mapHash": "cf55e46730bdf580cfbf562b7520668f",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3735992,
+    "fileCount": 35
+   }
+  ],
+  "mapsStaging": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628154510397.zip",
+    "mapHash": "ea24a7939983c5a25496100db7535a63",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628154512677.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628154512677.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3736016,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10086": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1642087286065.zip",
+  "pluginHash": "99039dc6c1f7fec6f50306eae170e9d9",
+  "fileSize": 365909,
+  "fileCount": 296,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082515981.zip",
+    "mapHash": "cf55e46730bdf580cfbf562b7520668f",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3735992,
+    "fileCount": 35
+   }
+  ],
+  "mapsStaging": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1641985233477.zip",
+    "mapHash": "9a2ba55b1aca7776c566c565a83d47f7",
+    "configFiles": [],
+    "fileSize": 3736017,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10087": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1646916042483.zip",
+  "pluginHash": "552c4fe3116170608519cf3d9c437ee0",
+  "fileSize": 423227,
+  "fileCount": 310,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082515981.zip",
+    "mapHash": "cf55e46730bdf580cfbf562b7520668f",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3735992,
+    "fileCount": 35
+   }
+  ],
+  "mapsStaging": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1641985233477.zip",
+    "mapHash": "9a2ba55b1aca7776c566c565a83d47f7",
+    "configFiles": [],
+    "fileSize": 3736017,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10088": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1648538921734.zip",
+  "pluginHash": "02162f29c121d0a1339bb3b00e68e227",
+  "fileSize": 423724,
+  "fileCount": 310,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082515981.zip",
+    "mapHash": "cf55e46730bdf580cfbf562b7520668f",
+    "configFiles": [
+     {
+      "name": "config.yml",
+      "key": "sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1628082518319.config.yml",
+      "hash": "bb1029ec7c793a1d32c625ef5075b156"
+     }
+    ],
+    "fileSize": 3735992,
+    "fileCount": 35
+   }
+  ],
+  "mapsStaging": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1641985233477.zip",
+    "mapHash": "9a2ba55b1aca7776c566c565a83d47f7",
+    "configFiles": [],
+    "fileSize": 3736017,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10090": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1653619592289.zip",
+  "pluginHash": "69b5c40713bbcffc6f5ff46ee0ba0d35",
+  "fileSize": 437177,
+  "fileCount": 319,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1653622240984.zip",
+    "mapHash": "06d2bb36b2c2fd68cf75974ef9953300",
+    "configFiles": [],
+    "fileSize": 3736015,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10091": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1663728459439.zip",
+  "pluginHash": "e18a31ca9291309ace6774f8a3a0c3ae",
+  "fileSize": 457091,
+  "fileCount": 340,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1653622240984.zip",
+    "mapHash": "06d2bb36b2c2fd68cf75974ef9953300",
+    "configFiles": [],
+    "fileSize": 3736015,
+    "fileCount": 35
+   }
+  ],
+  "pluginStaging": {
+   "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1664444856833.zip",
+   "pluginHash": "e3321754931e45a5269e949cc7184f9c",
+   "fileSize": 457264,
+   "fileCount": 340
+  }
+ },
+ "10093": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1669712439584.zip",
+  "pluginHash": "788ef50ea4bdfd14300d426977a7e77b",
+  "fileSize": 465937,
+  "fileCount": 357,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1653622240984.zip",
+    "mapHash": "06d2bb36b2c2fd68cf75974ef9953300",
+    "configFiles": [],
+    "fileSize": 3736015,
+    "fileCount": 35
+   }
+  ],
+  "pluginStaging": {
+   "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1670584794374.zip",
+   "pluginHash": "cc708b2b00d0efb9abc428cd483dbcc8",
+   "fileSize": 495161,
+   "fileCount": 378
+  }
+ },
+ "10095": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1669712439584.zip",
+  "pluginHash": "788ef50ea4bdfd14300d426977a7e77b",
+  "fileSize": 465937,
+  "fileCount": 357,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1653622240984.zip",
+    "mapHash": "06d2bb36b2c2fd68cf75974ef9953300",
+    "configFiles": [],
+    "fileSize": 3736015,
+    "fileCount": 35
+   }
+  ],
+  "pluginStaging": {
+   "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1670584794374.zip",
+   "pluginHash": "cc708b2b00d0efb9abc428cd483dbcc8",
+   "fileSize": 495161,
+   "fileCount": 378
+  }
+ },
+ "10096": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1677045820119.zip",
+  "pluginHash": "5e8c20fdeea28116833e920f66b91e67",
+  "fileSize": 545354,
+  "fileCount": 413,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_1.1671625336102.zip",
+    "mapHash": "e2de1f05f8bd5b0fbe2934030959df2d",
+    "configFiles": [],
+    "fileSize": 3736014,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10097": {
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1679366512193.zip",
+  "pluginHash": "05dc15bdac858ab0a2522a8e59671f32",
+  "fileSize": 546653,
+  "fileCount": 413,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1679368543695.zip",
+    "mapHash": "8c2635aaedc7e0cc11bff975cd5f28bb",
+    "configFiles": [],
+    "fileSize": 3736016,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10098": {
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1686899534475.zip",
+  "pluginHash": "5e9b1852ff651ef334fef5dd11ef6127",
+  "fileSize": 549640,
+  "fileCount": 413,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1679368543695.zip",
+    "mapHash": "8c2635aaedc7e0cc11bff975cd5f28bb",
+    "configFiles": [],
+    "fileSize": 3736016,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10099": {
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1687241312237.zip",
+  "pluginHash": "374a615d821dd09b581edea5270d9488",
+  "fileSize": 560196,
+  "fileCount": 423,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1686918415882.zip",
+    "mapHash": "c4870cf9bab0f414a9a85c146bdb5504",
+    "configFiles": [],
+    "fileSize": 3737341,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10100": {
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1690268704580.zip",
+  "pluginHash": "3aba19e2b085284b19b6494cff0adad6",
+  "fileSize": 566196,
+  "fileCount": 426,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1686918415882.zip",
+    "mapHash": "c4870cf9bab0f414a9a85c146bdb5504",
+    "configFiles": [],
+    "fileSize": 3737341,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10101": {
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1701070558640.zip",
+  "pluginHash": "eedd0ef3a197d5b2120a96ff7b2284e2",
+  "fileSize": 572720,
+  "fileCount": 429,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1686918415882.zip",
+    "mapHash": "c4870cf9bab0f414a9a85c146bdb5504",
+    "configFiles": [],
+    "fileSize": 3737341,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10102": {
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1701702757787.zip",
+  "pluginHash": "504773558535f6a21fd7eeb44ddf9eda",
+  "fileSize": 591801,
+  "fileCount": 432,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1686918415882.zip",
+    "mapHash": "c4870cf9bab0f414a9a85c146bdb5504",
+    "configFiles": [],
+    "fileSize": 3737341,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10103": {
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1703837367597.zip",
+  "pluginHash": "e235a6a007969a53b60c3421b3a3672d",
+  "fileSize": 590671,
+  "fileCount": 435,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1686918415882.zip",
+    "mapHash": "c4870cf9bab0f414a9a85c146bdb5504",
+    "configFiles": [],
+    "fileSize": 3737341,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10104": {
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1706500566688.zip",
+  "pluginHash": "8ac92e7d8899cb9a3774bf7769204f0c",
+  "fileSize": 589901,
+  "fileCount": 432,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1686918415882.zip",
+    "mapHash": "c4870cf9bab0f414a9a85c146bdb5504",
+    "configFiles": [],
+    "fileSize": 3737341,
+    "fileCount": 35
+   }
+  ],
+  "mapsStaging": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1706093009083.zip",
+    "mapHash": "fcf9208ef73a00f0f24792b64811c4cd",
+    "configFiles": [],
+    "fileSize": 3737339,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10105": {
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1720683593743.zip",
+  "pluginHash": "f665237a09da8fd91713fd3184161d27",
+  "fileSize": 993266,
+  "fileCount": 434,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1686918415882.zip",
+    "mapHash": "c4870cf9bab0f414a9a85c146bdb5504",
+    "configFiles": [],
+    "fileSize": 3737341,
+    "fileCount": 35
+   }
+  ],
+  "mapsStaging": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1715759931016.zip",
+    "mapHash": "a59c4d9c38e9f02122228bcc0bd23dbc",
+    "configFiles": [],
+    "fileSize": 3737342,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10106": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1721920881710.zip",
+  "pluginHash": "fad37c4098b2c2bea161c0dca50b0e2f",
+  "fileSize": 990405,
+  "fileCount": 434,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1721832214773.zip",
+    "mapHash": "78aabb641bdfdd4ebfcbc6d9149d8142",
+    "configFiles": [],
+    "fileSize": 3737341,
+    "fileCount": 35
+   }
+  ],
+  "mapsStaging": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1728907058367.zip",
+    "mapHash": "45f81ee0e767a8dc2772190475e2ffc1",
+    "configFiles": [],
+    "fileSize": 3737342,
+    "fileCount": 35
+   }
+  ],
+  "pluginStaging": {
+   "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1728907100433.zip",
+   "pluginHash": "9ffbb2e720e4f7802349c85ba4cec7a5",
+   "fileSize": 1278678,
+   "fileCount": 445
+  }
+ },
+ "10107": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1728896205276.zip",
+  "pluginHash": "b983325707a6220ffe2edc8b3e4e4b25",
+  "fileSize": 1311685,
+  "fileCount": 445,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1728898862518.zip",
+    "mapHash": "168b60cf08a28a7988446414c95a97d4",
+    "configFiles": [],
+    "fileSize": 3737341,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10108": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1728896205276.zip",
+  "pluginHash": "b983325707a6220ffe2edc8b3e4e4b25",
+  "fileSize": 1311685,
+  "fileCount": 445,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1728898862518.zip",
+    "mapHash": "168b60cf08a28a7988446414c95a97d4",
+    "configFiles": [],
+    "fileSize": 3737341,
+    "fileCount": 35
+   }
+  ]
+ },
+ "10109": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1736320901126.zip",
+  "pluginHash": "f9ad544947372311b06dfaf04a555fe9",
+  "fileSize": 1254618,
+  "fileCount": 4,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1736323125967.zip",
+    "mapHash": "5b44c33ee69ca943820f370da256ec8a",
+    "configFiles": [],
+    "fileSize": 3736211,
+    "fileCount": 26
+   }
+  ]
+ },
+ "10110": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1751618934512.zip",
+  "pluginHash": "77d253c05de4a425cc859c02d40f2082",
+  "fileSize": 1286256,
+  "fileCount": 4,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1736323125967.zip",
+    "mapHash": "5b44c33ee69ca943820f370da256ec8a",
+    "configFiles": [],
+    "fileSize": 3736211,
+    "fileCount": 26
+   },
+   {
+    "name": "m1027_2",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_2(2).1748426085604.zip",
+    "mapHash": "f9977d93da017d3e483639f6fb2664e9",
+    "configFiles": [],
+    "fileSize": 239736,
+    "fileCount": 36
+   }
+  ],
+  "mapsStaging": []
+ },
+ "10111": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1752730762143.zip",
+  "pluginHash": "bdfb7936b6076b49dd47b884f5004bd0",
+  "fileSize": 1293169,
+  "fileCount": 4,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1736323125967.zip",
+    "mapHash": "5b44c33ee69ca943820f370da256ec8a",
+    "configFiles": [],
+    "fileSize": 3736211,
+    "fileCount": 26
+   },
+   {
+    "name": "m1027_2",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_2(2).1748426085604.zip",
+    "mapHash": "f9977d93da017d3e483639f6fb2664e9",
+    "configFiles": [],
+    "fileSize": 239736,
+    "fileCount": 36
+   }
+  ],
+  "mapsStaging": []
+ },
+ "10112": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1761300428688.zip",
+  "pluginHash": "552932147b0e14bd0b064ea0486ac493",
+  "fileSize": 1307151,
+  "fileCount": 4,
+  "maps": [
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1736323125967.zip",
+    "mapHash": "5b44c33ee69ca943820f370da256ec8a",
+    "configFiles": [],
+    "fileSize": 3736211,
+    "fileCount": 26
+   },
+   {
+    "name": "m1027_2",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_2(2).1748426085604.zip",
+    "mapHash": "f9977d93da017d3e483639f6fb2664e9",
+    "configFiles": [],
+    "fileSize": 239736,
+    "fileCount": 36
+   }
+  ],
+  "mapsStaging": []
+ },
+ "10113": {
+  "id": "g1027",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1027.1770004394918.zip",
+  "pluginHash": "0977651c46bcedbe040631cad998955b",
+  "fileSize": 1372172,
+  "fileCount": 4,
+  "maps": [
+   {
+    "name": "m1027_2",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/m1027_2(2).1748426085604.zip",
+    "mapHash": "f9977d93da017d3e483639f6fb2664e9",
+    "configFiles": [],
+    "fileSize": 239736,
+    "fileCount": 36
+   },
+   {
+    "name": "m1027_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1027.1766549777645.zip",
+    "mapHash": "c0a45ce0a0e454496f020732f74745ed",
+    "configFiles": [],
+    "fileSize": 3736208,
+    "fileCount": 26
+   }
+  ]
+ }
+}
