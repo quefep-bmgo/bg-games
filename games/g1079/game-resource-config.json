@@ -1,0 +1,53 @@
+{
+ "10111": {
+  "id": "g1079",
+  "plugin": "http://txstaticgs.sandboxol.com/sandbox/games/plugins/g1079.1759032881552.zip",
+  "pluginHash": "22a73061650f3f478035412536232484",
+  "fileSize": 3682733,
+  "fileCount": 67,
+  "maps": [
+   {
+    "name": "m1079_1",
+    "durl": "http://txstaticgs.sandboxol.com/sandbox/games/maps/g1079.1759032892496.zip",
+    "mapHash": "ed3516f0dda947190d93f27ac5c76ea2",
+    "configFiles": [],
+    "fileSize": 1980641,
+    "fileCount": 95
+   }
+  ]
+ },
+ "10112": {
+  "id": "g1079",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1079.1768815846646.zip",
+  "pluginHash": "72863380b238456d8555c74edb1513c6",
+  "fileSize": 3754892,
+  "fileCount": 79,
+  "maps": [
+   {
+    "name": "m1079_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1079.1768815844999.zip",
+    "mapHash": "79eddadcdf950e98cc0319608bd967c2",
+    "configFiles": [],
+    "fileSize": 2095830,
+    "fileCount": 97
+   }
+  ]
+ },
+ "10113": {
+  "id": "g1079",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1079.1780574807675.zip",
+  "pluginHash": "cceac81eceb4b713224c46ee5c84ce2c",
+  "fileSize": 3825771,
+  "fileCount": 79,
+  "maps": [
+   {
+    "name": "m1079_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1079.1780574806452.zip",
+    "mapHash": "1c0760856823d724ef9bdc0f5b28f0fb",
+    "configFiles": [],
+    "fileSize": 2089355,
+    "fileCount": 97
+   }
+  ]
+ }
+}
