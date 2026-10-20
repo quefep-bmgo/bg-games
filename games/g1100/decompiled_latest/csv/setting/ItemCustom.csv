@@ -1,0 +1,18 @@
+ItemId	Name	Icon	MeshName	 ffectName	MaxStackSize	ClassName	Params	Rotation
+手持道具Id	多语言名称	对应Item图标	模型	手持特效（第一人称）	堆叠数量	类型	自定义��数	特定动作下旋转（转速#特定动作1#特定动作2#���.）
+508	Item_Name50800.name	npc	#	#	1	ItemCustom	#	0
+2701	Item_Name2701.name	respoint	#	#	1	ItemCustom	#	0
+2800	Item_?lag01.name	flag_01	#	#	1	ItemCustom	#	0
+2801	Item_?lag02.name	flag_02	#	#	1	ItemCustom	#	0
+2802	Item_?lag03.name	flag_03	#	#	1	ItemCustom	#	0
+2803	Item_?lag04.name	flag_04	#	#	1	ItemCustom	#	0
+2804	Item_?lag05.name	flag_05	#	#	1	ItemCustom	#	0
+2805	Item_?lag06.name	flag_06	#	#	1	ItemCustom	#	0
+2806	Item_?lag07.name	flag_07	#	#	1	ItemCustom	#	0
+2807	Item_?lag08.name	flag_08	#	#	1	ItemCustom	#	0
+2808	Item_?lag09.name	flag_09	#	#	1	ItemCustom	#	0
+2809	Item_?lag10.name	flag_10	#	#	1	ItemCustom	#	0
+2810	Item_?lag11.name	flag_11	#	#	1	ItemCustom	#	0
+2811	Item_?lag12.name	flag_12	#	#	1	ItemCustom	#	0
+506	Item_Name506.name	g1008_props_flame#omb	g1008_props_flame#omb.mesh	#	#	ItemCustom	#	0
+594	Item_Name594.name	g1008_da�iaodan_32	g1008_props_bridge gg.mesh	#	#	ItemCustom	#	0

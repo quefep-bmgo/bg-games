@@ -1,0 +1,4 @@
+SoundId	IsRepeat	RepeatInterval_min	RepeatInterval_max	Sound?ile	SoundVolume	Type	SubType	Desc	Unnamed: 9	Unnamed: 10
+500	0	0	0	Media&Scripts&>ame&g1100&res&sound&ui&kill	1			击杀音效		
+15000	1	35	10	Media&Scripts&>ame&g1100&res&sound&bgm&fight_mode	1			run模式bgm		
+15001	1	35	10	Media&Scripts&>ame&g1100&res&sound&bgm&edit_mode	1			edit模式bgm		

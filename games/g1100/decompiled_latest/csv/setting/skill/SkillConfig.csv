@@ -1,0 +1,6 @@
+技能ID	技能Type	技能对应物品ID	自定义��数	��数描述	备注	大厅释放 （0：否，1：是）	释放方式 0:长按 1:按钮 2:��方块 3:食物 4:选择 5:方块	技能弹道图片所属文件名	技能弹道图片名字	技能弹道特效	技能命中特效	技能命中特效时间	是否抛物线	水平速度	下落速度	技能距离	技能释放CD	技能长度（TNT爆��范围倍数）	技能宽度（没用，读
+列）	技能高度（没用，读
+列）	技能作用时间（秒）	技能作用数值	脚底有方块不能使用	脚底有方块不能使用提示	技能作用对象（1：自己，2：队友，3：敌人）（1#2#3代表所有都选）	技能作用人数	是否自动消耗道具	是否为一次性作用（0：否，1：是）	技能作用CD（几秒作用一次）	是否使用模型
+ID	Type	ItemId	param		Remark	HallRelease	UseType	AtlasName	IconName	 ffectName	Hit ffectName	Hit ffectTime	IsParabola	MoveSpeed	DropSpeed	Distance	?reeCd	Length	idth	Height	Duration	Damage	Can?allNoUse	Can?allNoUseTip	targets	effectNum	isConsume	isMoment	effectCd	IsActor
+1	11	506	#	爆��范围系数#击退系数	火焰弹(作用时间是爆��伤害因子)	0	1	throwable.json	napalm	effect_gun_mortar_bullet.effect	0	0	0	0.5	0	100	1	0.8	0.8	0.8	0.2	3	0	0	0	0	1	1	0	0
+2	6	594	#	无	搭桥蛋（新）	0	1	items.json	egg_small	effect_gun_mortar_bullet.effect	0	0	1	0.3	0.09	150	3	0	0	0	0	0	0	0	0	0	1	1	0	0
