@@ -1,0 +1,86 @@
+[
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918332.config.yml",
+  "hash": "36a83662d0ca33fe76834fc447547be6",
+  "key": "sandbox/games/maps/m1050_1.1607418918332.config.yml"
+ },
+ {
+  "name": "GunConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918334.GunConfig.csv",
+  "hash": "ac50dd61e695eba71e4fe20f7dbf0cb4",
+  "key": "sandbox/games/maps/m1050_1.1607418918334.GunConfig.csv"
+ },
+ {
+  "name": "IslandAreaConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918335.IslandAreaConfig.csv",
+  "hash": "0f5217b793e5bab966e8cedac8d2208f",
+  "key": "sandbox/games/maps/m1050_1.1607418918335.IslandAreaConfig.csv"
+ },
+ {
+  "name": "IslandLevelConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918336.IslandLevelConfig.csv",
+  "hash": "51873dd54fb0a4039ae9b9ca150c967b",
+  "key": "sandbox/games/maps/m1050_1.1607418918336.IslandLevelConfig.csv"
+ },
+ {
+  "name": "Notification.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918337.Notification.csv",
+  "hash": "4d58500d70945c191cdb37209405abe3",
+  "key": "sandbox/games/maps/m1050_1.1607418918337.Notification.csv"
+ },
+ {
+  "name": "PrivilegeConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918338.PrivilegeConfig.csv",
+  "hash": "ba313ac2b1b0771ed61eb86f4ae93f0f",
+  "key": "sandbox/games/maps/m1050_1.1607418918338.PrivilegeConfig.csv"
+ },
+ {
+  "name": "PrivilegeItemConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918340.PrivilegeItemConfig.csv",
+  "hash": "993f11ab8108bdffc5cb58e87006edca",
+  "key": "sandbox/games/maps/m1050_1.1607418918340.PrivilegeItemConfig.csv"
+ },
+ {
+  "name": "ProductConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918340.ProductConfig.csv",
+  "hash": "1d60b683030a5da3a00cb91bd651f0bf",
+  "key": "sandbox/games/maps/m1050_1.1607418918340.ProductConfig.csv"
+ },
+ {
+  "name": "ProductLimitConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918341.ProductLimitConfig.csv",
+  "hash": "21f589770bd2ad46c03a73cf8aff2393",
+  "key": "sandbox/games/maps/m1050_1.1607418918341.ProductLimitConfig.csv"
+ },
+ {
+  "name": "ProductResourceConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918342.ProductResourceConfig.csv",
+  "hash": "31941a1224b98e81dc9bb11782daacb3",
+  "key": "sandbox/games/maps/m1050_1.1607418918342.ProductResourceConfig.csv"
+ },
+ {
+  "name": "ProductUnlockConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918343.ProductUnlockConfig.csv",
+  "hash": "55058d5eb176bc3d659fbd97132bcf1d",
+  "key": "sandbox/games/maps/m1050_1.1607418918343.ProductUnlockConfig.csv"
+ },
+ {
+  "name": "SkillConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918344.SkillConfig.csv",
+  "hash": "fbf43bab418dca70e75e50e3fef62c74",
+  "key": "sandbox/games/maps/m1050_1.1607418918344.SkillConfig.csv"
+ },
+ {
+  "name": "TaskPossible.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918345.TaskPossible.csv",
+  "hash": "a5c8580b3973f0048dda0fc91b35fe16",
+  "key": "sandbox/games/maps/m1050_1.1607418918345.TaskPossible.csv"
+ },
+ {
+  "name": "ToolDurable.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1050_1.1607418918346.ToolDurable.csv",
+  "hash": "96748515b9d71878986805c539a108ee",
+  "key": "sandbox/games/maps/m1050_1.1607418918346.ToolDurable.csv"
+ }
+]
