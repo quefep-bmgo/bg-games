@@ -1,0 +1,26 @@
+[
+ {
+  "name": "FuncNpc.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1058_1.1583240691520.FuncNpc.csv",
+  "hash": "aedc8427e3478f89f32f30c45017de13",
+  "key": "sandbox/games/maps/m1058_1.1583240691520.FuncNpc.csv"
+ },
+ {
+  "name": "JobPondConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1058_1.1583240691523.JobPondConfig.csv",
+  "hash": "d01b4e6dabead91dceb59302ade9255a",
+  "key": "sandbox/games/maps/m1058_1.1583240691523.JobPondConfig.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1058_1.1583240691527.config.yml",
+  "hash": "709a80adb93724ad09e1c086a565d6b1",
+  "key": "sandbox/games/maps/m1058_1.1583240691527.config.yml"
+ },
+ {
+  "name": "AdvertSetting.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1058_1.1583240691530.AdvertSetting.csv",
+  "hash": "52eb2bbbcb6cdf1f77f8174707f3983b",
+  "key": "sandbox/games/maps/m1058_1.1583240691530.AdvertSetting.csv"
+ }
+]
