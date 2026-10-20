@@ -1,0 +1,110 @@
+[
+ {
+  "name": "ActorNpc.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_1.1571815794729.ActorNpc.csv",
+  "hash": "c4a3d60fa6483c4050562067b30a6064",
+  "key": "sandbox/games/maps/m1038_1.1571815794729.ActorNpc.csv"
+ },
+ {
+  "name": "ChangePrice.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_1.1571815794732.ChangePrice.csv",
+  "hash": "bdaec4f24ce0b1a699185554e3d23351",
+  "key": "sandbox/games/maps/m1038_1.1571815794732.ChangePrice.csv"
+ },
+ {
+  "name": "ClickChangePrice.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_1.1571815794734.ClickChangePrice.csv",
+  "hash": "acc8f90079c62e45f33d060370c118d7",
+  "key": "sandbox/games/maps/m1038_1.1571815794734.ClickChangePrice.csv"
+ },
+ {
+  "name": "Guns.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_1.1571815794736.Guns.csv",
+  "hash": "22cfdf5462d61c554d9091aafe12579e",
+  "key": "sandbox/games/maps/m1038_1.1571815794736.Guns.csv"
+ },
+ {
+  "name": "Role.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_1.1571815794742.Role.csv",
+  "hash": "6729d9fda7b45a4bdb85a4f3d8e1f68b",
+  "key": "sandbox/games/maps/m1038_1.1571815794742.Role.csv"
+ },
+ {
+  "name": "Skill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_1.1571815794744.Skill.csv",
+  "hash": "8362ff2a9682075eedd2e1665d15a2e0",
+  "key": "sandbox/games/maps/m1038_1.1571815794744.Skill.csv"
+ },
+ {
+  "name": "TigerLottery.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_1.1571815794746.TigerLottery.csv",
+  "hash": "6c2c4259ca2c635a7dcc90249daae1ba",
+  "key": "sandbox/games/maps/m1038_1.1571815794746.TigerLottery.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_1.1573736814722.config.yml",
+  "hash": "2be0c69bf9d977d57a201d34ae687ae5",
+  "key": "sandbox/games/maps/m1038_1.1573736814722.config.yml"
+ },
+ {
+  "name": "shop.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_1.1571815794748.shop.yml",
+  "hash": "ba1bfecee281e89535b2ddb9d69633ef",
+  "key": "sandbox/games/maps/m1038_1.1571815794748.shop.yml"
+ },
+ {
+  "name": "ActorNpc.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_2.1571815867162.ActorNpc.csv",
+  "hash": "6083945c8952de2ff8970482c0f70376",
+  "key": "sandbox/games/maps/m1038_2.1571815867162.ActorNpc.csv"
+ },
+ {
+  "name": "ChangePrice.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_2.1571815867164.ChangePrice.csv",
+  "hash": "bdaec4f24ce0b1a699185554e3d23351",
+  "key": "sandbox/games/maps/m1038_2.1571815867164.ChangePrice.csv"
+ },
+ {
+  "name": "ClickChangePrice.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_2.1571815867166.ClickChangePrice.csv",
+  "hash": "acc8f90079c62e45f33d060370c118d7",
+  "key": "sandbox/games/maps/m1038_2.1571815867166.ClickChangePrice.csv"
+ },
+ {
+  "name": "Guns.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_2.1571815867168.Guns.csv",
+  "hash": "22cfdf5462d61c554d9091aafe12579e",
+  "key": "sandbox/games/maps/m1038_2.1571815867168.Guns.csv"
+ },
+ {
+  "name": "Role.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_2.1571815867170.Role.csv",
+  "hash": "6729d9fda7b45a4bdb85a4f3d8e1f68b",
+  "key": "sandbox/games/maps/m1038_2.1571815867170.Role.csv"
+ },
+ {
+  "name": "Skill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_2.1571815867174.Skill.csv",
+  "hash": "63903629173c533b3978d16c05a008d2",
+  "key": "sandbox/games/maps/m1038_2.1571815867174.Skill.csv"
+ },
+ {
+  "name": "TigerLottery.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_2.1571815867176.TigerLottery.csv",
+  "hash": "4d8608698fb35d70955f8ffe42a1fd0b",
+  "key": "sandbox/games/maps/m1038_2.1571815867176.TigerLottery.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_2.1573736957456.config.yml",
+  "hash": "e553e6063c5264e31798fe53c5cabd7c",
+  "key": "sandbox/games/maps/m1038_2.1573736957456.config.yml"
+ },
+ {
+  "name": "shop.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1038_2.1571815867179.shop.yml",
+  "hash": "ba1bfecee281e89535b2ddb9d69633ef",
+  "key": "sandbox/games/maps/m1038_2.1571815867179.shop.yml"
+ }
+]
