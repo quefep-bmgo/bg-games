@@ -1,0 +1,38 @@
+[
+ {
+  "name": "Actors.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1037_1.1571815674478.Actors.csv",
+  "hash": "4bc0d981658696bf8579de5174340702",
+  "key": "sandbox/games/maps/m1037_1.1571815674478.Actors.csv"
+ },
+ {
+  "name": "AppProps.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1037_1.1571815674481.AppProps.csv",
+  "hash": "feecb3d46a612f37abd82071b52e5be4",
+  "key": "sandbox/games/maps/m1037_1.1571815674481.AppProps.csv"
+ },
+ {
+  "name": "LotteryNpc.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1037_1.1571815674483.LotteryNpc.csv",
+  "hash": "a6357f5788de5af2daf00dafda167767",
+  "key": "sandbox/games/maps/m1037_1.1571815674483.LotteryNpc.csv"
+ },
+ {
+  "name": "ModeNpc.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1037_1.1571815674484.ModeNpc.csv",
+  "hash": "810407941740935231755fc65ce58d9d",
+  "key": "sandbox/games/maps/m1037_1.1571815674484.ModeNpc.csv"
+ },
+ {
+  "name": "RankNpc.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1037_1.1571815674486.RankNpc.csv",
+  "hash": "4abcb200bd638a2ecea6b236d5c98d6b",
+  "key": "sandbox/games/maps/m1037_1.1571815674486.RankNpc.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1037_1.1571815674488.config.yml",
+  "hash": "1ec96f9997b4ece1f1549199d3cb34f6",
+  "key": "sandbox/games/maps/m1037_1.1571815674488.config.yml"
+ }
+]
