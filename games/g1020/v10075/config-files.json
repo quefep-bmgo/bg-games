@@ -1,0 +1,56 @@
+[
+ {
+  "name": "block.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1020_1.1529985515220.block.yml",
+  "hash": "c03a92faaac984c102a955a80d682170",
+  "key": "sandbox/games/maps/m1020_1.1529985515220.block.yml"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1020_1.1529985515222.config.yml",
+  "hash": "5c2cdd2a4829478a73fe350edaf5df36",
+  "key": "sandbox/games/maps/m1020_1.1529985515222.config.yml"
+ },
+ {
+  "name": "furniture.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1020_1.1529985515223.furniture.yml",
+  "hash": "dc1e76750a0a29f7bf47fa01b78fba30",
+  "key": "sandbox/games/maps/m1020_1.1529985515223.furniture.yml"
+ },
+ {
+  "name": "house.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1020_1.1541748785323.house.yml",
+  "hash": "9703622ac17a6f9273a4ae46cd612b53",
+  "key": "sandbox/games/maps/m1020_1.1541748785323.house.yml"
+ },
+ {
+  "name": "manorNpc.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1020_1.1529985515225.manorNpc.yml",
+  "hash": "bf1869c6f5406da11befe92968bf3619",
+  "key": "sandbox/games/maps/m1020_1.1529985515225.manorNpc.yml"
+ },
+ {
+  "name": "merchant.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1020_1.1529985515226.merchant.yml",
+  "hash": "84c0ace5b6c69a1560bf200c8e48d61a",
+  "key": "sandbox/games/maps/m1020_1.1529985515226.merchant.yml"
+ },
+ {
+  "name": "shop.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1020_1.1529985515227.shop.yml",
+  "hash": "6ab7fe53991513359ae35b456083c38c",
+  "key": "sandbox/games/maps/m1020_1.1529985515227.shop.yml"
+ },
+ {
+  "name": "vehicle.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1020_1.1529985515228.vehicle.yml",
+  "hash": "ab0ce642174d90b237c4d7d6e6222673",
+  "key": "sandbox/games/maps/m1020_1.1529985515228.vehicle.yml"
+ },
+ {
+  "name": "yard.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1020_1.1529985515229.yard.yml",
+  "hash": "1680938a46743f0c285c7402fc911644",
+  "key": "sandbox/games/maps/m1020_1.1529985515229.yard.yml"
+ }
+]
