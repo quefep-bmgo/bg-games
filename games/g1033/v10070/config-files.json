@@ -1,0 +1,218 @@
+[
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_2.1546418093552.config.yml",
+  "hash": "55e9473c19f7318a3bf4697e88950b8f",
+  "key": "sandbox/games/maps/m1033_2.1546418093552.config.yml"
+ },
+ {
+  "name": "GunMerchant.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_2.1545190507463.GunMerchant.csv",
+  "hash": "aafd6658aa91083f9fdf73040b7a25e1",
+  "key": "sandbox/games/maps/m1033_2.1545190507463.GunMerchant.csv"
+ },
+ {
+  "name": "Guns.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_2.1545190507464.Guns.csv",
+  "hash": "2bdcfcf014d3c65a4fbf4fb9194baa97",
+  "key": "sandbox/games/maps/m1033_2.1545190507464.Guns.csv"
+ },
+ {
+  "name": "InitItems.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_2.1545190507465.InitItems.csv",
+  "hash": "6719cc716c273440c9e84dd295e645e6",
+  "key": "sandbox/games/maps/m1033_2.1545190507465.InitItems.csv"
+ },
+ {
+  "name": "Items.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_2.1545190507466.Items.csv",
+  "hash": "6323b1b92ac7cdb5d8c726480b548743",
+  "key": "sandbox/games/maps/m1033_2.1545190507466.Items.csv"
+ },
+ {
+  "name": "ItemSetting.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_2.1545190507467.ItemSetting.csv",
+  "hash": "13150905d0721f61c0f0dbf1bbfaa202",
+  "key": "sandbox/games/maps/m1033_2.1545190507467.ItemSetting.csv"
+ },
+ {
+  "name": "KillReward.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_2.1545190507468.KillReward.csv",
+  "hash": "0f5d8788b249331d2e5f9e06d2517ab8",
+  "key": "sandbox/games/maps/m1033_2.1545190507468.KillReward.csv"
+ },
+ {
+  "name": "PropGroup.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_2.1545190507469.PropGroup.csv",
+  "hash": "24318ea0e4e74055c4ec786e44f0f931",
+  "key": "sandbox/games/maps/m1033_2.1545190507469.PropGroup.csv"
+ },
+ {
+  "name": "Props.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_2.1545190507470.Props.csv",
+  "hash": "620da99048f9cf3a923a8d3e5d5cac97",
+  "key": "sandbox/games/maps/m1033_2.1545190507470.Props.csv"
+ },
+ {
+  "name": "Respawn.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_2.1545190507475.Respawn.csv",
+  "hash": "c262a85e37c6bedd8e3160e3a85f8b04",
+  "key": "sandbox/games/maps/m1033_2.1545190507475.Respawn.csv"
+ },
+ {
+  "name": "SpecialClothing.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_2.1545190507476.SpecialClothing.csv",
+  "hash": "b8522e6501b6db5db91d8028ca803755",
+  "key": "sandbox/games/maps/m1033_2.1545190507476.SpecialClothing.csv"
+ },
+ {
+  "name": "Team.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_2.1545190507477.Team.csv",
+  "hash": "1e913fe99294307c6b65ad1a9bb5dc4e",
+  "key": "sandbox/games/maps/m1033_2.1545190507477.Team.csv"
+ },
+ {
+  "name": "GunMerchant.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_3.1543565142271.GunMerchant.csv",
+  "hash": "9749d2674699af223867521cfb27734f",
+  "key": "sandbox/games/maps/m1033_3.1543565142271.GunMerchant.csv"
+ },
+ {
+  "name": "Guns.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_3.1543565142272.Guns.csv",
+  "hash": "57149a29390dde5764df1c9faf5528cb",
+  "key": "sandbox/games/maps/m1033_3.1543565142272.Guns.csv"
+ },
+ {
+  "name": "InitItems.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_3.1543565142273.InitItems.csv",
+  "hash": "6719cc716c273440c9e84dd295e645e6",
+  "key": "sandbox/games/maps/m1033_3.1543565142273.InitItems.csv"
+ },
+ {
+  "name": "Items.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_3.1543565142274.Items.csv",
+  "hash": "b494a402c02ea8953437ecb6e921649c",
+  "key": "sandbox/games/maps/m1033_3.1543565142274.Items.csv"
+ },
+ {
+  "name": "ItemSetting.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_3.1543565142275.ItemSetting.csv",
+  "hash": "13150905d0721f61c0f0dbf1bbfaa202",
+  "key": "sandbox/games/maps/m1033_3.1543565142275.ItemSetting.csv"
+ },
+ {
+  "name": "KillReward.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_3.1543565142276.KillReward.csv",
+  "hash": "0f5d8788b249331d2e5f9e06d2517ab8",
+  "key": "sandbox/games/maps/m1033_3.1543565142276.KillReward.csv"
+ },
+ {
+  "name": "PropGroup.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_3.1543565142277.PropGroup.csv",
+  "hash": "24318ea0e4e74055c4ec786e44f0f931",
+  "key": "sandbox/games/maps/m1033_3.1543565142277.PropGroup.csv"
+ },
+ {
+  "name": "Props.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_3.1543565142278.Props.csv",
+  "hash": "5e310922ef628594c3c85d0b76330a3d",
+  "key": "sandbox/games/maps/m1033_3.1543565142278.Props.csv"
+ },
+ {
+  "name": "Respawn.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_3.1543565142279.Respawn.csv",
+  "hash": "3d9a273059184e5bb9710c18d58d471c",
+  "key": "sandbox/games/maps/m1033_3.1543565142279.Respawn.csv"
+ },
+ {
+  "name": "SpecialClothing.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_3.1543565142280.SpecialClothing.csv",
+  "hash": "b8522e6501b6db5db91d8028ca803755",
+  "key": "sandbox/games/maps/m1033_3.1543565142280.SpecialClothing.csv"
+ },
+ {
+  "name": "Team.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_3.1543565142281.Team.csv",
+  "hash": "d30303d77b1c77584c4abf44adbdfc1d",
+  "key": "sandbox/games/maps/m1033_3.1543565142281.Team.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_3.1543565142282.config.yml",
+  "hash": "de3f73a469e9bbadafd717b97a9a998e",
+  "key": "sandbox/games/maps/m1033_3.1543565142282.config.yml"
+ },
+ {
+  "name": "GunMerchant.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_4.1543564294394.GunMerchant.csv",
+  "hash": "56522e2d026a1ed1cdc6592ba51bdc4f",
+  "key": "sandbox/games/maps/m1033_4.1543564294394.GunMerchant.csv"
+ },
+ {
+  "name": "Guns.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_4.1543564294395.Guns.csv",
+  "hash": "2bdcfcf014d3c65a4fbf4fb9194baa97",
+  "key": "sandbox/games/maps/m1033_4.1543564294395.Guns.csv"
+ },
+ {
+  "name": "InitItems.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_4.1543564294396.InitItems.csv",
+  "hash": "6719cc716c273440c9e84dd295e645e6",
+  "key": "sandbox/games/maps/m1033_4.1543564294396.InitItems.csv"
+ },
+ {
+  "name": "Items.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_4.1543564294397.Items.csv",
+  "hash": "b494a402c02ea8953437ecb6e921649c",
+  "key": "sandbox/games/maps/m1033_4.1543564294397.Items.csv"
+ },
+ {
+  "name": "ItemSetting.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_4.1543564294398.ItemSetting.csv",
+  "hash": "13150905d0721f61c0f0dbf1bbfaa202",
+  "key": "sandbox/games/maps/m1033_4.1543564294398.ItemSetting.csv"
+ },
+ {
+  "name": "KillReward.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_4.1543564294400.KillReward.csv",
+  "hash": "0f5d8788b249331d2e5f9e06d2517ab8",
+  "key": "sandbox/games/maps/m1033_4.1543564294400.KillReward.csv"
+ },
+ {
+  "name": "PropGroup.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_4.1543564294401.PropGroup.csv",
+  "hash": "24318ea0e4e74055c4ec786e44f0f931",
+  "key": "sandbox/games/maps/m1033_4.1543564294401.PropGroup.csv"
+ },
+ {
+  "name": "Props.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_4.1543564294402.Props.csv",
+  "hash": "620da99048f9cf3a923a8d3e5d5cac97",
+  "key": "sandbox/games/maps/m1033_4.1543564294402.Props.csv"
+ },
+ {
+  "name": "Respawn.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_4.1543564294403.Respawn.csv",
+  "hash": "3d9a273059184e5bb9710c18d58d471c",
+  "key": "sandbox/games/maps/m1033_4.1543564294403.Respawn.csv"
+ },
+ {
+  "name": "SpecialClothing.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_4.1543564294404.SpecialClothing.csv",
+  "hash": "b8522e6501b6db5db91d8028ca803755",
+  "key": "sandbox/games/maps/m1033_4.1543564294404.SpecialClothing.csv"
+ },
+ {
+  "name": "Team.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_4.1543564294405.Team.csv",
+  "hash": "d30303d77b1c77584c4abf44adbdfc1d",
+  "key": "sandbox/games/maps/m1033_4.1543564294405.Team.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1033_4.1543564294406.config.yml",
+  "hash": "de3f73a469e9bbadafd717b97a9a998e",
+  "key": "sandbox/games/maps/m1033_4.1543564294406.config.yml"
+ }
+]
