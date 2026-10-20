@@ -1,0 +1,128 @@
+[
+ {
+  "name": "Domain.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448401.Domain.csv",
+  "hash": "2f0fedfc9d0d9824d2347b4c2fb3cef8",
+  "key": "sandbox/games/maps/m1025_1.1603270448401.Domain.csv"
+ },
+ {
+  "name": "EquipBox.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448404.EquipBox.csv",
+  "hash": "4ceb8bb4e7432a3875fa25dfe517490e",
+  "key": "sandbox/games/maps/m1025_1.1603270448404.EquipBox.csv"
+ },
+ {
+  "name": "ExtraPortal.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448405.ExtraPortal.csv",
+  "hash": "9cf61a3bdd64633c0d967dea50e12de8",
+  "key": "sandbox/games/maps/m1025_1.1603270448405.ExtraPortal.csv"
+ },
+ {
+  "name": "GameExplain.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448407.GameExplain.csv",
+  "hash": "526bf9718838e0fadaabfb36d7f9f745",
+  "key": "sandbox/games/maps/m1025_1.1603270448407.GameExplain.csv"
+ },
+ {
+  "name": "Gate.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448408.Gate.csv",
+  "hash": "803299264e6355138c519a7fe2637003",
+  "key": "sandbox/games/maps/m1025_1.1603270448408.Gate.csv"
+ },
+ {
+  "name": "Inventory.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448410.Inventory.csv",
+  "hash": "b8ee305bc25119b08493b0a694affc57",
+  "key": "sandbox/games/maps/m1025_1.1603270448410.Inventory.csv"
+ },
+ {
+  "name": "Occupation.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448411.Occupation.csv",
+  "hash": "62e9836e3a4e32e8496f762645bee10c",
+  "key": "sandbox/games/maps/m1025_1.1603270448411.Occupation.csv"
+ },
+ {
+  "name": "OccupationUnlock.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448412.OccupationUnlock.csv",
+  "hash": "3f1ca5330f1ff7f2c5a4f469a4c25bc1",
+  "key": "sandbox/games/maps/m1025_1.1603270448412.OccupationUnlock.csv"
+ },
+ {
+  "name": "PersonResource.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448413.PersonResource.csv",
+  "hash": "fdb72d91bee6ad1facf0a5e3541330ad",
+  "key": "sandbox/games/maps/m1025_1.1603270448413.PersonResource.csv"
+ },
+ {
+  "name": "PortalBuilding.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448414.PortalBuilding.csv",
+  "hash": "02689b1d330d070cd7b55ef30e8d2caf",
+  "key": "sandbox/games/maps/m1025_1.1603270448414.PortalBuilding.csv"
+ },
+ {
+  "name": "PrivateResource.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448415.PrivateResource.csv",
+  "hash": "52464d4874ce8cb522affc9012ccd867",
+  "key": "sandbox/games/maps/m1025_1.1603270448415.PrivateResource.csv"
+ },
+ {
+  "name": "PublicResource.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448416.PublicResource.csv",
+  "hash": "70d30cd0a5957e29131f24dac04d6390",
+  "key": "sandbox/games/maps/m1025_1.1603270448416.PublicResource.csv"
+ },
+ {
+  "name": "ResourceBuilding.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448417.ResourceBuilding.csv",
+  "hash": "c097263e0e47604d863faceda5df144e",
+  "key": "sandbox/games/maps/m1025_1.1603270448417.ResourceBuilding.csv"
+ },
+ {
+  "name": "Skill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448418.Skill.csv",
+  "hash": "8e09d20e15815b41b5626475f7ac0e38",
+  "key": "sandbox/games/maps/m1025_1.1603270448418.Skill.csv"
+ },
+ {
+  "name": "SkillEffect.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448419.SkillEffect.csv",
+  "hash": "6715011a00db1b55589131b992eb7efb",
+  "key": "sandbox/games/maps/m1025_1.1603270448419.SkillEffect.csv"
+ },
+ {
+  "name": "UpgradeEquipBox.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448421.UpgradeEquipBox.csv",
+  "hash": "6b77d79c4b82ebb99c1f241f3ef0c7fd",
+  "key": "sandbox/games/maps/m1025_1.1603270448421.UpgradeEquipBox.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448422.config.yml",
+  "hash": "4db3e82fd1601ed8eca79b6d0108bc2d",
+  "key": "sandbox/games/maps/m1025_1.1603270448422.config.yml"
+ },
+ {
+  "name": "AppProps.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448423.AppProps.csv",
+  "hash": "85f875e465a83942d4a9cc48e3211c29",
+  "key": "sandbox/games/maps/m1025_1.1603270448423.AppProps.csv"
+ },
+ {
+  "name": "BasicPoint.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448424.BasicPoint.csv",
+  "hash": "f7fc3590a09e05e24ec5caeb84b67a9a",
+  "key": "sandbox/games/maps/m1025_1.1603270448424.BasicPoint.csv"
+ },
+ {
+  "name": "Building.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448425.Building.csv",
+  "hash": "380acfc2e43a778d6339d9d9923db0a1",
+  "key": "sandbox/games/maps/m1025_1.1603270448425.Building.csv"
+ },
+ {
+  "name": "Commodity.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1025_1.1603270448426.Commodity.csv",
+  "hash": "8755062cb6c985403f4f6ae81bf4063f",
+  "key": "sandbox/games/maps/m1025_1.1603270448426.Commodity.csv"
+ }
+]
