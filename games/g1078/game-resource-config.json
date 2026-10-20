@@ -1,0 +1,32 @@
+{
+ "10111": {
+  "id": "g1078",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1078.1752740942179.zip",
+  "pluginHash": "133f3702121df1d7aca200331ebdb7a1",
+  "fileSize": 1887469,
+  "fileCount": 26
+ },
+ "10112": {
+  "id": "g1078",
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1078.1752740942179.zip",
+  "pluginHash": "133f3702121df1d7aca200331ebdb7a1",
+  "fileSize": 1887469,
+  "fileCount": 26
+ },
+ "10113": {
+  "maps": [
+   {
+    "name": "m1078_1",
+    "durl": "http://staticgs.sandboxol.com/sandbox/games/maps/g1078.1766551379455.zip",
+    "mapHash": "7ca134896395ff94b959a04a7bf081f4",
+    "configFiles": [],
+    "fileSize": 317,
+    "fileCount": 2
+   }
+  ],
+  "plugin": "http://staticgs.sandboxol.com/sandbox/games/plugins/g1078.1766984288374.zip",
+  "pluginHash": "66e8db253f133a60586e0f17563fdf18",
+  "fileSize": 1889208,
+  "fileCount": 26
+ }
+}
