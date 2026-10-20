@@ -1,0 +1,20 @@
+[
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1008_2.1622789002042.config.yml",
+  "hash": "90141e966a97974e2d55b59869e7d7ab",
+  "key": "sandbox/games/maps/m1008_2.1622789002042.config.yml"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1008_2.1624616087676.config.yml",
+  "hash": "2e2e57c85622050dc94ca3f2d16bbd63",
+  "key": "sandbox/games/maps/m1008_2.1624616087676.config.yml"
+ },
+ {
+  "name": "map.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1008_2.1624616066339.map.yml",
+  "hash": "ca08dca89829b7d00b4e218e669fd10c",
+  "key": "sandbox/games/maps/m1008_2.1624616066339.map.yml"
+ }
+]
