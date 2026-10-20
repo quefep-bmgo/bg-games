@@ -1,0 +1,62 @@
+[
+ {
+  "name": "Commodity.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1028_2.1571815339488.Commodity.csv",
+  "hash": "49a5ce07f228e5911a1762377b0a53e2",
+  "key": "sandbox/games/maps/m1028_2.1571815339488.Commodity.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1028_2.1571815339491.config.yml",
+  "hash": "3d615fed8bb0041a721d282bc739ed10",
+  "key": "sandbox/games/maps/m1028_2.1571815339491.config.yml"
+ },
+ {
+  "name": "EquipmentSet.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1028_2.1571815339493.EquipmentSet.csv",
+  "hash": "06fb4ccbe59ffd4754c2136a4750147a",
+  "key": "sandbox/games/maps/m1028_2.1571815339493.EquipmentSet.csv"
+ },
+ {
+  "name": "RankReward.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1028_2.1571815339495.RankReward.csv",
+  "hash": "1931c70c80722e41501000f373c2bf9d",
+  "key": "sandbox/games/maps/m1028_2.1571815339495.RankReward.csv"
+ },
+ {
+  "name": "Round.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1028_2.1571815339497.Round.csv",
+  "hash": "f9170394ccbb2e8a0222a1cc1cc93c86",
+  "key": "sandbox/games/maps/m1028_2.1571815339497.Round.csv"
+ },
+ {
+  "name": "Segment.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1028_2.1571815339499.Segment.csv",
+  "hash": "6d79ccb48a23afe7d5f83523d7d585a9",
+  "key": "sandbox/games/maps/m1028_2.1571815339499.Segment.csv"
+ },
+ {
+  "name": "Site.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1028_2.1571815339503.Site.csv",
+  "hash": "b7a5eabecd2d3d4492e749d7478a959b",
+  "key": "sandbox/games/maps/m1028_2.1571815339503.Site.csv"
+ },
+ {
+  "name": "Talent.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1028_2.1571815339504.Talent.csv",
+  "hash": "74e5025c89b69d6f3fae466bab5976df",
+  "key": "sandbox/games/maps/m1028_2.1571815339504.Talent.csv"
+ },
+ {
+  "name": "TipNPC.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1028_2.1571815339506.TipNPC.csv",
+  "hash": "ba69143cc45d50e8504619d89e8a808a",
+  "key": "sandbox/games/maps/m1028_2.1571815339506.TipNPC.csv"
+ },
+ {
+  "name": "Title.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1028_2.1571815339508.Title.csv",
+  "hash": "e3a08e41dc17a7fdc1ffb4908aca1376",
+  "key": "sandbox/games/maps/m1028_2.1571815339508.Title.csv"
+ }
+]
