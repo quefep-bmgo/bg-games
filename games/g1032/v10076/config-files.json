@@ -1,0 +1,62 @@
+[
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1032_1.1543841033532.config.yml",
+  "hash": "a3070e8668b8ceff18c0e2fa5ab88606",
+  "key": "sandbox/games/maps/m1032_1.1543841033532.config.yml"
+ },
+ {
+  "name": "ExperienceGuns.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1032_1.1543841033534.ExperienceGuns.csv",
+  "hash": "4710ed998d803583dcffc9b4ffdf469f",
+  "key": "sandbox/games/maps/m1032_1.1543841033534.ExperienceGuns.csv"
+ },
+ {
+  "name": "ForgeGroup.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1032_1.1543841033535.ForgeGroup.csv",
+  "hash": "96225a63cca2c71bd79bba0167b1a477",
+  "key": "sandbox/games/maps/m1032_1.1543841033535.ForgeGroup.csv"
+ },
+ {
+  "name": "ForgeProbability.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1032_1.1543841033536.ForgeProbability.csv",
+  "hash": "6a14c3d93f7912d13883dfa2a8049a90",
+  "key": "sandbox/games/maps/m1032_1.1543841033536.ForgeProbability.csv"
+ },
+ {
+  "name": "Guns.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1032_1.1543841033537.Guns.csv",
+  "hash": "f29e7a1d44ee1c8f883d7e40a694f0f5",
+  "key": "sandbox/games/maps/m1032_1.1543841033537.Guns.csv"
+ },
+ {
+  "name": "GunsForgeNpc.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1032_1.1543841033538.GunsForgeNpc.csv",
+  "hash": "8bd4372b9ac7ae97bfefccfb0e8bf693",
+  "key": "sandbox/games/maps/m1032_1.1543841033538.GunsForgeNpc.csv"
+ },
+ {
+  "name": "ModeNpc.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1032_1.1543841033539.ModeNpc.csv",
+  "hash": "7b831c9f49b4a1127d351bc8acffc450",
+  "key": "sandbox/games/maps/m1032_1.1543841033539.ModeNpc.csv"
+ },
+ {
+  "name": "SpecialClothing.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1032_1.1543841033540.SpecialClothing.csv",
+  "hash": "5bcf1c70803220350e5c8f086b326831",
+  "key": "sandbox/games/maps/m1032_1.1543841033540.SpecialClothing.csv"
+ },
+ {
+  "name": "SprayPaint.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1032_1.1543841033541.SprayPaint.csv",
+  "hash": "bc31251e1aebf04408a47ab0c0da227f",
+  "key": "sandbox/games/maps/m1032_1.1543841033541.SprayPaint.csv"
+ },
+ {
+  "name": "TipNpc.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1032_1.1543841033542.TipNpc.csv",
+  "hash": "b508cfc2f915720b71dcd20df570ce03",
+  "key": "sandbox/games/maps/m1032_1.1543841033542.TipNpc.csv"
+ }
+]
