@@ -1,0 +1,386 @@
+[
+ {
+  "name": "AwardConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384757.AwardConfig.csv",
+  "hash": "ab1079c90bcd86949ccdf1945f2de300",
+  "key": "sandbox/games/maps/m1044_1.1574170384757.AwardConfig.csv"
+ },
+ {
+  "name": "BlockSafeArea.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384760.BlockSafeArea.csv",
+  "hash": "1ecf80d9ee5b1b2c54a6c799af286da2",
+  "key": "sandbox/games/maps/m1044_1.1574170384760.BlockSafeArea.csv"
+ },
+ {
+  "name": "ComboKill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384762.ComboKill.csv",
+  "hash": "c365d80e21c3a721c88744038f964c7c",
+  "key": "sandbox/games/maps/m1044_1.1574170384762.ComboKill.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574173612308.config.yml",
+  "hash": "49fec4026d661e41df2743adf667bb04",
+  "key": "sandbox/games/maps/m1044_1.1574173612308.config.yml"
+ },
+ {
+  "name": "ExpConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384766.ExpConfig.csv",
+  "hash": "5a637bda441fb8411ccdfadccaf83fe5",
+  "key": "sandbox/games/maps/m1044_1.1574170384766.ExpConfig.csv"
+ },
+ {
+  "name": "ExtraAwardConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384772.ExtraAwardConfig.csv",
+  "hash": "c2e87662c71f46ddee9064c338a286d2",
+  "key": "sandbox/games/maps/m1044_1.1574170384772.ExtraAwardConfig.csv"
+ },
+ {
+  "name": "FirstAwardCheck.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384774.FirstAwardCheck.csv",
+  "hash": "01f064deaed40f3951f24ac8b09ffee7",
+  "key": "sandbox/games/maps/m1044_1.1574170384774.FirstAwardCheck.csv"
+ },
+ {
+  "name": "GunConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384776.GunConfig.csv",
+  "hash": "079b2bfece5a949f7a859fe54da1bc2c",
+  "key": "sandbox/games/maps/m1044_1.1574170384776.GunConfig.csv"
+ },
+ {
+  "name": "HonorExponentConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384778.HonorExponentConfig.csv",
+  "hash": "19216574b9ae1eafa2d7b17df18f232f",
+  "key": "sandbox/games/maps/m1044_1.1574170384778.HonorExponentConfig.csv"
+ },
+ {
+  "name": "MapBlock.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384780.MapBlock.csv",
+  "hash": "ea3cb4a2e69d4e3240b68c23e8029347",
+  "key": "sandbox/games/maps/m1044_1.1574170384780.MapBlock.csv"
+ },
+ {
+  "name": "PersonalRespawn.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384784.PersonalRespawn.csv",
+  "hash": "098413dfec407605f26c420133912ae5",
+  "key": "sandbox/games/maps/m1044_1.1574170384784.PersonalRespawn.csv"
+ },
+ {
+  "name": "PropConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384793.PropConfig.csv",
+  "hash": "80a0064aac146ee0e58c84cf0cf4f1e6",
+  "key": "sandbox/games/maps/m1044_1.1574170384793.PropConfig.csv"
+ },
+ {
+  "name": "PropertyConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384797.PropertyConfig.csv",
+  "hash": "2cc40fc4a4a1226defa617a5e78d0fdb",
+  "key": "sandbox/games/maps/m1044_1.1574170384797.PropertyConfig.csv"
+ },
+ {
+  "name": "Skill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384801.Skill.csv",
+  "hash": "efb048910277562c451df0f5342a1797",
+  "key": "sandbox/games/maps/m1044_1.1574170384801.Skill.csv"
+ },
+ {
+  "name": "SupplyConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384803.SupplyConfig.csv",
+  "hash": "d67bd6b4524d97cc0c301dd130dc19cc",
+  "key": "sandbox/games/maps/m1044_1.1574170384803.SupplyConfig.csv"
+ },
+ {
+  "name": "SupplySetting.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_1.1574170384806.SupplySetting.csv",
+  "hash": "3c87b40e15037a8adbb3b1997a8943e2",
+  "key": "sandbox/games/maps/m1044_1.1574170384806.SupplySetting.csv"
+ },
+ {
+  "name": "AwardConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757957.AwardConfig.csv",
+  "hash": "ab1079c90bcd86949ccdf1945f2de300",
+  "key": "sandbox/games/maps/m1044_2.1574173757957.AwardConfig.csv"
+ },
+ {
+  "name": "BlockSafeArea.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757960.BlockSafeArea.csv",
+  "hash": "282e5c1a529485e5cc86afde832db42a",
+  "key": "sandbox/games/maps/m1044_2.1574173757960.BlockSafeArea.csv"
+ },
+ {
+  "name": "ComboKill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757962.ComboKill.csv",
+  "hash": "c365d80e21c3a721c88744038f964c7c",
+  "key": "sandbox/games/maps/m1044_2.1574173757962.ComboKill.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757965.config.yml",
+  "hash": "ebc60670addaeb4edb51c691673b6243",
+  "key": "sandbox/games/maps/m1044_2.1574173757965.config.yml"
+ },
+ {
+  "name": "ExpConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757967.ExpConfig.csv",
+  "hash": "5a637bda441fb8411ccdfadccaf83fe5",
+  "key": "sandbox/games/maps/m1044_2.1574173757967.ExpConfig.csv"
+ },
+ {
+  "name": "ExtraAwardConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757969.ExtraAwardConfig.csv",
+  "hash": "c2e87662c71f46ddee9064c338a286d2",
+  "key": "sandbox/games/maps/m1044_2.1574173757969.ExtraAwardConfig.csv"
+ },
+ {
+  "name": "FirstAwardCheck.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757973.FirstAwardCheck.csv",
+  "hash": "01f064deaed40f3951f24ac8b09ffee7",
+  "key": "sandbox/games/maps/m1044_2.1574173757973.FirstAwardCheck.csv"
+ },
+ {
+  "name": "GunConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757974.GunConfig.csv",
+  "hash": "079b2bfece5a949f7a859fe54da1bc2c",
+  "key": "sandbox/games/maps/m1044_2.1574173757974.GunConfig.csv"
+ },
+ {
+  "name": "HonorExponentConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757976.HonorExponentConfig.csv",
+  "hash": "19216574b9ae1eafa2d7b17df18f232f",
+  "key": "sandbox/games/maps/m1044_2.1574173757976.HonorExponentConfig.csv"
+ },
+ {
+  "name": "MapBlock.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757978.MapBlock.csv",
+  "hash": "ea3cb4a2e69d4e3240b68c23e8029347",
+  "key": "sandbox/games/maps/m1044_2.1574173757978.MapBlock.csv"
+ },
+ {
+  "name": "PersonalRespawn.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757989.PersonalRespawn.csv",
+  "hash": "e947ff5e70ff52b791cb739dfa295656",
+  "key": "sandbox/games/maps/m1044_2.1574173757989.PersonalRespawn.csv"
+ },
+ {
+  "name": "PropConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757993.PropConfig.csv",
+  "hash": "80a0064aac146ee0e58c84cf0cf4f1e6",
+  "key": "sandbox/games/maps/m1044_2.1574173757993.PropConfig.csv"
+ },
+ {
+  "name": "PropertyConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757995.PropertyConfig.csv",
+  "hash": "2cc40fc4a4a1226defa617a5e78d0fdb",
+  "key": "sandbox/games/maps/m1044_2.1574173757995.PropertyConfig.csv"
+ },
+ {
+  "name": "Skill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173757998.Skill.csv",
+  "hash": "efb048910277562c451df0f5342a1797",
+  "key": "sandbox/games/maps/m1044_2.1574173757998.Skill.csv"
+ },
+ {
+  "name": "SupplyConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173758005.SupplyConfig.csv",
+  "hash": "e36facd372af25de051e86c4b7955ab9",
+  "key": "sandbox/games/maps/m1044_2.1574173758005.SupplyConfig.csv"
+ },
+ {
+  "name": "SupplySetting.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_2.1574173758009.SupplySetting.csv",
+  "hash": "3c87b40e15037a8adbb3b1997a8943e2",
+  "key": "sandbox/games/maps/m1044_2.1574173758009.SupplySetting.csv"
+ },
+ {
+  "name": "AwardConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793424.AwardConfig.csv",
+  "hash": "ab1079c90bcd86949ccdf1945f2de300",
+  "key": "sandbox/games/maps/m1044_3.1574173793424.AwardConfig.csv"
+ },
+ {
+  "name": "BlockSafeArea.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793427.BlockSafeArea.csv",
+  "hash": "bd77e9f88b01e8532a00ec864e3fb8e6",
+  "key": "sandbox/games/maps/m1044_3.1574173793427.BlockSafeArea.csv"
+ },
+ {
+  "name": "ComboKill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793434.ComboKill.csv",
+  "hash": "c365d80e21c3a721c88744038f964c7c",
+  "key": "sandbox/games/maps/m1044_3.1574173793434.ComboKill.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793436.config.yml",
+  "hash": "82a5b43abd3986f9c7ba99333a8b4847",
+  "key": "sandbox/games/maps/m1044_3.1574173793436.config.yml"
+ },
+ {
+  "name": "ExpConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793440.ExpConfig.csv",
+  "hash": "5a637bda441fb8411ccdfadccaf83fe5",
+  "key": "sandbox/games/maps/m1044_3.1574173793440.ExpConfig.csv"
+ },
+ {
+  "name": "ExtraAwardConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793442.ExtraAwardConfig.csv",
+  "hash": "c2e87662c71f46ddee9064c338a286d2",
+  "key": "sandbox/games/maps/m1044_3.1574173793442.ExtraAwardConfig.csv"
+ },
+ {
+  "name": "FirstAwardCheck.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793444.FirstAwardCheck.csv",
+  "hash": "01f064deaed40f3951f24ac8b09ffee7",
+  "key": "sandbox/games/maps/m1044_3.1574173793444.FirstAwardCheck.csv"
+ },
+ {
+  "name": "GunConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793446.GunConfig.csv",
+  "hash": "079b2bfece5a949f7a859fe54da1bc2c",
+  "key": "sandbox/games/maps/m1044_3.1574173793446.GunConfig.csv"
+ },
+ {
+  "name": "HonorExponentConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793448.HonorExponentConfig.csv",
+  "hash": "19216574b9ae1eafa2d7b17df18f232f",
+  "key": "sandbox/games/maps/m1044_3.1574173793448.HonorExponentConfig.csv"
+ },
+ {
+  "name": "MapBlock.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793451.MapBlock.csv",
+  "hash": "ea3cb4a2e69d4e3240b68c23e8029347",
+  "key": "sandbox/games/maps/m1044_3.1574173793451.MapBlock.csv"
+ },
+ {
+  "name": "PersonalRespawn.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793453.PersonalRespawn.csv",
+  "hash": "3897eab961a6d4b64b55ec9768b23731",
+  "key": "sandbox/games/maps/m1044_3.1574173793453.PersonalRespawn.csv"
+ },
+ {
+  "name": "PropConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793455.PropConfig.csv",
+  "hash": "80a0064aac146ee0e58c84cf0cf4f1e6",
+  "key": "sandbox/games/maps/m1044_3.1574173793455.PropConfig.csv"
+ },
+ {
+  "name": "PropertyConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793457.PropertyConfig.csv",
+  "hash": "2cc40fc4a4a1226defa617a5e78d0fdb",
+  "key": "sandbox/games/maps/m1044_3.1574173793457.PropertyConfig.csv"
+ },
+ {
+  "name": "Skill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793459.Skill.csv",
+  "hash": "efb048910277562c451df0f5342a1797",
+  "key": "sandbox/games/maps/m1044_3.1574173793459.Skill.csv"
+ },
+ {
+  "name": "SupplyConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793461.SupplyConfig.csv",
+  "hash": "a561d64ba43c15626d7a26cb46d6d042",
+  "key": "sandbox/games/maps/m1044_3.1574173793461.SupplyConfig.csv"
+ },
+ {
+  "name": "SupplySetting.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_3.1574173793462.SupplySetting.csv",
+  "hash": "3c87b40e15037a8adbb3b1997a8943e2",
+  "key": "sandbox/games/maps/m1044_3.1574173793462.SupplySetting.csv"
+ },
+ {
+  "name": "AwardConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045894.AwardConfig.csv",
+  "hash": "ab1079c90bcd86949ccdf1945f2de300",
+  "key": "sandbox/games/maps/m1044_4.1574174045894.AwardConfig.csv"
+ },
+ {
+  "name": "BlockSafeArea.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045897.BlockSafeArea.csv",
+  "hash": "bd77e9f88b01e8532a00ec864e3fb8e6",
+  "key": "sandbox/games/maps/m1044_4.1574174045897.BlockSafeArea.csv"
+ },
+ {
+  "name": "ComboKill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045900.ComboKill.csv",
+  "hash": "c365d80e21c3a721c88744038f964c7c",
+  "key": "sandbox/games/maps/m1044_4.1574174045900.ComboKill.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045902.config.yml",
+  "hash": "beb486e52891ca98e8222460eaa583bf",
+  "key": "sandbox/games/maps/m1044_4.1574174045902.config.yml"
+ },
+ {
+  "name": "ExpConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045904.ExpConfig.csv",
+  "hash": "5a637bda441fb8411ccdfadccaf83fe5",
+  "key": "sandbox/games/maps/m1044_4.1574174045904.ExpConfig.csv"
+ },
+ {
+  "name": "ExtraAwardConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045905.ExtraAwardConfig.csv",
+  "hash": "c2e87662c71f46ddee9064c338a286d2",
+  "key": "sandbox/games/maps/m1044_4.1574174045905.ExtraAwardConfig.csv"
+ },
+ {
+  "name": "FirstAwardCheck.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045907.FirstAwardCheck.csv",
+  "hash": "01f064deaed40f3951f24ac8b09ffee7",
+  "key": "sandbox/games/maps/m1044_4.1574174045907.FirstAwardCheck.csv"
+ },
+ {
+  "name": "GunConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045909.GunConfig.csv",
+  "hash": "079b2bfece5a949f7a859fe54da1bc2c",
+  "key": "sandbox/games/maps/m1044_4.1574174045909.GunConfig.csv"
+ },
+ {
+  "name": "HonorExponentConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045911.HonorExponentConfig.csv",
+  "hash": "19216574b9ae1eafa2d7b17df18f232f",
+  "key": "sandbox/games/maps/m1044_4.1574174045911.HonorExponentConfig.csv"
+ },
+ {
+  "name": "MapBlock.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045912.MapBlock.csv",
+  "hash": "ea3cb4a2e69d4e3240b68c23e8029347",
+  "key": "sandbox/games/maps/m1044_4.1574174045912.MapBlock.csv"
+ },
+ {
+  "name": "PersonalRespawn.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045914.PersonalRespawn.csv",
+  "hash": "31b639d79521746b4dfeb1dd27433b68",
+  "key": "sandbox/games/maps/m1044_4.1574174045914.PersonalRespawn.csv"
+ },
+ {
+  "name": "PropConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045916.PropConfig.csv",
+  "hash": "80a0064aac146ee0e58c84cf0cf4f1e6",
+  "key": "sandbox/games/maps/m1044_4.1574174045916.PropConfig.csv"
+ },
+ {
+  "name": "PropertyConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045918.PropertyConfig.csv",
+  "hash": "2cc40fc4a4a1226defa617a5e78d0fdb",
+  "key": "sandbox/games/maps/m1044_4.1574174045918.PropertyConfig.csv"
+ },
+ {
+  "name": "Skill.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045919.Skill.csv",
+  "hash": "efb048910277562c451df0f5342a1797",
+  "key": "sandbox/games/maps/m1044_4.1574174045919.Skill.csv"
+ },
+ {
+  "name": "SupplyConfig.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045921.SupplyConfig.csv",
+  "hash": "9fc24687326a2033b3e5afc998cb7df0",
+  "key": "sandbox/games/maps/m1044_4.1574174045921.SupplyConfig.csv"
+ },
+ {
+  "name": "SupplySetting.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1044_4.1574174045923.SupplySetting.csv",
+  "hash": "3c87b40e15037a8adbb3b1997a8943e2",
+  "key": "sandbox/games/maps/m1044_4.1574174045923.SupplySetting.csv"
+ }
+]
