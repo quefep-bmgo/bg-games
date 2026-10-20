@@ -1,0 +1,26 @@
+[
+ {
+  "name": "AdvertSetting.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1060_1.1582204750346.AdvertSetting.csv",
+  "hash": "a3c932caeeb7d9f551d99405b162a881",
+  "key": "sandbox/games/maps/m1060_1.1582204750346.AdvertSetting.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1060_1.1582204750349.config.yml",
+  "hash": "0a199bbe7bfc5a57523f051e02b7c531",
+  "key": "sandbox/games/maps/m1060_1.1582204750349.config.yml"
+ },
+ {
+  "name": "AdvertSetting.csv",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1060_2.1582204800712.AdvertSetting.csv",
+  "hash": "a3c932caeeb7d9f551d99405b162a881",
+  "key": "sandbox/games/maps/m1060_2.1582204800712.AdvertSetting.csv"
+ },
+ {
+  "name": "config.yml",
+  "url": "http://staticgs.sandboxol.com/sandbox/games/maps/m1060_2.1582204800715.config.yml",
+  "hash": "b34538a44506f4ce0ec2e7d8cce86f3d",
+  "key": "sandbox/games/maps/m1060_2.1582204800715.config.yml"
+ }
+]
