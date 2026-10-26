@@ -41,19 +41,13 @@ inverse used for decryption
 
 Known limitation: g1100 `lang.csv` has Unicode bytes not covered by the known table.
 
-## 4. g1042 v10104 obfuscated source
+## 4. g1019 v10104 obfuscated source
 
-Status: not fully deobfuscated.
+Status: solved for g1019.
 
-All 470 `.lua` entries start with an obfuscated wrapper (`777...`) instead of normal Lua.
+All `.lua` entries use a static byte substitution with a `777...` prefix. The S-box was recovered from 407 same-length v10103/v10104 pairs; 421/421 entries re-encode exactly and 407 decode identically to v10103.
 
-They are preserved under:
-
-```text
-...\DECRYPTED\g1042_build_and_shoot\v10104\cipher
-```
-
-The `v10103` and `v10113` sources are available for comparison, but the v10104 wrapper itself was not reduced to source.
+The g1042 v10104 wrapper is still not reduced to source; that is a different build, not the same solved transform.
 
 ## 5. g1042 v10105 encrypted source
 
@@ -95,19 +89,15 @@ Recovery counts are in each `MANIFEST.json`.
 
 ## 7. Legacy v10109-v10112 packs
 
-Status: TOC and CSV solved; Lua blocked.
+Status: fully solved for the tested packs.
 
-What works:
+- legacy TOC: AES-128-ECB/PKCS#7 with `blrsp20241212345`
+- KeyObject blob: AES-128-ECB/PKCS#7 with `blsle20240112345`
+- patch map: AES-128-ECB/PKCS#7 with `bmlle20240922345`
+- 501/501 g1042 v10112 entries and 452/452 g1019 v10112 entries re-encrypt exactly
+- 500/501 and 451/452 source hashes match the patch map; the one miss is the stale `new_vip.lua` publisher hash
 
-- legacy TOC via AES-128-ECB/PKCS#7 with `blrsp20241212345`
-- all `flag=1` CSVs
-- known-plaintext proof for one Lua entry, re-encrypted byte-exactly
-
-What remains blocked:
-
-- blind decryption of legacy Lua entries, because the legacy `sandboxol` blob key/KDF was not recovered
-
-The Lua ciphertext is preserved in `cipher\`; the entry names/sizes/hashes are in `MANIFEST.json`.
+See `13-legacy-sandboxol-decryption.md`.
 
 ## 8. Map terrain
 
@@ -119,9 +109,11 @@ Map configs are extracted into `map_config\`.
 
 - live server/backend logic
 - anti-cheat native routines beyond the AES path
-- legacy `sandboxol` blob encryption
 - g1042 v10104 wrapper
 - g1042 v10105 encryption
+- g1019 v10105: 6 unique files whose per-file codebook is not present
 - `lang.csv` Unicode bytes absent from the substitution table
+
+The legacy `sandboxol` blobs are no longer on this list.
 
 Everything else in the current packs is represented as source, bytecode, CSV, or explicit ciphertext.

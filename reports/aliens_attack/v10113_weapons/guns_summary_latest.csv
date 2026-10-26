@@ -1,0 +1,4 @@
+map,map_id,map_label,base_attack_level_1,weapon_rows,max_weapon_level,total_price_to_max,max_damage_per_shot_def0,max_damage_per_shot_weapon,max_dps_def0,max_dps_weapon,best_price_per_dps_weapon,best_price_per_dps_value
+normal,m1019_1,Normal map,300.9,30,30,6403500.0,14967.48,26,6576.730435,30,2,3.115524
+hard,m1019_10,Hard map,451.35,30,30,6403500.0,15269.825,25,8920.575,28,2,1.596993
+staging,m1019_2,Staging map (not live),451.35,30,30,6403500.0,15269.825,25,8801.634,28,2,1.517144

@@ -18,6 +18,15 @@ toolkit.
 | `emu_lib.py` | Unicorn-based ARM64 decryption helper |
 | `sub_table.pkl` | Substitution table used by the decryption helpers |
 
+## Map conversion
+
+| Path | Purpose |
+| --- | --- |
+| `mapconv/mapconv.py` | Convert legacy Blockman GO `.mca` map bundles to Minecraft Java 26.3 worlds |
+| `mapconv/legacy_blocks.py` | Legacy numeric block ID + metadata to modern block-state mapping |
+| `mapconv/world_template/` | Minecraft 26.3 world metadata template (no terrain) |
+| `mapconv/README.md` | Usage and conversion limitations |
+
 ## Decompilation
 
 | File | Purpose |

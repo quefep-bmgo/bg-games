@@ -1,0 +1,9 @@
+﻿map_id,channel,group_index,type,icon,name,goods_count,first_version,last_version,n_versions,versions,content_hash
+m1019_1,live,0,0,set:app_shop.json image:app_shop_diamonds_mods,gui.shop.tab.diamond,6,v10068,v10113,41,v10068;v10069;v10070;v10071;v10072;v10073;v10074;v10075;v10076;v10077;v10079;v10080;v10082;v10083;v10084;v10085;v10086;v10087;v10088;v10090;v10091;v10093;v10095;v10096;v10097;v10098;v10099;v10100;v10101;v10102;v10103;v10104;v10105;v10106;v10107;v10108;v10109;v10110;v10111;v10112;v10113,ddb5484aea1daea5
+m1019_1,live,1,1,set:gui_inventory_icon.json image:icon_bookrack,gui.shop.tab.others,3,v10068,v10113,41,v10068;v10069;v10070;v10071;v10072;v10073;v10074;v10075;v10076;v10077;v10079;v10080;v10082;v10083;v10084;v10085;v10086;v10087;v10088;v10090;v10091;v10093;v10095;v10096;v10097;v10098;v10099;v10100;v10101;v10102;v10103;v10104;v10105;v10106;v10107;v10108;v10109;v10110;v10111;v10112;v10113,696014505c2dcf48
+m1019_1,staging,0,0,set:app_shop.json image:app_shop_diamonds_mods,gui.shop.tab.diamond,6,v10079,v10105,11,v10079;v10080;v10082;v10083;v10084;v10085;v10086;v10087;v10088;v10104;v10105,ddb5484aea1daea5
+m1019_1,staging,1,1,set:gui_inventory_icon.json image:icon_bookrack,gui.shop.tab.others,3,v10079,v10105,11,v10079;v10080;v10082;v10083;v10084;v10085;v10086;v10087;v10088;v10104;v10105,696014505c2dcf48
+m1019_10,live,0,0,set:app_shop.json image:app_shop_diamonds_mods,gui.shop.tab.diamond,6,v10110,v10113,4,v10110;v10111;v10112;v10113,ddb5484aea1daea5
+m1019_10,live,1,1,set:gui_inventory_icon.json image:icon_bookrack,gui.shop.tab.others,3,v10110,v10113,4,v10110;v10111;v10112;v10113,696014505c2dcf48
+m1019_2,staging,0,0,set:app_shop.json image:app_shop_diamonds_mods,gui.shop.tab.diamond,6,v10113,v10113,1,v10113,ddb5484aea1daea5
+m1019_2,staging,1,1,set:gui_inventory_icon.json image:icon_bookrack,gui.shop.tab.others,3,v10113,v10113,1,v10113,696014505c2dcf48

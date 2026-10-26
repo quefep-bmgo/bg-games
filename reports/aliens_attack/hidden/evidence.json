@@ -1,0 +1,911 @@
+{
+  "schema_version": "1.0",
+  "analysis": {
+    "game": "g1019",
+    "title_en": "Aliens Attack",
+    "title_zh": "\u5f02\u661f\u5165\u4fb5",
+    "internal_names": [
+      "CreepyAliens",
+      "creepyalients"
+    ],
+    "date": "2026-10-25",
+    "scope": "All local g1019 versions v10068-v10113, v10113 decrypted engine/game source, extracted server/app pieces, map payloads, leaked source archive, and selective public web searches.",
+    "write_root": "aliens_attack/reports/agents/hidden",
+    "production_modified": false
+  },
+  "inputs": {
+    "local_versions": "aliens_attack/games/g1019 (41 versions, v10068-v10113; gaps exist)",
+    "manifest": "aliens_attack/manifest/game-resource-config.json",
+    "v10113_source": "aliens_attack/decrypted/v10113/source/lua",
+    "extracted_server_app": "aliens_attack/server_src/extracted/{android,dispatcher,game-api,cdn-api,cdn-dev,maps}",
+    "source_archive": "C:/Users/quefep/Desktop/Decomp Temp/Copy of Copie de Blockman-Go (2).zip",
+    "archive_password_location": "C:/Users/quefep/Desktop/Decomp Temp/IDENTIFIERS_REPORT.md:4 (value redacted; read at runtime only)",
+    "prior_local_workspaces_used_for_readability": [
+      "aliens_attack/reports/agents/hard_mode/work_versions (plaintext plugin sources v10068-v10103, v10104-v10112 wrapped)",
+      "aliens_attack/reports/agents/features/_work/decrypted_g1019 (v10113 res.pack CSV extraction and version source)",
+      "aliens_attack/reports/agents/features/_work/maps/v10108/m1019_1 (last loose-CSV normal map)",
+      "aliens_attack/reports/agents/features/_work/maps/v10113/m1019_10"
+    ],
+    "verification_note": "Key hashes were re-checked against the actual ZIPs: v10103 plugin/lua/server/Match.lua md5 b1f50cc4228cf1ef4ad9ca973478423f matches the extracted copy; v10113 plugin/ResPack extraction Match.lua md5 b1f50cc4228cf1ef4ad9ca973478423f matches decrypted/v10113/source; m1019_10 ZIP md5 96aad549865807944d45cbb1212d5ebf matches the manifest; m1019_2 ZIP md5 6450a8139f35ae42523215b097f3a845 matches the manifest."
+  },
+  "proven_local": [
+    {
+      "id": "P01",
+      "claim": "The local corpus contains 41 g1019 versions, v10068-v10113, with a two-entry live map catalog at v10113 plus one staging map and one staging plugin.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/manifest/game-resource-config.json",
+          "key": "\"10113\".maps / .mapsStaging / .pluginStaging",
+          "detail": "live maps m1019_10 and m1019_1; staging map m1019_2; staging plugin g1019.1770004136266.zip"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/version.json",
+          "line": 6,
+          "detail": "hasPluginStaging true, hasMapsStaging true, pluginHash 143d673e08f10528d158d59a0890a516"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/version_inventory.json",
+          "detail": "generated inventory of all 41 versions, ZIP entry hashes and map metrics"
+        }
+      ]
+    },
+    {
+      "id": "P02",
+      "claim": "m1019_1 is the original normal-difficulty map: 100 kill-gated levels, monsterLv 1-800, 20 monster definitions, 2000 monster_num definitions, 30 max monsters, 60s wait/prepare, 190s per level.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/games/g1019/v10108/maps/m1019_1.zip",
+          "detail": "last normal package with loose CSVs; game_level.csv 100 data rows, kills sum 8159, monsterLv max 800"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/maps/m1019_1.zip",
+          "detail": "same world/scene MCAs; CSV payload is inside res.pack; decrypted fallback hashes match v10108 (game_level.csv md5 90ac5567325c65fc9c2b413649c8a49a)"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/maps/m1019_1.zip:config.yml",
+          "line": 8,
+          "detail": "waitingTime 60"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/maps/m1019_1.zip:config.yml",
+          "line": 20,
+          "detail": "gameLevelTime 190"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/version_inventory.json",
+          "key": "\"10113\".maps[\"maps/m1019_1.zip\"].csv",
+          "detail": "rows 100; kills_sum 8159; monsterLv_min 1; monsterLv_max 800; one-kill boss levels 10,20,30,40,50,60"
+        }
+      ]
+    },
+    {
+      "id": "P03",
+      "claim": "m1019_10 is a distinct, substantially harder map introduced in v10110 (uploaded 2025-07-15), not a threshold or branch inside m1019_1.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/manifest/game-resource-config.json",
+          "key": "\"10110\".maps[1]",
+          "detail": "m1019_10 durl g1019.1752547520182.zip, 3,172,643 bytes; absent from 10109 and earlier"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10110/maps/m1019_10.zip",
+          "detail": "first local copy; ZIP md5 96aad549865807944d45cbb1212d5ebf, unchanged through v10113"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/maps/m1019_10.zip:config.yml",
+          "line": 8,
+          "detail": "waitingTime 30 (normal 60); prepareTime 30 (line 11); gameLevelTime 310 (line 20); maxMonsters 33 (line 35); player attack 450 (line 61)"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/version_inventory.json",
+          "key": "\"10110\".maps[\"maps/m1019_10.zip\"]",
+          "detail": "60 levels; kills_sum 7986; monsterLv 0-900; 32 monster definitions; 1920 monster_num definitions"
+        }
+      ]
+    },
+    {
+      "id": "P04",
+      "claim": "Every one of the 20 shared monster definitions has different stats in m1019_10, and 12 new monster definitions are added: 1033,1043,1053,1063,1064,1065,2013,2023,2033,2034,2035,3031.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "reports/agents/features/_work/maps/v10108/m1019_1/monster.csv",
+          "detail": "normal monster set: 20 ids"
+        },
+        {
+          "path": "reports/agents/features/_work/maps/v10113/m1019_10/monster.csv",
+          "detail": "hard monster set: 32 ids; 20 shared ids all differ in at least one stat"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/features_compare_modes_output.txt",
+          "detail": "independent prior local comparison output; NORMAL vs HARD10 adds exactly those 12 monster ids and lists shared stat changes"
+        }
+      ]
+    },
+    {
+      "id": "P05",
+      "claim": "m1019_2 (v10113 maps-staging, uploaded 2026-03-12) is an unreleased balance variant of m1019_10, not a new world: all MCAs and all three scene YAMLs are byte-identical to m1019_10.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/games/g1019/v10113/maps-staging/m1019_2.zip",
+          "detail": "ZIP md5 6450a8139f35ae42523215b097f3a845 matches manifest"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/maps/m1019_10.zip",
+          "detail": "r.3.-1.mca 0852dba43b3a31235044a77be9860b3f; r.3.-2.mca ee8861ae23ee2a743e7d7f4a9ba84b92; r.4.-1.mca 7f5871c9349bfddb1aeb0915a2d635d5; r.4.-2.mca ac1a9e8800b857845c6a85e2669945b2; scene1 4ba16377aa21c72b8e2b83491ee4174f; scene2 7c2f67820dfaec142a060cfdd41541a6; scene3 63b9e45e0f506249316bf8f8bac62324"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/version_inventory.json",
+          "key": "\"10113\".maps[\"maps-staging/m1019_2.zip\"]",
+          "detail": "60 levels, same 7986 kills, same monster ids; config waiting 30 / level 310 / maxMonsters 30 / PlayerUpgradeHealthReply 0.2 / BasementUpgradeHealthReply 0.35"
+        }
+      ]
+    },
+    {
+      "id": "P06",
+      "claim": "The v10113 live and staging game-plugin sources contain no m1019_10, m1019_2, hard-mode, difficulty, unlock, or threshold selector token. The game plugin only loads the map supplied by the host and randomly picks a scene from that map's config.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/decrypted/v10113/source/lua/server/Match.lua",
+          "line": 11,
+          "detail": "GameMatch.gameType = \"g1019\""
+        },
+        {
+          "path": "aliens_attack/decrypted/v10113/source/lua/server/Match.lua",
+          "line": 273,
+          "detail": "selectMap(): curGameScene = SceneConfig:randomScene(); no mapId/hard flag"
+        },
+        {
+          "path": "aliens_attack/decrypted/v10113/source/lua/server/config/GameConfig.lua",
+          "line": 66,
+          "detail": "only config.yml 'scenes' entries are loaded; CSVs are loaded from the map working directory (lines 81-88)"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/keyword_hits.json",
+          "key": "text_counts",
+          "detail": "0 hits for hard mode, hard_mode, difficulty, m1019_10, m1019_2, hidden mode, test build across plugin/map/app/server text scans"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/plugin_history.json",
+          "key": "v10103_to_v10113_server_changes",
+          "detail": "only data/GameRankNpc.lua changed between v10103 and v10113; Match.lua, GameConfig.lua, GameLevelConfig.lua and SceneConfig.lua are identical"
+        }
+      ]
+    },
+    {
+      "id": "P07",
+      "claim": "Every map config in the corpus loads only scene1.yml. scene2.yml and scene3.yml are shipped but unreachable through the game plugin.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/games/g1019/v10113/maps/m1019_1.zip:config.yml",
+          "line": 3,
+          "detail": "scenes: list contains only path: \"scene1.yml\""
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/maps/m1019_10.zip:config.yml",
+          "line": 3,
+          "detail": "same single-scene list"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/maps-staging/m1019_2.zip:config.yml",
+          "line": 3,
+          "detail": "same single-scene list"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/version_summary.json",
+          "detail": "all 41 versions report scenes [\"scene1.yml\"]"
+        }
+      ]
+    },
+    {
+      "id": "P08",
+      "claim": "The v10113 plugin-staging build changes only engine/anti-cheat/UI files; no game-server file differs after newline normalization. It is not a hidden hard-mode build.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/plugin_history.json",
+          "key": "live_vs_staging_plugin_changes",
+          "detail": "5 changed files: lua/engine_base/util/FileUtil.lua; lua/engine_client/ui/UIAnimation.lua; lua/engine_server/antihack/AntiHackConfig.lua; lua/engine_server/antihack/HackReport.lua; lua/engine_server/antihack/dynamic_script/check_fake_app.lua"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/plugin_extract/g1019/v10113/source/lua/server/Match.lua",
+          "detail": "live Match.lua md5 b1f50cc4228cf1ef4ad9ca973478423f"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/plugin_extract/g1019/v10114/source/lua/server/Match.lua",
+          "detail": "staging Match.lua md5 b1f50cc4228cf1ef4ad9ca973478423f"
+        }
+      ]
+    },
+    {
+      "id": "P09",
+      "claim": "The old Android client does not choose a map or hard mode. It asks the server for a dispatch by gameId and then uses the returned mname/mid/mapUrl. The only game-mode value is the generic Game.gameMode (0 for g1019 in the 2018 snapshot).",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/server_src/extracted/android/android-client-dev/app/src/main/java/com/sandboxol/blockymods/web/GameApi.java",
+          "line": 181,
+          "detail": "getMiniGameDispatch(context, typeId, curGameResVersion); body has clz/name/pioneer/targetId/resVersion/ever only"
+        },
+        {
+          "path": "aliens_attack/server_src/extracted/android/android-client-dev/GreenDao/src/main/java/com/sandboxol/greendao/entity/Dispatch.java",
+          "line": 28,
+          "detail": "mname -> mapName; downurl -> mapUrl; mid -> mapId"
+        },
+        {
+          "path": "aliens_attack/server_src/extracted/android/android-client-dev/app/src/main/java/com/sandboxol/blockymods/view/activity/join/EnterGameViewModel.java",
+          "line": 203,
+          "detail": "setGameMode(game.getGameMode()); setMapName(dispatch.mapName); setMapId(dispatch.mapId)"
+        },
+        {
+          "path": "aliens_attack/server_src/extracted/android/android-client-dev/app/src/main/assets/last_online.json",
+          "line": 47,
+          "detail": "g1019 entry; line 48 gameMode 0"
+        }
+      ]
+    },
+    {
+      "id": "P10",
+      "claim": "The archived server-side dispatch code is incomplete and cannot select g1019 maps: game-service-api hardcodes m_1008 with a TODO Map, and the Go dispatcher's DispatchUser() is a TODO stub.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/server_src/extracted/game-api/game-service-api-main/src/dispatcher/service.js",
+          "line": 47,
+          "detail": "// TODO: Map; returns name/mname/mid m_1008 (lines 50-53)"
+        },
+        {
+          "path": "aliens_attack/server_src/extracted/dispatcher/game-service-dispatcher-master/internal/controllers/dispatch_controller.go",
+          "line": 3,
+          "detail": "TODO: Implementation needed; DispatchUser() empty"
+        },
+        {
+          "path": "aliens_attack/server_src/extracted/dispatcher/game-service-dispatcher-master/internal/services/dispatch_service.go",
+          "detail": "generic room/DB service; no g1019 or map catalog logic"
+        }
+      ]
+    },
+    {
+      "id": "P11",
+      "claim": "There is no g1019 hard-mode localization or map label. The game tip file has only Minute/Second/WelcomePlayer; scene names are shared numeric ids 20059/20060/20061.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/current_assets/g1019.csv",
+          "line": 3,
+          "detail": "1019001 Minute; line 4 1019002 Second; line 5 1019003 MsgWelcomePlayer; no hard/difficulty string"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/maps/m1019_1.zip:scene1.yml",
+          "line": 5,
+          "detail": "name: 20059; scene2 name 20060; scene3 name 20061"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/maps/m1019_10.zip:scene1.yml",
+          "line": 5,
+          "detail": "name: 20059 (same id as normal)"
+        },
+        {
+          "path": "aliens_attack/server_src/extracted/android/android-client-dev/app/src/main/res/values/strings.xml",
+          "line": 453,
+          "detail": "game_g1019 = Aliens Attack; no mode string"
+        },
+        {
+          "path": "aliens_attack/server_src/extracted/android/android-client-dev/app/src/main/res/values-zh/strings.xml",
+          "line": 452,
+          "detail": "game_g1019 = \u00e5\u00bc\u201a\u00e6\u02dc\u0178\u00e5\u2026\u00a5\u00e4\u00be\u00b5"
+        }
+      ]
+    },
+    {
+      "id": "P12",
+      "claim": "No map-unlock condition, account-level gate, event schedule, or hard-mode threshold exists in the scanned g1019 plugin/map/app/server artifacts. The only level thresholds are per-match kill counters in game_level.csv.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/decrypted/v10113/source/lua/server/Match.lua",
+          "line": 384,
+          "detail": "ifCanUpgradeGameLevel compares current scene kills with GameLevelConfig:getKillsByLevel(level)"
+        },
+        {
+          "path": "aliens_attack/decrypted/v10113/source/lua/server/config/GameLevelConfig.lua",
+          "line": 30,
+          "detail": "getMaxLevel() = #self.levels; getKillsByLevel returns the CSV kills threshold"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/keyword_hits.json",
+          "key": "text_counts",
+          "detail": "unlock hits are generic engine/Christmas strings; no g1019 map unlock; threshold hits are engine math/protobuf"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/plugin/setting/pay_activity/PayActivity.json",
+          "detail": "only dated activity config: startDate 2022,11,24,00,00,00; endDate 2022,11,30,00,00,00 (expired, generic pay activity)"
+        }
+      ]
+    },
+    {
+      "id": "P13",
+      "claim": "The leaked source archive predates the hard map: its only g1019 snapshot is a 2023-03-21 m1019_1 normal map with 17 loose files; it has no m1019_10 and no m1019_2.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/archive_audit.json",
+          "key": "g1019_snapshots",
+          "detail": "g1019.1679368153307.zip, 3,255,782 bytes, md5 d6db7c4aa9ea1c1b63ea27025f720304"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/archive_audit.json",
+          "key": "snapshot_vs_local.v10108",
+          "detail": "17 common files; all identical except checksums.md5"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/archive_audit.json",
+          "key": "game_maps_has_m1019_10 / game_maps_has_m1019_2",
+          "detail": "false / false"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/archive/game-maps/game-map-main/game-map.md",
+          "detail": "Game Id: g1019; Game Name: CreepyAliens (no mode name)"
+        },
+        {
+          "path": "C:/Users/quefep/Desktop/Decomp Temp/Copy of Copie de Blockman-Go (2).zip",
+          "detail": "outer archive timestamps 2024-08/09; game-maps snapshot timestamp 2023-03-20/21; hard map first appears 2025-07-15"
+        }
+      ]
+    },
+    {
+      "id": "P14",
+      "claim": "The v10113 manifest reorders the live maps so m1019_10 is first and m1019_1 second; v10110-v10112 list m1019_1 first. No 10113 config explains the reorder.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/manifest/game-resource-config.json",
+          "key": "\"10110\".maps",
+          "detail": "[m1019_1, m1019_10]"
+        },
+        {
+          "path": "aliens_attack/manifest/game-resource-config.json",
+          "key": "\"10113\".maps",
+          "detail": "[m1019_10, m1019_1]"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/version.json",
+          "detail": "no map-order/default field; only plugin hash and staging flags"
+        }
+      ]
+    },
+    {
+      "id": "P15",
+      "claim": "Unused content exists: scene2/scene3 are dormant in every map; m1019_1 has 1475 of 2000 monster_num ids unreferenced by its game_level.csv, and monster definition 1022 is unreferenced; m1019_10 has 1516 of 1920 monster_num ids unreferenced.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/version_inventory.json",
+          "key": "\"10113\".maps[\"maps/m1019_1.zip\"].refs",
+          "detail": "525 referenced / 2000 defined; 1475 unused monster_num ids"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/version_inventory.json",
+          "key": "\"10113\".maps[\"maps/m1019_10.zip\"].refs",
+          "detail": "404 referenced / 1920 defined; 1516 unused monster_num ids"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10108/maps/m1019_1.zip",
+          "detail": "monster.csv includes 1022; game_level.csv never references a monster_num row using 1022"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/maps/m1019_1.zip",
+          "detail": "scene2.yml and scene3.yml exist but config.yml loads only scene1.yml"
+        }
+      ]
+    },
+    {
+      "id": "P16",
+      "claim": "No game-specific GM/debug/test code exists in the g1019 server plugin; GM helpers/panels in the plugin pack are generic engine/base facilities. Test-channel markers are hasPluginStaging/hasMapsStaging, not a hard-mode flag.",
+      "confidence": "high",
+      "evidence": [
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/keyword_hits.json",
+          "key": "text_counts",
+          "detail": "no GM/debug/test g1019 hit in server/Match/config/listeners; only generic engine GMHelper and engine/server anti-cheat files"
+        },
+        {
+          "path": "aliens_attack/games/g1019/v10113/version.json",
+          "line": 6,
+          "detail": "hasPluginStaging true; hasMapsStaging true"
+        },
+        {
+          "path": "aliens_attack/reports/agents/hidden/work/plugin_extract/g1019/v10113/source/lua/server/ScriptMain.lua",
+          "detail": "init only registers listeners and HostApi gameplay settings; no debug/GM branch"
+        }
+      ]
+    }
+  ],
+  "inferred": [
+    {
+      "id": "I01",
+      "claim": "m1019_10 is the content that players would call the v10113 'hard mode'. It is a separate map package with a harder economy/difficulty curve, not a plugin branch or data threshold.",
+      "confidence": "high",
+      "basis": [
+        "P03",
+        "P04",
+        "P05",
+        "P06",
+        "P11"
+      ],
+      "caveat": "No local artifact contains the literal label 'hard mode'; the name is inferred from difficulty metrics and the two-map catalog."
+    },
+    {
+      "id": "I02",
+      "claim": "Selection of m1019_10 happens upstream of the game plugin: in the app/server dispatch, lobby, or matchmaking layer that returns mname/mid/mapUrl. It is not selected by Match.lua, GameConfig.lua, SceneConfig.lua, or a map CSV threshold.",
+      "confidence": "high",
+      "basis": [
+        "P06",
+        "P09",
+        "P10",
+        "P14"
+      ],
+      "caveat": "The production g1019 dispatch implementation is not in the archive; the included game-api is a stub/hardcoded m_1008 and the Go dispatcher is a TODO."
+    },
+    {
+      "id": "I03",
+      "claim": "v10113 listing m1019_10 first may indicate that hard mode became the preferred/default map for new rooms, or simply a CDN/config reorder. The archive does not prove either.",
+      "confidence": "medium",
+      "basis": [
+        "P14"
+      ],
+      "caveat": "No default-map, room-creation, or client-selection evidence found."
+    },
+    {
+      "id": "I04",
+      "claim": "m1019_2 is a future/unreleased rebalance of the hard map rather than a third mode; it reuses the hard world and tweaks levels, monster stats, arms, basement HP and rewards.",
+      "confidence": "high",
+      "basis": [
+        "P05"
+      ],
+      "caveat": "It is staging-only at v10113; no later version is in the corpus, so its release name is unknown."
+    },
+    {
+      "id": "I05",
+      "claim": "There is no player-level or account-level unlock gate for hard mode; if access is gated at all, it is gated by the external dispatch/rollout system, not by data in the shipped game pack.",
+      "confidence": "medium",
+      "basis": [
+        "P12",
+        "P15"
+      ],
+      "caveat": "Absence of evidence in the local pack; the production server database/feature-flag system is missing."
+    }
+  ],
+  "secondary_web": [
+    {
+      "id": "W01",
+      "claim": "Archive.org's BlockmanGO map archive lists 'g1019 Aliens Attack.zip' but has no hard-mode or m1019_10 page. The local leaked archive contains the same 2023-03-21 m1019_1 snapshot.",
+      "source": "https://archive.org/details/blockmango",
+      "accessed": "2026-10-25",
+      "confidence": "secondary",
+      "note": "The archive page is a public mirror; local archive evidence (P13) is stronger."
+    },
+    {
+      "id": "W02",
+      "claim": "Public wiki/mini-game lists mention 'Aliens attack' but do not document a hard mode, map m1019_10, or an unlock threshold.",
+      "source": "https://en.namu.wiki/w/Blockman%20Go/%EB%AF%B8%EB%8B%88%EA%B2%8C%EC%9E%84",
+      "accessed": "2026-10-25",
+      "confidence": "secondary",
+      "note": "Generic community list; no map-level detail."
+    },
+    {
+      "id": "W03",
+      "claim": "Targeted web searches for 'm1019_10', 'Aliens Attack hard mode', and Blockman GO hard-mode pages returned no first-party or reliable community documentation.",
+      "source": "websearch: 'm1019_10 Blockman'; 'Aliens Attack Blockman GO hard mode map'; 'Blockman GO Aliens Attack hard mode'",
+      "accessed": "2026-10-25",
+      "confidence": "secondary-negative",
+      "note": "Negative search result; do not treat as proof of absence."
+    }
+  ],
+  "secondary_local_capture": [
+    {
+      "id": "C01",
+      "claim": "A 2026-10-20 live app capture of the g1019 game-list object contains title/type/online/praise and engine flags but no map list, gameMode, hard-mode, or unlock field.",
+      "source": "Decomp Temp/_capture/room_flows.jsonl line 31 (also 34, 91)",
+      "details": {
+        "gameId": "g1019",
+        "gameTitle": "Aliens Attack",
+        "gameTypes": [
+          "Adventure",
+          "Shooters"
+        ],
+        "onlineNumber": 123,
+        "isNewEngine": 0,
+        "engineVersion": 0,
+        "praiseNumber": 379750
+      },
+      "confidence": "secondary-local"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "U01",
+      "question": "What exact component selects m1019_10 for a room (lobby map vote, random rotation, matchmaking, region rollout, or a server-side flag)?",
+      "why_missing": "The production g1019 dispatch service is absent. The archived game-service-api hardcodes m_1008 and the dispatcher's DispatchUser() is an empty TODO. No captured g1019 dispatch response exists.",
+      "searched": [
+        "android source",
+        "game-api",
+        "dispatcher",
+        "cdn-api",
+        "cdn-dev",
+        "game-resource-config",
+        "room_flows.jsonl",
+        "source archive",
+        "main-api"
+      ]
+    },
+    {
+      "id": "U02",
+      "question": "What is the official/UI name of m1019_10? Is it literally 'Hard Mode', 'Hard', a map name, or only an internal id?",
+      "why_missing": "No string 'hard', 'difficulty', 'm1019_10', or a second map name exists in g1019 localization, app resources, plugin, or map configs. Scene ids 20059-20061 are shared with normal.",
+      "searched": [
+        "g1019.csv current and private server",
+        "Android strings.xml all locales",
+        "plugin Messages/Scene YAMLs",
+        "current APK assets"
+      ]
+    },
+    {
+      "id": "U03",
+      "question": "Is hard mode user-selectable, random, level-gated, event-gated, or region-gated?",
+      "why_missing": "No unlock/threshold/event field or selector in local artifacts; production feature flags and DB tables are missing.",
+      "searched": [
+        "game-resource-config.gamesetting",
+        "GameRule/UIDisplay CSV",
+        "game_party_config schema",
+        "plugin/map CSVs",
+        "live capture"
+      ]
+    },
+    {
+      "id": "U04",
+      "question": "Is there an event schedule or rotation for m1019_10/m1019_2?",
+      "why_missing": "Only an expired generic pay_activity button (2022-11-24 to 2022-11-30) exists; no g1019 event schedule.",
+      "searched": [
+        "plugin/setting/pay_activity",
+        "GameTip",
+        "manifest",
+        "server source",
+        "live capture"
+      ]
+    },
+    {
+      "id": "U05",
+      "question": "Did v10113 promote m1019_10 to default, and did m1019_2 ever ship after v10113?",
+      "why_missing": "Map order changed in v10113 but no default field; corpus ends at v10113. m1019_2 is staging-only.",
+      "searched": [
+        "manifest 10110-10113",
+        "version.json",
+        "map zips",
+        "live capture"
+      ]
+    },
+    {
+      "id": "U06",
+      "question": "Why did v10113 repack m1019_1 res.pack (md5 8bb48c...) while v10109-v10112 used 2b404a...?",
+      "why_missing": "CSV/world content hashes match the older normal map; the repack could be anti-cheat/container churn or an unobserved content edit inside res.pack.",
+      "searched": [
+        "res.pack hashes",
+        "decrypted CSV hashes",
+        "map entry hashes"
+      ]
+    },
+    {
+      "id": "U07",
+      "question": "Are there g1019 versions not present in the corpus (gaps at 10078, 10081, 10089, 10092, 10094, 10114+) that contain selector or hard-mode changes?",
+      "why_missing": "Corpus has 41 versions; missing versions are absent from local inputs and manifest snapshot.",
+      "searched": [
+        "games/g1019",
+        "manifest",
+        "source archive"
+      ]
+    },
+    {
+      "id": "U08",
+      "question": "Does any client UI render a mode/map chooser for g1019 that is not in the 2018 Android source or current assets?",
+      "why_missing": "Current app is largely server-driven; APK search found no m1019_10/m1019_2 strings, but a full decompile of app 3.29.3 was not performed.",
+      "searched": [
+        "base.apk DEX byte strings",
+        "assets.apk file names",
+        "2018 android source"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date_utc": "2018-12-13",
+      "event": "m1019_1 normal map uploaded (CreepyAliens.1544670764995.zip)",
+      "confidence": "high"
+    },
+    {
+      "date_utc": "2020-12-21",
+      "event": "CreepyAliens plugin baseline in corpus (v10068)",
+      "confidence": "high"
+    },
+    {
+      "date_utc": "2021-08-04",
+      "event": "m1019_1 repack/CSV revision; semantic rows unchanged",
+      "confidence": "high"
+    },
+    {
+      "date_utc": "2023-03-21",
+      "event": "m1019_1 snapshot used by leaked source archive",
+      "confidence": "high"
+    },
+    {
+      "date_utc": "2025-01-08",
+      "event": "v10109 m1019_1 repacked with res.pack; normal mode only",
+      "confidence": "high"
+    },
+    {
+      "date_utc": "2025-07-04",
+      "event": "v10110 plugin uploaded",
+      "confidence": "high"
+    },
+    {
+      "date_utc": "2025-07-15",
+      "event": "m1019_10 hard-difficulty map uploaded; listed second in v10110-v10112",
+      "confidence": "high"
+    },
+    {
+      "date_utc": "2025-10-24",
+      "event": "v10112 plugin uploaded",
+      "confidence": "high"
+    },
+    {
+      "date_utc": "2025-12-24",
+      "event": "v10113 m1019_1 repacked (res.pack md5 8bb48c...)",
+      "confidence": "high"
+    },
+    {
+      "date_utc": "2026-01-16",
+      "event": "v10113 plugin uploaded; live maps reordered [m1019_10, m1019_1]",
+      "confidence": "high"
+    },
+    {
+      "date_utc": "2026-02-02",
+      "event": "v10113 plugin-staging uploaded (anti-cheat/UI changes only)",
+      "confidence": "high"
+    },
+    {
+      "date_utc": "2026-03-12",
+      "event": "m1019_2 staging map uploaded (rebalance of m1019_10; same world)",
+      "confidence": "high"
+    },
+    {
+      "date_utc": "2026-10-20",
+      "event": "live capture: g1019 game-list object has no mode/map field",
+      "confidence": "secondary-local"
+    },
+    {
+      "date_utc": "2026-10-25",
+      "event": "this analysis",
+      "confidence": "high"
+    }
+  ],
+  "mode_comparison": {
+    "m1019_1_normal": {
+      "source": "v10108 loose-CSV package; v10113 res.pack extraction hashes match",
+      "levels": 100,
+      "kills_sum": 8159,
+      "kills_min": 1,
+      "kills_max": 153,
+      "monsterLv_min": 1,
+      "monsterLv_max": 800,
+      "one_kill_levels": [
+        10,
+        20,
+        30,
+        40,
+        50,
+        60,
+        70,
+        80,
+        90,
+        100
+      ],
+      "monster_defs": 20,
+      "monster_num_defs": 2000,
+      "referenced_monster_num_ids": 525,
+      "waitingTime": 60,
+      "prepareTime": 60,
+      "gameLevelTime": 190,
+      "refreshMonsterTime": 6,
+      "refreshMonsterTimes": 10,
+      "maxMonsters": 30,
+      "playerAttr": {
+        "hp": 1500,
+        "attack": 300,
+        "defense": 300,
+        "attackX": 1,
+        "addHp": 0,
+        "maxLv": 1000
+      },
+      "PlayerUpgradeHealthReply": 0.1,
+      "BasementUpgradeHealthReply": 0.2
+    },
+    "m1019_10_hard_candidate": {
+      "source": "v10110-v10113 identical ZIP (md5 96aad549865807944d45cbb1212d5ebf)",
+      "levels": 60,
+      "kills_sum": 7986,
+      "monsterLv_min": 0,
+      "monsterLv_max": 900,
+      "monster_defs": 32,
+      "added_monster_ids": [
+        1033,
+        1043,
+        1053,
+        1063,
+        1064,
+        1065,
+        2013,
+        2023,
+        2033,
+        2034,
+        2035,
+        3031
+      ],
+      "shared_monster_stat_changes": 20,
+      "monster_num_defs": 1920,
+      "referenced_monster_num_ids": 404,
+      "waitingTime": 30,
+      "prepareTime": 30,
+      "gameLevelTime": 310,
+      "refreshMonsterTime": 5,
+      "refreshMonsterTimes": 15,
+      "maxMonsters": 33,
+      "playerAttr": {
+        "hp": 1500,
+        "attack": 450,
+        "defense": 330,
+        "attackX": 1,
+        "addHp": 10,
+        "maxLv": 1000
+      },
+      "PlayerUpgradeHealthReply": 0.15,
+      "BasementUpgradeHealthReply": 0.33
+    },
+    "m1019_2_staging": {
+      "source": "v10113 maps-staging only; ZIP md5 6450a8139f35ae42523215b097f3a845",
+      "levels": 60,
+      "kills_sum": 7986,
+      "same_world_as_m1019_10": true,
+      "differing_game_level_rows": 42,
+      "differing_monster_rows": 11,
+      "differing_arms_rows": 12,
+      "differing_basement_rows": 40,
+      "config_deltas_vs_m1019_10": {
+        "maxMonsters": [
+          33,
+          30
+        ],
+        "PlayerUpgradeHealthReply": [
+          0.15,
+          0.2
+        ],
+        "BasementUpgradeHealthReply": [
+          0.33,
+          0.35
+        ],
+        "gameOverTime": [
+          10,
+          8
+        ]
+      },
+      "note": "Not live. No plugin change accompanies it (game server subtree identical live vs staging)."
+    }
+  },
+  "archive_audit": {
+    "outer_member_count": 16,
+    "outer_timestamp_range": "2024-08-12 to 2024-09-08",
+    "game_maps_g1019_entries": [
+      "game-map-main/games/g1019",
+      "game-map-main/games/g1019/g1019.1679368153307.zip"
+    ],
+    "game_maps_has_m1019_10": false,
+    "game_maps_has_m1019_2": false,
+    "g1019_snapshot": {
+      "name": "g1019.1679368153307.zip",
+      "size": 3255782,
+      "md5": "d6db7c4aa9ea1c1b63ea27025f720304",
+      "utc": "2023-03-21"
+    },
+    "snapshot_vs_v10108": {
+      "common_files": 17,
+      "identical_except_checksums": true,
+      "differing": [
+        "checksums.md5"
+      ]
+    },
+    "snapshot_vs_v10109_v10113": {
+      "common_world_files": [
+        "config.yml",
+        "scene1.yml",
+        "scene2.yml",
+        "scene3.yml",
+        "r.3.-1.mca",
+        "r.3.-2.mca",
+        "r.4.-1.mca",
+        "r.4.-2.mca"
+      ],
+      "identical": true,
+      "note": "archives has loose CSVs; v10109+ stores CSVs inside res.pack"
+    },
+    "cdn_serve_g1019_entries": [
+      "cdn-bmf-master/game-banners/g1019.png",
+      "cdn-bmf-master/game-icons/g1019.png"
+    ],
+    "conclusion": "Source archive only contains the 2023 normal map; it predates m1019_10 (2025-07-15) and cannot contain current hard-mode metadata."
+  },
+  "security_relevant_locations": [
+    {
+      "type": "archive_password",
+      "path": "C:/Users/quefep/Desktop/Decomp Temp/IDENTIFIERS_REPORT.md:4",
+      "handling": "value redacted; read only to list/extract the local archive; never written to reports or replayed"
+    },
+    {
+      "type": "GM/debug UI and helper",
+      "paths": [
+        "aliens_attack/decrypted/v10113/source/lua/engine_client/helper/GMHelper.lua",
+        "aliens_attack/decrypted/v10113/source/lua/engine_client/ui/layout/GUIGMControlPanel.lua",
+        "aliens_attack/decrypted/v10113/source/lua/plugins/data_report/client/GMDataReport.lua",
+        "aliens_attack/reports/agents/hard_mode/work/plugin/base/helper/GMHelper.lua"
+      ],
+      "handling": "location only; no invocation or credential use"
+    },
+    {
+      "type": "signing_key",
+      "path": "aliens_attack/server_src/extracted/android/android-client-dev/app/sandbox.jks",
+      "handling": "location only; not opened"
+    },
+    {
+      "type": "server credentials/config",
+      "paths": [
+        "aliens_attack/server_src/extracted/dispatcher/game-service-dispatcher-master/configs/auth.json",
+        "aliens_attack/server_src/extracted/dispatcher/game-service-dispatcher-master/configs/database.json",
+        "aliens_attack/server_src/extracted/dispatcher/game-service-dispatcher-master/configs/host.json",
+        "source archive member main-api-dev/src/config/discord.json (not extracted)"
+      ],
+      "handling": "path only; no replay or external connection"
+    },
+    {
+      "type": "test_channel_flags",
+      "paths": [
+        "aliens_attack/games/g1019/v10113/version.json (hasPluginStaging, hasMapsStaging)",
+        "aliens_attack/games/g1019/v10113/maps-staging/m1019_2.zip",
+        "aliens_attack/games/g1019/v10113/plugin-staging.zip"
+      ],
+      "handling": "treated as content, not executed"
+    }
+  ],
+  "artifacts": {
+    "report": "aliens_attack/reports/agents/hidden/HIDDEN_AND_METADATA.md",
+    "evidence": "aliens_attack/reports/agents/hidden/evidence.json",
+    "scripts": [
+      "aliens_attack/reports/agents/hidden/scripts/scan_metadata.py",
+      "aliens_attack/reports/agents/hidden/scripts/analyze_plugin_history.py",
+      "aliens_attack/reports/agents/hidden/scripts/scan_archive.py",
+      "aliens_attack/reports/agents/hidden/scripts/scan_keywords.py"
+    ],
+    "work": [
+      "aliens_attack/reports/agents/hidden/work/version_inventory.json",
+      "aliens_attack/reports/agents/hidden/work/version_summary.json",
+      "aliens_attack/reports/agents/hidden/work/timeline.json",
+      "aliens_attack/reports/agents/hidden/work/plugin_history.json",
+      "aliens_attack/reports/agents/hidden/work/archive_audit.json",
+      "aliens_attack/reports/agents/hidden/work/keyword_hits.json",
+      "aliens_attack/reports/agents/hidden/work/features_compare_modes_output.txt"
+    ]
+  }
+}
