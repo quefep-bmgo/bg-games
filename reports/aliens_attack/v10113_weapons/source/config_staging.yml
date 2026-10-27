@@ -1,0 +1,144 @@
+initPos:
+- 1926
+- 46
+- -438
+scenes:
+- path: scene1.yml
+waitingTime: 30
+prepareTime: 30
+selectMapTime: 0
+gamePrepareTime: 8
+gameLevelTime: 310
+gameOverTime: 8
+refreshMonsterTime: 5
+refreshMonsterTimes: 15
+startPlayers: 1
+maxMonsters: 30
+defaultUpgradeExp: 1000
+growthX: 0.003
+correctionX: 1
+basePercentage: 0.8
+killPercentage: 0.2
+PlayerUpgradeHealthReply: 0.2
+BasementUpgradeHealthReply: 0.35
+playerAttr:
+  hp: 1500
+  attack: 450
+  defense: 330
+  attackX: 1
+  addHp: 10
+  maxLv: 1000
+rankNpc:
+- id: 1
+  name: creepyalients.score.rank.name
+  key: score
+  title: creepyalients.score.rank.title
+  initPos:
+  - 1933
+  - 44
+  - -445
+- id: 2
+  name: creepyalients.level.rank.name
+  key: level
+  title: creepyalients.level.rank.title
+  initPos:
+  - 1925
+  - 44
+  - -445
+shop:
+- type: 0
+  icon: set:app_shop.json image:app_shop_diamonds_mods
+  name: gui.shop.tab.diamond
+  goods:
+  - desc: creepyalients_item_name_cash10000
+    price:
+    - 10000
+    - 0
+    - 10000
+    - 1
+    - 4
+    - 800
+    - -1
+  - desc: creepyalients_item_name_cash50000
+    price:
+    - 10000
+    - 0
+    - 50000
+    - 1
+    - 15
+    - 3000
+    - -1
+  - desc: creepyalients_item_name_cash100000
+    price:
+    - 10000
+    - 0
+    - 100000
+    - 1
+    - 25
+    - 5000
+    - -1
+  - desc: creepyalients_item_name_cash250000
+    price:
+    - 10000
+    - 0
+    - 250000
+    - 1
+    - 50
+    - 10000
+    - -1
+  - desc: creepyalients_item_name_cash500000
+    price:
+    - 10000
+    - 0
+    - 500000
+    - 1
+    - 80
+    - 16000
+    - -1
+  - desc: creepyalients_item_name_cash1000000
+    price:
+    - 10000
+    - 0
+    - 1000000
+    - 1
+    - 125
+    - 25000
+    - -1
+- type: 1
+  icon: set:gui_inventory_icon.json image:icon_bookrack
+  name: gui.shop.tab.others
+  goods:
+  - desc: item.propGold.name
+    price:
+    - 502
+    - 0
+    - 1
+    - 1
+    - 80
+    - 1600
+    - -1
+  - desc: item.propExp.name
+    price:
+    - 503
+    - 0
+    - 1
+    - 1
+    - 50
+    - 1000
+    - -1
+  - desc: prop.propSpeed.effect
+    price:
+    - 499
+    - 0
+    - 1
+    - 1
+    - 30
+    - 600
+    - -1
+respawn:
+- time: 310
+  price:
+  - 1
+  - 1
+  - 80
+  times: 1

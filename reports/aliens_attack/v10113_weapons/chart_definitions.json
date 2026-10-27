@@ -1,0 +1,38 @@
+{
+  "source": "v10113 extracted map CSV files",
+  "maps": [
+    {
+      "key": "normal",
+      "map_id": "m1019_1",
+      "label": "Normal map"
+    },
+    {
+      "key": "hard",
+      "map_id": "m1019_10",
+      "label": "Hard map"
+    },
+    {
+      "key": "staging",
+      "map_id": "m1019_2",
+      "label": "Staging map (not live)"
+    }
+  ],
+  "formulas": {
+    "damage_per_pellet": "attack_x * total_attack^2 / (total_attack + monster_defense)",
+    "damage_per_shot": "damage_per_pellet * bullet_per_shoot",
+    "dps": "damage_per_shot / cooldown_s",
+    "total_attack": "base_attack * (1 + 0.003 * player_level) + weapon attack bonus",
+    "shots_per_second": "1 / cooldown_s"
+  },
+  "reference_defenses": [
+    0,
+    150,
+    372
+  ],
+  "notes": [
+    "Player level is the in-run upgrade level, not the player's Blockman GO account level.",
+    "The model is single-player, single-target, steady-state, and assumes every pellet hits.",
+    "Damage values at defense 0 are the cleanest comparison of raw weapon output.",
+    "The 687.9 hard-mode requirement is from the separate DPS/EXP model, not an unlock gate."
+  ]
+}

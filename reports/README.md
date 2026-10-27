@@ -16,6 +16,8 @@ Analysis reports produced while inventorying and extracting the archive.
 | `ROUTE_TABLES.md` | Full route tables with candidate endpoints |
 | `live_apk_ids.txt` | APK identifiers observed in live services |
 | `server_config_spreadsheet.xlsx` | Consolidated server configuration spreadsheet |
+| `LEGACY_SANDBOXOL_SOLVED.md` | Corrected legacy v10109-v10112 AES keyfile decryption and validation |
+| `aliens_attack/` | Complete g1019 hard-mode, feature, balance, extraction, and hidden-content analysis |
 
 These files are also present at the workspace root; the root copies are local-only and are
 ignored by Git.

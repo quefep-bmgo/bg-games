@@ -57,6 +57,16 @@ what is present.
 - Machine-readable: [games/MANIFEST.csv](games/MANIFEST.csv)
 - Per-game version tables: open `games/<game>/README.md`
 
+## Analysis and guides
+
+- [`howto/`](howto/README.md) - container/TOC, payload cipher, keyfiles, wrappers, CSV/maps,
+  validation, download API, legacy `sandboxol` decryption, and map conversion.
+- [`howto/15-bg-map-to-minecraft.md`](howto/15-bg-map-to-minecraft.md) - convert Blockman GO
+  map ZIPs to Minecraft Java 26.3 worlds.
+- [`reports/aliens_attack/`](reports/aliens_attack/README.md) - complete g1019 Aliens Attack
+  hard-mode, feature, balance, extraction, and hidden-content analysis.
+- [`tools/mapconv/`](tools/mapconv/README.md) - map conversion implementation.
+
 ## Provenance
 
 - Game assets were downloaded from the public Blockman GO CDN endpoints recorded in each

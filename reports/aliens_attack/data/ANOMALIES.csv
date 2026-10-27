@@ -1,0 +1,22 @@
+﻿category,severity,map_id,entity,metric,value,baseline,delta,description,source
+threshold_mismatch,high,m1019_1,level 1,configured_kills_vs_spawned,40,15,25,"Configured kills 40, spawned total 15; effective threshold clamps to 15.",game_level.csv + monster_num.csv
+threshold_mismatch,watch,m1019_1,level 21,configured_kills_vs_spawned,75,61,14,"Configured 75, spawned 61; effective 61.",game_level.csv + monster_num.csv
+threshold_mismatch,watch,m1019_1,level 25,configured_kills_vs_spawned,69,61,8,"Configured 69, spawned 61; effective 61.",game_level.csv + monster_num.csv
+difficulty_shape,watch,m1019_1,level 98,effective_hp_vs_final,940572,312800,3.007,"Level 98 has 940,572 effective HP vs 312,800 on final level 100 (3.01x).",LEVEL_THRESHOLDS.csv
+economy_gate,high,m1019_1,"levels 91,92,93,94,95,96,97,98,99",dps_margin_affordable,0.771262,1,,Single-run weapon-only model: ratio <1 at these levels; minimum 0.771 at level 96. Weapon 28 is not affordable in a first full run.,LEVEL_THRESHOLDS.csv
+economy_gate,high,m1019_10,"levels 41,43,44,46,48,51,52,53,54,55,56,60",dps_margin_affordable,0.774607,1,,"Single-run weapon-only model: ratio <1 at these levels; minimum 0.775 at level 51. Weapon 28 becomes affordable at level 57, where the ratio jumps to 1.223.",LEVEL_THRESHOLDS.csv + WEAPON_PROGRESSION.csv
+economy_gate,high,m1019_2,"levels 41,46,48,51,53,54,55,56",dps_margin_affordable,0.811703,1,,Staging map 2 single-run weapon-only model: ratio <1 at these levels; minimum 0.812 at level 53.,LEVEL_THRESHOLDS.csv + WEAPON_PROGRESSION.csv
+economy_gate,watch,m1019_10,level 56,dps_margin_affordable,0.887916,1,,"Last level before weapon 28 is affordable; best affordable weapon 27, ratio 0.888.",LEVEL_THRESHOLDS.csv + WEAPON_PROGRESSION.csv
+dps_check,high,m1019_10,level 60,dps_margin_all,0.994909,1,,All-weapon model yields 0.995 margin; required player level 687.9 vs actual 678.,LEVEL_THRESHOLDS.csv
+staging_variant,high,m1019_2,level 60,final_basement_hp,3700000,138750,3561250,"Staging map 2 final basement 3,700,000 vs hard map 10 138,750 (26.67x).",basement.csv
+staging_variant,watch,m1019_2,level 60,final_boss_hp,1964700,2852700,-888000,"Final boss effective HP 1,964,700 vs 2,852,700 (0.689x).",monster.csv + game_level.csv
+staging_variant,watch,m1019_2,level 57-59,level_gold,18000,5000,13000,"Level 57 gold 18,000 vs 5,000; level 59 27,000 vs 5,000.",game_level.csv
+unused_data,info,m1019_1,monster 1012/1022,spawn_count,0,,,Map1 defines 20 monsters but only 18 are used; 1012 and 1022 have num=0 in all monster_num groups.,monster.csv + monster_num.csv
+boss_outlier,high,m1019_10,monster 3031,base_attack,99999,1200,98799,"Boss 3031 base attack 99,999 vs 1,200 for boss 3021; scaled 3.7x at level 900.",monster.csv
+boss_gate_shape,info,m1019_1,level 20/100,kills,1,,,Level 20 has 1 kill (boss only); level 100 has 4 kills (bosses only); other levels 40-153.,game_level.csv
+data_stability,info,all,all tables,row_changes,0,,,No row-level changes across 41 versions within a map/channel; map1 tables are identical from v10068 to v10113.,VERSION_RANGES.csv
+packaging,info,m1019_1,v10109-v10113,source_type,res.pack,,,"Map1 CSVs moved from direct zip members to res.pack at v10109; v10109-v10112 use legacy AES-ECB TOC, v10113 uses current emulated AES.",EXTRACTION_MANIFEST.csv
+scene_files,info,m1019_1/m1019_10,scene2/scene3,referenced,0,,,Config references only scene1.yml; scene2.yml and scene3.yml are present but unreferenced.,scenes.csv referenced
+equipment,info,all,equipment,attack_stat,0,,,Every equipment row has attack=0; equipment adds HP/defense/speed/addHp only.,equipment.csv
+monster_scaling,info,all,1021/1022,isUp,0,,,Monsters 1021/1022 have isUp=0 and do not scale with monster level; all other monsters have isUp=1.,monster.csv
+player_exp_table,watch,all,level 30+,exp_to_next,1000,1000,0,PlayerLevelConfig ends at level 30; levels 31-1000 use defaultUpgradeExp=1000.,player_level.csv + config.yml

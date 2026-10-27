@@ -115,7 +115,9 @@ See:
 - `res.pack` holds scripts and tables, not terrain, textures, or models.
 - Map terrain is in `maps\mXXXX_N.zip` as `r.*.mca` region files.
 - The live backend is not in the pack. Request authorization, purchases, and server-side validation cannot be proven from Lua alone.
-- Legacy `v10109`–`v10112` Lua is still unresolved because the `sandboxol` keyfile blob key is unknown. Their TOCs and CSVs are decrypted.
+- Legacy `v10109`–`v10112` is **solved**: the two `sandboxol` blobs are ordinary AES-128-ECB with fixed keys `blsle20240112345` and `bmlle20240922345`. See `13-legacy-sandboxol-decryption.md`.
+- `g1019` v10105 is partially recovered: 417/423 sources; 6 unique entries still use an unknown per-file codebook.
+- `g1042` v10104 and v10105 remain partially or fully unresolved.
 - `g1100` has one malformed-key entry, `ItemSkillEvents.lua`.
 - `g1188` has one entry with no key record, `WorldPlotRuntime.lua`.
 - `g1100` `lang.csv` is partially decoded because the substitution table does not cover all Unicode bytes.
@@ -135,8 +137,11 @@ See:
 | `09-download-api.md` | manifest API, CDN download workflow, live version check |
 | `10-end-to-end-walkthrough.md` | full discovery, download, decryption, validation, outputs, and gaps |
 | `11-v10113-laymans-guide.md` | plain-English v10113 download, unpack, res.pack contents, and limitations |
-| `12-discord-unpack-bot-spec.md` | `/unpack game option version` bot implementation spec for sandboxol, res.pack, or both |
-| `13-v10104-v10105-formats.md` | v10104 static S-box (solved) and v10105 2→3 codebook: structure, recovery methods, status |
-| `scripts/` | working reference scripts, including `download_game_resources.py`, `v10104_harvest.py`, `v10105_*.py` |
+| `12-discord-unpack-bot-spec.md` | `/unpack game option version` bot spec for sandboxol, res.pack, or both |
+| `13-legacy-sandboxol-decryption.md` | corrected v10109-v10112 AES keys, KeyObject and patch-map formats, validation |
+| `14-aliens-attack-analysis.md` | complete g1019 hard-mode, feature, balance, and hidden-content index |
+| `15-bg-map-to-minecraft.md` | Blockman GO map ZIP to Minecraft Java 26.3 world conversion guide |
+| `16-v10104-v10105-formats.md` | v10104 static S-box (solved) and v10105 2→3 codebook: structure, recovery methods, status |
+| `scripts/` | working reference scripts, including `download_game_resources.py`, `decrypt_legacy_sandboxol.py`, `v10104_harvest.py`, `v10105_*.py` |
 | `data/sub_table.pkl` | full known plaintext->ciphertext CSV table |
 | `data/v10104_sbox.json` | recovered v10104 cipher→plain byte pairs |

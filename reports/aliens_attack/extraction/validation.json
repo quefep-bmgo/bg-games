@@ -1,0 +1,581 @@
+{
+ "v10068": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 116,
+   "wrapped_ok": 116
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10069": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 130,
+   "wrapped_ok": 130
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10070": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 130,
+   "wrapped_ok": 130
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10071": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 130,
+   "wrapped_ok": 130
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10072": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 131,
+   "wrapped_ok": 131
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10073": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 227,
+   "wrapped_ok": 227
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10074": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 227,
+   "wrapped_ok": 227
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10075": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 274,
+   "wrapped_ok": 274
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10076": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 273,
+   "wrapped_ok": 273
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10077": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 273,
+   "wrapped_ok": 273
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10078": {
+  "status": "source_missing",
+  "plugin_validation": null,
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10079": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 307,
+   "wrapped_ok": 307
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10080": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 307,
+   "wrapped_ok": 307
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10081": {
+  "status": "source_missing",
+  "plugin_validation": null,
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10082": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 323,
+   "wrapped_ok": 323
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10083": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 290,
+   "wrapped_ok": 290
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10084": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 292,
+   "wrapped_ok": 292
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10085": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 292,
+   "wrapped_ok": 292
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10086": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 296,
+   "wrapped_ok": 296
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10087": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 310,
+   "wrapped_ok": 310
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10088": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 310,
+   "wrapped_ok": 310
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10089": {
+  "status": "source_missing",
+  "plugin_validation": null,
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10090": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 319,
+   "wrapped_ok": 319
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10091": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 340,
+   "wrapped_ok": 340
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10092": {
+  "status": "source_missing",
+  "plugin_validation": null,
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10093": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 402,
+   "wrapped_ok": 402
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10094": {
+  "status": "source_missing",
+  "plugin_validation": null,
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10095": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 357,
+   "wrapped_ok": 357
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10096": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 413,
+   "wrapped_ok": 413
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10097": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 413,
+   "wrapped_ok": 413
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10098": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 413,
+   "wrapped_ok": 413
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10099": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 413,
+   "wrapped_ok": 413
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10100": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 416,
+   "wrapped_ok": 416
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10101": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 419,
+   "wrapped_ok": 419
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10102": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 420,
+   "wrapped_ok": 420
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10103": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 424,
+   "wrapped_ok": 424
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10104": {
+  "status": "complete",
+  "plugin_validation": {
+   "reencode_ok": 421,
+   "source_ok": 421,
+   "wrapped_ok": 421,
+   "match_v10103": 407,
+   "match_v10106": 368,
+   "checksum_list_entries": 318,
+   "checksum_md5_ok": 317,
+   "checksum_md5_bad": 1,
+   "checksum_unrecovered": 0,
+   "match_v10105": 373,
+   "unique_to_v10104": 7
+  },
+  "unresolved": [],
+  "warnings": [
+   {
+    "rel": "lua/plugins/new_vip/new_vip.lua",
+    "reason": "v10104 checksum MD5 mismatch",
+    "expected_source_md5": "c1ac62915269c05664a3706d905db525",
+    "source_md5": "1bde35d8a820b44160ba72959a50b387"
+   }
+  ]
+ },
+ "v10105": {
+  "status": "partial",
+  "plugin_validation": {
+   "source_ok": 417,
+   "known_plaintext": 417,
+   "checksum_md5_ok": 313,
+   "unresolved": 6,
+   "checksum_md5_bad": 1,
+   "checksum_list_entries": 318,
+   "checksum_unrecovered": 4,
+   "match_v10100": 338,
+   "match_v10101": 363,
+   "match_v10102": 364,
+   "match_v10103": 366,
+   "match_v10104": 373,
+   "match_v10106": 412,
+   "match_v10107": 382,
+   "match_v10108": 382,
+   "match_v10109": 361,
+   "match_v10110": 345
+  },
+  "unresolved": [
+   {
+    "rel": "lua/engine_base/annotation.lua",
+    "kind": "plugin",
+    "reason": "v10105 per-file 2->3 codebook not recovered; no exact plaintext match in v10103-v10113",
+    "cipher_path": "cipher/lua/engine_base/annotation.lua",
+    "cipher_md5": "260a8f46b56d47891bd26d4e5e3b61c8",
+    "expected_source_md5": "b0668ee73c2e230faeb5a82967170648"
+   },
+   {
+    "rel": "lua/engine_base/util/StringUtil.lua",
+    "kind": "plugin",
+    "reason": "v10105 per-file 2->3 codebook not recovered; no exact plaintext match in v10103-v10113",
+    "cipher_path": "cipher/lua/engine_base/util/StringUtil.lua",
+    "cipher_md5": "25ace897946f5b4825bae6858cc2c3b9",
+    "expected_source_md5": "82c64c20b64d88a7241e5665f8dc3735"
+   },
+   {
+    "rel": "lua/engine_client/packet/PidPacketHandler.lua",
+    "kind": "plugin",
+    "reason": "v10105 per-file 2->3 codebook not recovered; no exact plaintext match in v10103-v10113",
+    "cipher_path": "cipher/lua/engine_client/packet/PidPacketHandler.lua",
+    "cipher_md5": "8a70378d1a280cc50866c75670ec5b97",
+    "expected_source_md5": "f881193de06d2823702e899e0e4489d9"
+   },
+   {
+    "rel": "lua/engine_client/util/DressUtil.lua",
+    "kind": "plugin",
+    "reason": "v10105 per-file 2->3 codebook not recovered; no exact plaintext match in v10103-v10113",
+    "cipher_path": "cipher/lua/engine_client/util/DressUtil.lua",
+    "cipher_md5": "f1a8a62d32ba767afd89e7a0b9e0611e",
+    "expected_source_md5": "cad31877ba8e56d4235537d26413a533"
+   },
+   {
+    "rel": "lua/engine_server/antihack/ClientFileChecker.lua",
+    "kind": "plugin",
+    "reason": "v10105 per-file 2->3 codebook not recovered; no exact plaintext match in v10103-v10113",
+    "cipher_path": "cipher/lua/engine_server/antihack/ClientFileChecker.lua",
+    "cipher_md5": "e0ae44b936c901dd216852bc19e6063c",
+    "expected_source_md5": null
+   },
+   {
+    "rel": "lua/engine_server/packet/PidPacketHandler.lua",
+    "kind": "plugin",
+    "reason": "v10105 per-file 2->3 codebook not recovered; no exact plaintext match in v10103-v10113",
+    "cipher_path": "cipher/lua/engine_server/packet/PidPacketHandler.lua",
+    "cipher_md5": "cc089fc4b1b03a85985c7479b6ef5b4a",
+    "expected_source_md5": null
+   }
+  ],
+  "warnings": [
+   {
+    "rel": "lua/plugins/new_vip/new_vip.lua",
+    "reason": "v10105 checksum MD5 mismatch",
+    "expected_source_md5": "3e4ada73beadc3941a1c484f54769e5f",
+    "source_md5": "de9db99d524cdfa6dc0df4db2933323f",
+    "candidate_version": "v10106",
+    "offset": 33
+   }
+  ]
+ },
+ "v10106": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_md5_ok": 422,
+   "reencode_ok": 423,
+   "source_ok": 423,
+   "wrapped_ok": 423,
+   "source_md5_bad": 1
+  },
+  "unresolved": [],
+  "warnings": [
+   {
+    "rel": "lua/plugins/new_vip/new_vip.lua",
+    "reason": "source MD5 header mismatch",
+    "header_md5": "3e4ada73beadc3941a1c484f54769e5f",
+    "source_md5": "de9db99d524cdfa6dc0df4db2933323f",
+    "reencode": true,
+    "source_size": 6378,
+    "matches_v10105_source": true,
+    "matches_v10104_source": false,
+    "note": "The embedded source is valid, re-encrypts exactly, and equals the v10105 source; the 32-hex header/checksum value is stale for this one file only."
+   }
+  ]
+ },
+ "v10107": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_md5_ok": 433,
+   "reencode_ok": 434,
+   "source_ok": 434,
+   "wrapped_ok": 434,
+   "source_md5_bad": 1,
+   "patch_md5_list_entries": 868,
+   "patch_md5_ok": 433,
+   "patch_md5_missing_count": 1,
+   "patch_md5_missing_sample": [
+    "lua/plugins/new_vip/new_vip.lua"
+   ]
+  },
+  "unresolved": [],
+  "warnings": [
+   {
+    "rel": "lua/plugins/new_vip/new_vip.lua",
+    "reason": "source MD5 header mismatch",
+    "header_md5": "3e4ada73beadc3941a1c484f54769e5f",
+    "source_md5": "de9db99d524cdfa6dc0df4db2933323f",
+    "reencode": true,
+    "source_size": 6378,
+    "matches_v10105_source": true,
+    "matches_v10104_source": false,
+    "note": "The embedded source is valid, re-encrypts exactly, and equals the v10105 source; the 32-hex header/checksum value is stale for this one file only."
+   }
+  ]
+ },
+ "v10108": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_md5_ok": 433,
+   "reencode_ok": 434,
+   "source_ok": 434,
+   "wrapped_ok": 434,
+   "source_md5_bad": 1,
+   "patch_md5_list_entries": 868,
+   "patch_md5_ok": 433,
+   "patch_md5_missing_count": 1,
+   "patch_md5_missing_sample": [
+    "lua/plugins/new_vip/new_vip.lua"
+   ]
+  },
+  "unresolved": [],
+  "warnings": [
+   {
+    "rel": "lua/plugins/new_vip/new_vip.lua",
+    "reason": "source MD5 header mismatch",
+    "header_md5": "3e4ada73beadc3941a1c484f54769e5f",
+    "source_md5": "de9db99d524cdfa6dc0df4db2933323f",
+    "reencode": true,
+    "source_size": 6378,
+    "matches_v10105_source": true,
+    "matches_v10104_source": false,
+    "note": "The embedded source is valid, re-encrypts exactly, and equals the v10105 source; the 32-hex header/checksum value is stale for this one file only."
+   }
+  ]
+ },
+ "v10109": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 434,
+   "wrapped_ok": 434,
+   "reencode_ok": 434,
+   "csv_ok": 3,
+   "patch_md5_list_entries": 868,
+   "patch_md5_ok": 433,
+   "patch_md5_missing_count": 1,
+   "patch_md5_missing_sample": [
+    "lua/plugins/new_vip/new_vip.lua"
+   ]
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10110": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 448,
+   "wrapped_ok": 448,
+   "reencode_ok": 448,
+   "csv_ok": 3,
+   "patch_md5_list_entries": 896,
+   "patch_md5_ok": 447,
+   "patch_md5_missing_count": 1,
+   "patch_md5_missing_sample": [
+    "lua/plugins/new_vip/new_vip.lua"
+   ]
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10111": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 450,
+   "wrapped_ok": 450,
+   "reencode_ok": 450,
+   "csv_ok": 3,
+   "patch_md5_list_entries": 900,
+   "patch_md5_ok": 449,
+   "patch_md5_missing_count": 1,
+   "patch_md5_missing_sample": [
+    "lua/plugins/new_vip/new_vip.lua"
+   ]
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10112": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 452,
+   "wrapped_ok": 452,
+   "reencode_ok": 452,
+   "csv_ok": 3,
+   "patch_md5_list_entries": 904,
+   "patch_md5_ok": 451,
+   "patch_md5_missing_count": 1,
+   "patch_md5_missing_sample": [
+    "lua/plugins/new_vip/new_vip.lua"
+   ]
+  },
+  "unresolved": [],
+  "warnings": []
+ },
+ "v10113": {
+  "status": "complete",
+  "plugin_validation": {
+   "source_ok": 459,
+   "wrapped_ok": 459,
+   "reencode_ok": 459,
+   "csv_ok": 3
+  },
+  "unresolved": [],
+  "warnings": []
+ }
+}

@@ -1,0 +1,2172 @@
+{
+ "game": "g1019",
+ "title": "Aliens Attack",
+ "generated_utc": "2026-10-25T15:26:34.421055+00:00",
+ "output_root": "C:\\Users\\quefep\\Desktop\\Decomp Temp\\aliens_attack\\decrypted\\all_versions",
+ "versions": [
+  "v10068",
+  "v10069",
+  "v10070",
+  "v10071",
+  "v10072",
+  "v10073",
+  "v10074",
+  "v10075",
+  "v10076",
+  "v10077",
+  "v10078",
+  "v10079",
+  "v10080",
+  "v10081",
+  "v10082",
+  "v10083",
+  "v10084",
+  "v10085",
+  "v10086",
+  "v10087",
+  "v10088",
+  "v10089",
+  "v10090",
+  "v10091",
+  "v10092",
+  "v10093",
+  "v10094",
+  "v10095",
+  "v10096",
+  "v10097",
+  "v10098",
+  "v10099",
+  "v10100",
+  "v10101",
+  "v10102",
+  "v10103",
+  "v10104",
+  "v10105",
+  "v10106",
+  "v10107",
+  "v10108",
+  "v10109",
+  "v10110",
+  "v10111",
+  "v10112",
+  "v10113"
+ ],
+ "totals": {
+  "versions": 46,
+  "files": 32971,
+  "bytes": 1117633536,
+  "source": 13759,
+  "wrapped": 13342,
+  "bytecode": 0,
+  "csv": 15,
+  "map_csv": 456,
+  "map_config": 285,
+  "map_assets": 934,
+  "staging_source": 2003,
+  "staging_wrapped": 459,
+  "staging_csv": 3,
+  "unresolved": 6,
+  "warnings": 5
+ },
+ "per_version": {
+  "v10068": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 263,
+    "sha256": "1cc6298d014e845c0c3fe20deab7dbb0e4e67e7c65907dd9790f142f66866108",
+    "bytes": 17647489
+   },
+   "counts": {
+    "source": 116,
+    "wrapped": 116,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 132283,
+    "md5": "70f9ac91515475dc60b4cb4eabf590e5",
+    "lua_entries": 116,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 116,
+     "wrapped_ok": 116
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   }
+  },
+  "v10069": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 291,
+    "sha256": "09025a8a33fbe19c0b2393b78fe16a6b4a184dbfcc549468aed09f1dbc86d685",
+    "bytes": 17766604
+   },
+   "counts": {
+    "source": 130,
+    "wrapped": 130,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 148712,
+    "md5": "7548cb8c58589b1cee0c948bb33006ac",
+    "lua_entries": 130,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 130,
+     "wrapped_ok": 130
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   }
+  },
+  "v10070": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 291,
+    "sha256": "f1259113c6bbd267c3c0a14110599f37b9cbf34e5935b173dfbfb936a3f54b55",
+    "bytes": 17750110
+   },
+   "counts": {
+    "source": 130,
+    "wrapped": 130,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 147206,
+    "md5": "5f94dd6531249de0f51e3d4427d8a0c2",
+    "lua_entries": 130,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 130,
+     "wrapped_ok": 130
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   }
+  },
+  "v10071": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 291,
+    "sha256": "8715a6733a757fba9d64e5e5b64086255fbd0b65fedfbaf115e6c9bc77d1d265",
+    "bytes": 17759056
+   },
+   "counts": {
+    "source": 130,
+    "wrapped": 130,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 148241,
+    "md5": "975744d85c11b59c997b90ead574dd21",
+    "lua_entries": 130,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 130,
+     "wrapped_ok": 130
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   }
+  },
+  "v10072": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 293,
+    "sha256": "aa82de9d2f8486ff590f48d900e02548b6101f593500cc240e2b50a499ab7636",
+    "bytes": 17803842
+   },
+   "counts": {
+    "source": 131,
+    "wrapped": 131,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 151575,
+    "md5": "9ff885652f9c1eba159c5b4ebe89a3eb",
+    "lua_entries": 131,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 131,
+     "wrapped_ok": 131
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   }
+  },
+  "v10073": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 485,
+    "sha256": "dbf76098a3d5124b362c3b017b063ecfc4e40fc028c01ff2b2ad64dea5eac43e",
+    "bytes": 18503011
+   },
+   "counts": {
+    "source": 227,
+    "wrapped": 227,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 264323,
+    "md5": "006312f3186f76ef66f1b49c139c2155",
+    "lua_entries": 227,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 227,
+     "wrapped_ok": 227
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   }
+  },
+  "v10074": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 485,
+    "sha256": "dbf76098a3d5124b362c3b017b063ecfc4e40fc028c01ff2b2ad64dea5eac43e",
+    "bytes": 18503011
+   },
+   "counts": {
+    "source": 227,
+    "wrapped": 227,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 264323,
+    "md5": "006312f3186f76ef66f1b49c139c2155",
+    "lua_entries": 227,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 227,
+     "wrapped_ok": 227
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   }
+  },
+  "v10075": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 579,
+    "sha256": "0b0529efc1ee3ff69010cf1e1002a4329144aefa2751a0af59e295f3bfaebbb5",
+    "bytes": 18839244
+   },
+   "counts": {
+    "source": 274,
+    "wrapped": 274,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 337540,
+    "md5": "89672a1b5d05ab85abb0ff67501ab087",
+    "lua_entries": 274,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 274,
+     "wrapped_ok": 274
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   }
+  },
+  "v10076": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 577,
+    "sha256": "5a95a3cfb5d49105a22a4d96d14455ba2abecd0730d2e893fd51443656b6d86c",
+    "bytes": 18839576
+   },
+   "counts": {
+    "source": 273,
+    "wrapped": 273,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 336359,
+    "md5": "9046a98b74e9e696b86d02394933bbfc",
+    "lua_entries": 273,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 273,
+     "wrapped_ok": 273
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   }
+  },
+  "v10077": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 577,
+    "sha256": "5a95a3cfb5d49105a22a4d96d14455ba2abecd0730d2e893fd51443656b6d86c",
+    "bytes": 18839576
+   },
+   "counts": {
+    "source": 273,
+    "wrapped": 273,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 336359,
+    "md5": "9046a98b74e9e696b86d02394933bbfc",
+    "lua_entries": 273,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 273,
+     "wrapped_ok": 273
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_config": 5,
+    "map_csv": 8
+   }
+  },
+  "v10078": {
+   "status": "source_missing",
+   "era": "missing",
+   "method": "no source folder",
+   "tree": {
+    "files": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+   },
+   "counts": {},
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": null,
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {}
+  },
+  "v10079": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 675,
+    "sha256": "46c92429a9db44efa95700f34185b8d144e8610e5550e6cb02e5516042ec1b49",
+    "bytes": 35800088
+   },
+   "counts": {
+    "source": 307,
+    "wrapped": 307,
+    "metadata": 1,
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 379060,
+    "md5": "1918f330b3c8690523692f5b8b81bdd7",
+    "lua_entries": 307,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 307,
+     "wrapped_ok": 307
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   }
+  },
+  "v10080": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 675,
+    "sha256": "4ea4d563ac2c8066ecd975d242aafe6d7144e5d5960852730e7433915dd24de2",
+    "bytes": 35803298
+   },
+   "counts": {
+    "source": 307,
+    "wrapped": 307,
+    "metadata": 1,
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 379345,
+    "md5": "a8ed03fb20b14f97396452b1d8e8e0ab",
+    "lua_entries": 307,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 307,
+     "wrapped_ok": 307
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   }
+  },
+  "v10081": {
+   "status": "source_missing",
+   "era": "missing",
+   "method": "no source folder",
+   "tree": {
+    "files": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+   },
+   "counts": {},
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": null,
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {}
+  },
+  "v10082": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 707,
+    "sha256": "6194b8b0511a6b35aaca1f009301412e3c373ffc76221695c2e635bb9de43d11",
+    "bytes": 35947164
+   },
+   "counts": {
+    "source": 323,
+    "wrapped": 323,
+    "metadata": 1,
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 397896,
+    "md5": "60607a868464fcbd93afcf2954f784a9",
+    "lua_entries": 323,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 323,
+     "wrapped_ok": 323
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   }
+  },
+  "v10083": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 641,
+    "sha256": "640614319a31f73c0ef33d6f635c9af7aa33ca076878d3494d14f8f71c989d96",
+    "bytes": 35745394
+   },
+   "counts": {
+    "source": 290,
+    "wrapped": 290,
+    "metadata": 1,
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 360267,
+    "md5": "83fae373e1520d84b6afea32fae9e4e1",
+    "lua_entries": 290,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 290,
+     "wrapped_ok": 290
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   }
+  },
+  "v10084": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 645,
+    "sha256": "4fc03e12dfcba7ca228f4f5dccd796fa5cc18da136aaa30d833ba2b12f0a4953",
+    "bytes": 35771437
+   },
+   "counts": {
+    "source": 292,
+    "wrapped": 292,
+    "metadata": 1,
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 363807,
+    "md5": "8a8f146094ec655e43e02c6a46e294ee",
+    "lua_entries": 292,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 292,
+     "wrapped_ok": 292
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   }
+  },
+  "v10085": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 645,
+    "sha256": "0b824cc05adcd760285d9d1369ad53dfae7d589e12e5d485ca289c437fae1d1d",
+    "bytes": 35783957
+   },
+   "counts": {
+    "source": 292,
+    "wrapped": 292,
+    "metadata": 1,
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 364679,
+    "md5": "bba16f98a28d438268b6e8370c4aa5f9",
+    "lua_entries": 292,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 292,
+     "wrapped_ok": 292
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   }
+  },
+  "v10086": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 653,
+    "sha256": "40ae0070537846ae9adf5e10078f30ca9123b6de2fc2a89af5b64c694f25359a",
+    "bytes": 35809100
+   },
+   "counts": {
+    "source": 296,
+    "wrapped": 296,
+    "metadata": 1,
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 369636,
+    "md5": "4382abf0535ce90dbffbbce4a625ac6e",
+    "lua_entries": 296,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 296,
+     "wrapped_ok": 296
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   }
+  },
+  "v10087": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 681,
+    "sha256": "5a3d8b654d6748a10d4e43e500a370353b589c685c1b8925d1c58d673d664ff4",
+    "bytes": 36288124
+   },
+   "counts": {
+    "source": 310,
+    "wrapped": 310,
+    "metadata": 1,
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 426958,
+    "md5": "643d3d16ea8999f48bd7ff70e08511cb",
+    "lua_entries": 310,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 310,
+     "wrapped_ok": 310
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   }
+  },
+  "v10088": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 681,
+    "sha256": "8e22441892bcd8284007c1b24ea019da008cb28aa331b0007d8ed6330dc11535",
+    "bytes": 36293808
+   },
+   "counts": {
+    "source": 310,
+    "wrapped": 310,
+    "metadata": 1,
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 427384,
+    "md5": "7d09e1cc02cb92d9c92d43d0704c153a",
+    "lua_entries": 310,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 310,
+     "wrapped_ok": 310
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   }
+  },
+  "v10089": {
+   "status": "source_missing",
+   "era": "missing",
+   "method": "no source folder",
+   "tree": {
+    "files": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+   },
+   "counts": {},
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": null,
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {}
+  },
+  "v10090": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 669,
+    "sha256": "26a33d4451ee9b2a6636e6236797e6059f6005439b37cf13474aeb75155a04be",
+    "bytes": 19666370
+   },
+   "counts": {
+    "source": 319,
+    "wrapped": 319,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 440896,
+    "md5": "2dbd7fedd6386424223c4e66478d82f1",
+    "lua_entries": 319,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 319,
+     "wrapped_ok": 319
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10091": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 1392,
+    "sha256": "1eaaa5428a7717cbece2c67b2faf7e34b044df6cf82806f2222debd8f76bbcfd",
+    "bytes": 22806992
+   },
+   "counts": {
+    "source": 340,
+    "wrapped": 340,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5,
+    "staging_raw": 341,
+    "staging_source": 340
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 460821,
+    "md5": "a4dd50272fcaeecfb15c5cfa10d3f4d3",
+    "lua_entries": 340,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 340,
+     "wrapped_ok": 340
+    }
+   },
+   "plugin_staging": {
+    "file": "plugin-staging.zip",
+    "size": 460963,
+    "md5": "04e9f842219b644ad5133ccb389e51ed",
+    "entries": 466,
+    "decoded_lua": 340
+   },
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10092": {
+   "status": "source_missing",
+   "era": "missing",
+   "method": "no source folder",
+   "tree": {
+    "files": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+   },
+   "counts": {},
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": null,
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {}
+  },
+  "v10093": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 840,
+    "sha256": "567ceed07a641f5a788c9dda0f1efa215b828b08cd600cda0d30a31f7b7e0d58",
+    "bytes": 20174601
+   },
+   "counts": {
+    "source": 402,
+    "wrapped": 402,
+    "metadata": 1,
+    "config": 5,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 536748,
+    "md5": "9c5bbb323b759cdcb95c85164af3e5f2",
+    "lua_entries": 402,
+    "config_files": 5,
+    "validation": {
+     "source_ok": 402,
+     "wrapped_ok": 402
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10094": {
+   "status": "source_missing",
+   "era": "missing",
+   "method": "no source folder",
+   "tree": {
+    "files": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+   },
+   "counts": {},
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": null,
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {}
+  },
+  "v10095": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 1502,
+    "sha256": "5ec11a9bfe8473ec3fa31e195bbe063d7d92a76fd57b35b7a32f39590e4e2e22",
+    "bytes": 22936624
+   },
+   "counts": {
+    "source": 357,
+    "wrapped": 357,
+    "metadata": 1,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5,
+    "staging_raw": 379,
+    "staging_source": 378
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 469612,
+    "md5": "be5759ae9747a735411f466539fb21dc",
+    "lua_entries": 357,
+    "config_files": 0,
+    "validation": {
+     "source_ok": 357,
+     "wrapped_ok": 357
+    }
+   },
+   "plugin_staging": {
+    "file": "plugin-staging.zip",
+    "size": 498856,
+    "md5": "98e073b37f7122b2235de91f221b84c6",
+    "entries": 523,
+    "decoded_lua": 378
+   },
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10096": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 862,
+    "sha256": "a83c55d91bda95fa739bd95c6443675e146c352e335301d1450c63cd5bc1a16e",
+    "bytes": 20274840
+   },
+   "counts": {
+    "source": 413,
+    "wrapped": 413,
+    "metadata": 1,
+    "config": 5,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 552308,
+    "md5": "4862fad845fdf95eae957284a16dbe0b",
+    "lua_entries": 413,
+    "config_files": 5,
+    "validation": {
+     "source_ok": 413,
+     "wrapped_ok": 413
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10097": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 862,
+    "sha256": "3ddb413f13aa68b35f1360613a9736124602183e17bfe053c115422b54eda856",
+    "bytes": 20283318
+   },
+   "counts": {
+    "source": 413,
+    "wrapped": 413,
+    "metadata": 1,
+    "config": 5,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 553605,
+    "md5": "7ea51239ff35fabfe406d69c88375f36",
+    "lua_entries": 413,
+    "config_files": 5,
+    "validation": {
+     "source_ok": 413,
+     "wrapped_ok": 413
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10098": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 1694,
+    "sha256": "4c3116c04aa0702f358c453758fc4ea4cc4ce2797c75f88f1baabfbb3d35bfb9",
+    "bytes": 23884382
+   },
+   "counts": {
+    "source": 413,
+    "wrapped": 413,
+    "metadata": 1,
+    "config": 5,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5,
+    "staging_raw": 419,
+    "staging_source": 413
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 553605,
+    "md5": "7ea51239ff35fabfe406d69c88375f36",
+    "lua_entries": 413,
+    "config_files": 5,
+    "validation": {
+     "source_ok": 413,
+     "wrapped_ok": 413
+    }
+   },
+   "plugin_staging": {
+    "file": "plugin-staging.zip",
+    "size": 556594,
+    "md5": "7ae2fca28837661e650e2700f274e5a2",
+    "entries": 569,
+    "decoded_lua": 413
+   },
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10099": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 1694,
+    "sha256": "5efcdbf930fd202ed6009a843ec0e4546eae14c5d7b5028be77d1c2717791cfd",
+    "bytes": 23886158
+   },
+   "counts": {
+    "source": 413,
+    "wrapped": 413,
+    "metadata": 1,
+    "config": 5,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5,
+    "staging_raw": 419,
+    "staging_source": 413
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 553605,
+    "md5": "7ea51239ff35fabfe406d69c88375f36",
+    "lua_entries": 413,
+    "config_files": 5,
+    "validation": {
+     "source_ok": 413,
+     "wrapped_ok": 413
+    }
+   },
+   "plugin_staging": {
+    "file": "plugin-staging.zip",
+    "size": 556777,
+    "md5": "2f490094f226e24a3fe386e20d04fcd3",
+    "entries": 569,
+    "decoded_lua": 413
+   },
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10100": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 868,
+    "sha256": "281521b4a0d89969fc31d085625aa2ac28f6d473573c91a4fdbe1128c95cc340",
+    "bytes": 20368140
+   },
+   "counts": {
+    "source": 416,
+    "wrapped": 416,
+    "metadata": 1,
+    "config": 5,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 564064,
+    "md5": "0e362c831808283f26877c92a4338ce3",
+    "lua_entries": 416,
+    "config_files": 5,
+    "validation": {
+     "source_ok": 416,
+     "wrapped_ok": 416
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10101": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 874,
+    "sha256": "ba354c55583b3e8db7ff640553b746877d4ef42ca54cddb6eb1c3dc1a1420345",
+    "bytes": 20420133
+   },
+   "counts": {
+    "source": 419,
+    "wrapped": 419,
+    "metadata": 1,
+    "config": 5,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 570610,
+    "md5": "ab77f94e55b315f82528958760b4a541",
+    "lua_entries": 419,
+    "config_files": 5,
+    "validation": {
+     "source_ok": 419,
+     "wrapped_ok": 419
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10102": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 878,
+    "sha256": "8050a37ae012917f26e2fa90a28970004f4cb97c018b1d9bd7908789111cdc84",
+    "bytes": 20494213
+   },
+   "counts": {
+    "source": 420,
+    "wrapped": 420,
+    "metadata": 2,
+    "config": 6,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 589240,
+    "md5": "f415ece4e57cc2fa1e25a361aec7ac91",
+    "lua_entries": 420,
+    "config_files": 6,
+    "validation": {
+     "source_ok": 420,
+     "wrapped_ok": 420
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10103": {
+   "status": "complete",
+   "era": "plaintext",
+   "method": "plaintext Lua entries",
+   "tree": {
+    "files": 885,
+    "sha256": "0f42ed925c1a80232a586c4b9b03d7c013e679b397fda9e18d3a5c2bc3635a92",
+    "bytes": 20484079
+   },
+   "counts": {
+    "source": 424,
+    "wrapped": 424,
+    "metadata": 2,
+    "config": 5,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 588546,
+    "md5": "af08162737895747757e16d114f7267e",
+    "lua_entries": 424,
+    "config_files": 5,
+    "validation": {
+     "source_ok": 424,
+     "wrapped_ok": 424
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10104": {
+   "status": "complete",
+   "era": "sbox",
+   "method": "static byte substitution",
+   "tree": {
+    "files": 910,
+    "sha256": "33983b85c286dcfdbbc2896682e766a55bd4147bc4f8f4a91852e273a11af73a",
+    "bytes": 37234703
+   },
+   "counts": {
+    "source": 421,
+    "wrapped": 421,
+    "metadata": 3,
+    "config": 5,
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   },
+   "unresolved": 0,
+   "warnings": 1,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 587760,
+    "md5": "6e4789753ed1d888523f68bb2e0de5e2",
+    "lua_entries": 421,
+    "config_files": 5,
+    "validation": {
+     "reencode_ok": 421,
+     "source_ok": 421,
+     "wrapped_ok": 421,
+     "match_v10103": 407,
+     "match_v10106": 368,
+     "checksum_list_entries": 318,
+     "checksum_md5_ok": 317,
+     "checksum_md5_bad": 1,
+     "checksum_unrecovered": 0,
+     "match_v10105": 373,
+     "unique_to_v10104": 7
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   }
+  },
+  "v10105": {
+   "status": "partial",
+   "era": "2to3-unknown",
+   "method": "per-file 2-byte->3-byte codebook; known-plaintext recovery",
+   "tree": {
+    "files": 491,
+    "sha256": "77ec4074048313f9f0737293f9adf94b91ef551ac1f829e037f16e81d6096002",
+    "bytes": 35427006
+   },
+   "counts": {
+    "source": 417,
+    "cipher": 6,
+    "metadata": 3,
+    "config": 5,
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   },
+   "unresolved": 6,
+   "warnings": 1,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 989385,
+    "md5": "cc0c576ada343e9c3caf978ae970d12c",
+    "lua_entries": 423,
+    "config_files": 5,
+    "validation": {
+     "source_ok": 417,
+     "known_plaintext": 417,
+     "checksum_md5_ok": 313,
+     "unresolved": 6,
+     "checksum_md5_bad": 1,
+     "checksum_list_entries": 318,
+     "checksum_unrecovered": 4,
+     "match_v10100": 338,
+     "match_v10101": 363,
+     "match_v10102": 364,
+     "match_v10103": 366,
+     "match_v10104": 373,
+     "match_v10106": 412,
+     "match_v10107": 382,
+     "match_v10108": 382,
+     "match_v10109": 361,
+     "match_v10110": 345
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": null,
+   "map_counts": {
+    "map_assets": 34,
+    "map_csv": 16,
+    "map_config": 10
+   }
+  },
+  "v10106": {
+   "status": "complete",
+   "era": "selector-3to2",
+   "method": "20 00 + source MD5 + selector cipher (sandboxol key records)",
+   "tree": {
+    "files": 883,
+    "sha256": "6bec3822cfe56fbf4de9c00ec388f55dc30aa455bc3fcf83fa2bece2eb9ea9f6",
+    "bytes": 20525108
+   },
+   "counts": {
+    "source": 423,
+    "wrapped": 423,
+    "metadata": 2,
+    "config": 5,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   },
+   "unresolved": 0,
+   "warnings": 1,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 986333,
+    "md5": "5061bc497968fc931e51dba84be86e6e",
+    "lua_entries": 423,
+    "config_files": 5,
+    "validation": {
+     "source_md5_ok": 422,
+     "reencode_ok": 423,
+     "source_ok": 423,
+     "wrapped_ok": 423,
+     "source_md5_bad": 1
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": {
+    "size": 52521,
+    "used": 52521,
+    "packets": [
+     {
+      "records": 423,
+      "end": 49068,
+      "blob_len": 49072,
+      "trail_len": 4
+     }
+    ],
+    "records": 423
+   },
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10107": {
+   "status": "complete",
+   "era": "selector-3to2",
+   "method": "20 00 + source MD5 + selector cipher (sandboxol key records)",
+   "tree": {
+    "files": 905,
+    "sha256": "32b8e6a64b3a3db7762d86eb4980f33d7852f25ec90084e3aed08e4d815d4c4a",
+    "bytes": 21071133
+   },
+   "counts": {
+    "source": 434,
+    "wrapped": 434,
+    "metadata": 2,
+    "config": 5,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   },
+   "unresolved": 0,
+   "warnings": 1,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 1301914,
+    "md5": "fdc3f7db83d424441f761a8bf2e3a9fc",
+    "lua_entries": 434,
+    "config_files": 5,
+    "validation": {
+     "source_md5_ok": 433,
+     "reencode_ok": 434,
+     "source_ok": 434,
+     "wrapped_ok": 434,
+     "source_md5_bad": 1,
+     "patch_md5_list_entries": 868,
+     "patch_md5_ok": 433,
+     "patch_md5_missing_count": 1,
+     "patch_md5_missing_sample": [
+      "lua/plugins/new_vip/new_vip.lua"
+     ]
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": {
+    "size": 86778,
+    "used": 86778,
+    "packets": [
+     {
+      "records": 434,
+      "end": 50344,
+      "blob_len": 50352,
+      "trail_len": 8
+     },
+     {
+      "records": 0,
+      "end": 0,
+      "blob_len": 29520,
+      "trail_len": 29520
+     }
+    ],
+    "records": 434
+   },
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10108": {
+   "status": "complete",
+   "era": "selector-3to2",
+   "method": "20 00 + source MD5 + selector cipher (sandboxol key records)",
+   "tree": {
+    "files": 905,
+    "sha256": "32b8e6a64b3a3db7762d86eb4980f33d7852f25ec90084e3aed08e4d815d4c4a",
+    "bytes": 21071133
+   },
+   "counts": {
+    "source": 434,
+    "wrapped": 434,
+    "metadata": 2,
+    "config": 5,
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   },
+   "unresolved": 0,
+   "warnings": 1,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 1301914,
+    "md5": "fdc3f7db83d424441f761a8bf2e3a9fc",
+    "lua_entries": 434,
+    "config_files": 5,
+    "validation": {
+     "source_md5_ok": 433,
+     "reencode_ok": 434,
+     "source_ok": 434,
+     "wrapped_ok": 434,
+     "source_md5_bad": 1,
+     "patch_md5_list_entries": 868,
+     "patch_md5_ok": 433,
+     "patch_md5_missing_count": 1,
+     "patch_md5_missing_sample": [
+      "lua/plugins/new_vip/new_vip.lua"
+     ]
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": {
+    "size": 86778,
+    "used": 86778,
+    "packets": [
+     {
+      "records": 434,
+      "end": 50344,
+      "blob_len": 50352,
+      "trail_len": 8
+     },
+     {
+      "records": 0,
+      "end": 0,
+      "blob_len": 29520,
+      "trail_len": 29520
+     }
+    ],
+    "records": 434
+   },
+   "map_counts": {
+    "map_assets": 17,
+    "map_csv": 8,
+    "map_config": 5
+   }
+  },
+  "v10109": {
+   "status": "complete",
+   "era": "legacy-respack",
+   "method": "legacy AES TOC + selector cipher (sandboxol key records)",
+   "tree": {
+    "files": 899,
+    "sha256": "f18784418a59221d1c332697783560f66d6b5daeb0acc721582081761d0e5e25",
+    "bytes": 24617168
+   },
+   "counts": {
+    "source": 434,
+    "wrapped": 434,
+    "csv": 3,
+    "metadata": 3,
+    "config": 2,
+    "map_assets": 10,
+    "map_config": 5,
+    "map_csv": 8
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 1248367,
+    "md5": "0ed959636e7950a6ad39c543de2e99b1",
+    "res_pack_size": 3538516,
+    "res_pack_md5": "0bf4d771ee5d8567a6be5c437b5e1eca",
+    "toc": "legacy",
+    "toc_entries": 437,
+    "toc_parse_clean": true,
+    "config_files": 2,
+    "validation": {
+     "source_ok": 434,
+     "wrapped_ok": 434,
+     "reencode_ok": 434,
+     "csv_ok": 3,
+     "patch_md5_list_entries": 868,
+     "patch_md5_ok": 433,
+     "patch_md5_missing_count": 1,
+     "patch_md5_missing_sample": [
+      "lua/plugins/new_vip/new_vip.lua"
+     ]
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": {
+    "size": 86783,
+    "used": 86783,
+    "packets": [
+     {
+      "records": 434,
+      "end": 50344,
+      "blob_len": 50352,
+      "trail_len": 8
+     },
+     {
+      "records": 0,
+      "end": 0,
+      "blob_len": 29520,
+      "trail_len": 29520
+     }
+    ],
+    "records": 434
+   },
+   "map_counts": {
+    "map_assets": 10,
+    "map_config": 5,
+    "respack_entries": 8,
+    "respack_legacy": 1,
+    "map_csv": 8
+   }
+  },
+  "v10110": {
+   "status": "complete",
+   "era": "legacy-respack",
+   "method": "legacy AES TOC + selector cipher (sandboxol key records)",
+   "tree": {
+    "files": 957,
+    "sha256": "5087ea0a424e3b760e2701182f5c4eaad4339f686db8a9f9268971736d48c8db",
+    "bytes": 41490076
+   },
+   "counts": {
+    "source": 448,
+    "wrapped": 448,
+    "csv": 3,
+    "metadata": 3,
+    "config": 2,
+    "map_assets": 27,
+    "map_config": 10,
+    "map_csv": 16
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 1279747,
+    "md5": "79aa748db15eeaee70da547b63ce7828",
+    "res_pack_size": 3611805,
+    "res_pack_md5": "2ff3d64fb77291090c3771a779938b08",
+    "toc": "legacy",
+    "toc_entries": 451,
+    "toc_parse_clean": true,
+    "config_files": 2,
+    "validation": {
+     "source_ok": 448,
+     "wrapped_ok": 448,
+     "reencode_ok": 448,
+     "csv_ok": 3,
+     "patch_md5_list_entries": 896,
+     "patch_md5_ok": 447,
+     "patch_md5_missing_count": 1,
+     "patch_md5_missing_sample": [
+      "lua/plugins/new_vip/new_vip.lua"
+     ]
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": {
+    "size": 89375,
+    "used": 89375,
+    "packets": [
+     {
+      "records": 448,
+      "end": 51968,
+      "blob_len": 51984,
+      "trail_len": 16
+     },
+     {
+      "records": 0,
+      "end": 0,
+      "blob_len": 30480,
+      "trail_len": 30480
+     }
+    ],
+    "records": 448
+   },
+   "map_counts": {
+    "map_assets": 27,
+    "map_config": 10,
+    "respack_entries": 8,
+    "respack_legacy": 1,
+    "map_csv": 16
+   }
+  },
+  "v10111": {
+   "status": "complete",
+   "era": "legacy-respack",
+   "method": "legacy AES TOC + selector cipher (sandboxol key records)",
+   "tree": {
+    "files": 961,
+    "sha256": "bf6534e9f6699dd1319e9c70e52c37ed26810a815acb0df3c07303b42313dfc7",
+    "bytes": 41512532
+   },
+   "counts": {
+    "source": 450,
+    "wrapped": 450,
+    "csv": 3,
+    "metadata": 3,
+    "config": 2,
+    "map_assets": 27,
+    "map_config": 10,
+    "map_csv": 16
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 1288117,
+    "md5": "35f3a88777c1a9a8d9d0795f2534a454",
+    "res_pack_size": 3622590,
+    "res_pack_md5": "96250d99fc7637ebf4d3dae1b989689a",
+    "toc": "legacy",
+    "toc_entries": 453,
+    "toc_parse_clean": true,
+    "config_files": 2,
+    "validation": {
+     "source_ok": 450,
+     "wrapped_ok": 450,
+     "reencode_ok": 450,
+     "csv_ok": 3,
+     "patch_md5_list_entries": 900,
+     "patch_md5_ok": 449,
+     "patch_md5_missing_count": 1,
+     "patch_md5_missing_sample": [
+      "lua/plugins/new_vip/new_vip.lua"
+     ]
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": {
+    "size": 89723,
+    "used": 89723,
+    "packets": [
+     {
+      "records": 450,
+      "end": 52200,
+      "blob_len": 52208,
+      "trail_len": 8
+     },
+     {
+      "records": 0,
+      "end": 0,
+      "blob_len": 30608,
+      "trail_len": 30608
+     }
+    ],
+    "records": 450
+   },
+   "map_counts": {
+    "map_assets": 27,
+    "map_config": 10,
+    "respack_entries": 8,
+    "respack_legacy": 1,
+    "map_csv": 16
+   }
+  },
+  "v10112": {
+   "status": "complete",
+   "era": "legacy-respack",
+   "method": "legacy AES TOC + selector cipher (sandboxol key records)",
+   "tree": {
+    "files": 965,
+    "sha256": "9c47c3c722fef015719f77552bebe2242b51349079ada8d3363f18ce6567e549",
+    "bytes": 41630279
+   },
+   "counts": {
+    "source": 452,
+    "wrapped": 452,
+    "csv": 3,
+    "metadata": 3,
+    "config": 2,
+    "map_assets": 27,
+    "map_config": 10,
+    "map_csv": 16
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 1303256,
+    "md5": "a2a4c51d584ac7ed5461d6436e2380a4",
+    "res_pack_size": 3674215,
+    "res_pack_md5": "8f38e361b59f58c67e2ac6f6ea107631",
+    "toc": "legacy",
+    "toc_entries": 455,
+    "toc_parse_clean": true,
+    "config_files": 2,
+    "validation": {
+     "source_ok": 452,
+     "wrapped_ok": 452,
+     "reencode_ok": 452,
+     "csv_ok": 3,
+     "patch_md5_list_entries": 904,
+     "patch_md5_ok": 451,
+     "patch_md5_missing_count": 1,
+     "patch_md5_missing_sample": [
+      "lua/plugins/new_vip/new_vip.lua"
+     ]
+    }
+   },
+   "plugin_staging": null,
+   "sandboxol": {
+    "size": 90115,
+    "used": 90111,
+    "packets": [
+     {
+      "records": 452,
+      "end": 52432,
+      "blob_len": 52448,
+      "trail_len": 16
+     },
+     {
+      "records": 0,
+      "end": 0,
+      "blob_len": 30752,
+      "trail_len": 30752
+     }
+    ],
+    "records": 452
+   },
+   "map_counts": {
+    "map_assets": 27,
+    "map_config": 10,
+    "respack_entries": 8,
+    "respack_legacy": 1,
+    "map_csv": 16
+   }
+  },
+  "v10113": {
+   "status": "complete",
+   "era": "current-respack",
+   "method": "current native TOC decrypt + selector cipher (numeric frame keyfile)",
+   "tree": {
+    "files": 1940,
+    "sha256": "d8558ffa7b35815e377f91b617ba22b15e7de7e0aa74eb8f726da8f736da4e2e",
+    "bytes": 71880659
+   },
+   "counts": {
+    "source": 459,
+    "wrapped": 459,
+    "csv": 3,
+    "metadata": 3,
+    "config": 2,
+    "map_assets": 44,
+    "map_config": 15,
+    "map_csv": 24,
+    "staging_raw": 5,
+    "staging_source": 459,
+    "staging_wrapped": 459,
+    "staging_csv": 3,
+    "staging_metadata": 3,
+    "staging_config": 2
+   },
+   "unresolved": 0,
+   "warnings": 0,
+   "plugin": {
+    "file": "plugin.zip",
+    "size": 1363685,
+    "md5": "143d673e08f10528d158d59a0890a516",
+    "res_pack_size": 3952962,
+    "res_pack_md5": "ceecf066e3ae59d985d865c111a16c8b",
+    "toc": "current",
+    "toc_entries": 462,
+    "toc_parse_clean": true,
+    "config_files": 2,
+    "validation": {
+     "source_ok": 459,
+     "wrapped_ok": 459,
+     "reencode_ok": 459,
+     "csv_ok": 3
+    }
+   },
+   "plugin_staging": {
+    "file": "plugin-staging.zip",
+    "size": 1364754,
+    "md5": "b7e27763bcd866377e21e805e0d5f999",
+    "entries": 7,
+    "decoded_lua": 459,
+    "decoder": "current-respack",
+    "records": 459,
+    "frames": [
+     {
+      "key": "705852-1725726-2097711-270866-34546-1896203-98565-2300066-1353029-590012-880049-530155-1772681-1438476-775001-1766521",
+      "blob_len": 53248,
+      "pt_len": 53244,
+      "records": 459,
+      "end": 53244,
+      "trail_len": 0
+     },
+     {
+      "key": "705852-1858864-718575-270971-34546-1896203-98565-2300066-1353029-590012-1339982-1352976-1772782-1438476-775001-1766521",
+      "blob_len": 31216,
+      "pt_len": 31212,
+      "records": 0,
+      "error": "unpack_from requires a buffer of at least 28804 bytes for unpacking 28768 bytes at offset 36 (actual buffer size is 116)"
+     }
+    ],
+    "res_pack_size": 3956469,
+    "res_pack_md5": "dc3115a245acfec6da26fd4006cace18",
+    "toc_entries": 462,
+    "toc_parse_clean": true,
+    "validation": {
+     "source_ok": 459,
+     "wrapped_ok": 459,
+     "reencode_ok": 459,
+     "csv_ok": 3
+    }
+   },
+   "sandboxol": {
+    "frames": [
+     {
+      "key": "705852-1725726-2097711-270866-34546-1896203-98565-2300066-1353029-590012-880049-530155-1772681-1438476-775001-1766521",
+      "blob_len": 53248,
+      "pt_len": 53244,
+      "records": 459,
+      "end": 53244,
+      "trail_len": 0
+     },
+     {
+      "key": "705852-1858864-718575-270971-34546-1896203-98565-2300066-1353029-590012-1339982-1352976-1772782-1438476-775001-1766521",
+      "blob_len": 31216,
+      "pt_len": 31212,
+      "records": 0,
+      "error": "unpack_from requires a buffer of at least 28804 bytes for unpacking 28768 bytes at offset 36 (actual buffer size is 116)"
+     }
+    ],
+    "records": 459
+   },
+   "map_counts": {
+    "map_assets": 44,
+    "map_config": 15,
+    "respack_entries": 8,
+    "respack_current": 1,
+    "map_csv": 24
+   }
+  }
+ },
+ "unresolved": {
+  "v10105": [
+   {
+    "rel": "lua/engine_base/annotation.lua",
+    "kind": "plugin",
+    "reason": "v10105 per-file 2->3 codebook not recovered; no exact plaintext match in v10103-v10113",
+    "cipher_path": "cipher/lua/engine_base/annotation.lua",
+    "cipher_md5": "260a8f46b56d47891bd26d4e5e3b61c8",
+    "expected_source_md5": "b0668ee73c2e230faeb5a82967170648"
+   },
+   {
+    "rel": "lua/engine_base/util/StringUtil.lua",
+    "kind": "plugin",
+    "reason": "v10105 per-file 2->3 codebook not recovered; no exact plaintext match in v10103-v10113",
+    "cipher_path": "cipher/lua/engine_base/util/StringUtil.lua",
+    "cipher_md5": "25ace897946f5b4825bae6858cc2c3b9",
+    "expected_source_md5": "82c64c20b64d88a7241e5665f8dc3735"
+   },
+   {
+    "rel": "lua/engine_client/packet/PidPacketHandler.lua",
+    "kind": "plugin",
+    "reason": "v10105 per-file 2->3 codebook not recovered; no exact plaintext match in v10103-v10113",
+    "cipher_path": "cipher/lua/engine_client/packet/PidPacketHandler.lua",
+    "cipher_md5": "8a70378d1a280cc50866c75670ec5b97",
+    "expected_source_md5": "f881193de06d2823702e899e0e4489d9"
+   },
+   {
+    "rel": "lua/engine_client/util/DressUtil.lua",
+    "kind": "plugin",
+    "reason": "v10105 per-file 2->3 codebook not recovered; no exact plaintext match in v10103-v10113",
+    "cipher_path": "cipher/lua/engine_client/util/DressUtil.lua",
+    "cipher_md5": "f1a8a62d32ba767afd89e7a0b9e0611e",
+    "expected_source_md5": "cad31877ba8e56d4235537d26413a533"
+   },
+   {
+    "rel": "lua/engine_server/antihack/ClientFileChecker.lua",
+    "kind": "plugin",
+    "reason": "v10105 per-file 2->3 codebook not recovered; no exact plaintext match in v10103-v10113",
+    "cipher_path": "cipher/lua/engine_server/antihack/ClientFileChecker.lua",
+    "cipher_md5": "e0ae44b936c901dd216852bc19e6063c",
+    "expected_source_md5": null
+   },
+   {
+    "rel": "lua/engine_server/packet/PidPacketHandler.lua",
+    "kind": "plugin",
+    "reason": "v10105 per-file 2->3 codebook not recovered; no exact plaintext match in v10103-v10113",
+    "cipher_path": "cipher/lua/engine_server/packet/PidPacketHandler.lua",
+    "cipher_md5": "cc089fc4b1b03a85985c7479b6ef5b4a",
+    "expected_source_md5": null
+   }
+  ]
+ },
+ "warnings": {
+  "v10104": [
+   {
+    "rel": "lua/plugins/new_vip/new_vip.lua",
+    "reason": "v10104 checksum MD5 mismatch",
+    "expected_source_md5": "c1ac62915269c05664a3706d905db525",
+    "source_md5": "1bde35d8a820b44160ba72959a50b387"
+   }
+  ],
+  "v10105": [
+   {
+    "rel": "lua/plugins/new_vip/new_vip.lua",
+    "reason": "v10105 checksum MD5 mismatch",
+    "expected_source_md5": "3e4ada73beadc3941a1c484f54769e5f",
+    "source_md5": "de9db99d524cdfa6dc0df4db2933323f",
+    "candidate_version": "v10106",
+    "offset": 33
+   }
+  ],
+  "v10106": [
+   {
+    "rel": "lua/plugins/new_vip/new_vip.lua",
+    "reason": "source MD5 header mismatch",
+    "header_md5": "3e4ada73beadc3941a1c484f54769e5f",
+    "source_md5": "de9db99d524cdfa6dc0df4db2933323f",
+    "reencode": true,
+    "source_size": 6378,
+    "matches_v10105_source": true,
+    "matches_v10104_source": false,
+    "note": "The embedded source is valid, re-encrypts exactly, and equals the v10105 source; the 32-hex header/checksum value is stale for this one file only."
+   }
+  ],
+  "v10107": [
+   {
+    "rel": "lua/plugins/new_vip/new_vip.lua",
+    "reason": "source MD5 header mismatch",
+    "header_md5": "3e4ada73beadc3941a1c484f54769e5f",
+    "source_md5": "de9db99d524cdfa6dc0df4db2933323f",
+    "reencode": true,
+    "source_size": 6378,
+    "matches_v10105_source": true,
+    "matches_v10104_source": false,
+    "note": "The embedded source is valid, re-encrypts exactly, and equals the v10105 source; the 32-hex header/checksum value is stale for this one file only."
+   }
+  ],
+  "v10108": [
+   {
+    "rel": "lua/plugins/new_vip/new_vip.lua",
+    "reason": "source MD5 header mismatch",
+    "header_md5": "3e4ada73beadc3941a1c484f54769e5f",
+    "source_md5": "de9db99d524cdfa6dc0df4db2933323f",
+    "reencode": true,
+    "source_size": 6378,
+    "matches_v10105_source": true,
+    "matches_v10104_source": false,
+    "note": "The embedded source is valid, re-encrypts exactly, and equals the v10105 source; the 32-hex header/checksum value is stale for this one file only."
+   }
+  ]
+ }
+}

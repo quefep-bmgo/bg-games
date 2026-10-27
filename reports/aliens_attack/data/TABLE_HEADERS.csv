@@ -1,0 +1,9 @@
+﻿table,canonical_fields,source_header_variant,occurrences,header_row,unknown_columns
+arms.csv,id;id;level;itemId;type;attack;range;speed;maxBullet;knockback;sniperDistance;bulletPerShoot;bulletOffset;attackX;price;name;image,id;level;itemId;name;image;type;attack;range;speed;maxBullet;knockback;sniperDistance;bulletPerShoot;bulletOffset;attackX;price,57,2,1;中文备注;手枪
+equipment.csv,id;id;itemId;level;hp;attack;defense;speed;addHp;price;part;name;image;description,id;part;itemId;level;name;image;description;hp;attack;defense;speed;addHp;price,57,2,
+basement.csv,id;id;level;hp;defense,id;level;hp;defense,57,2,
+game_level.csv,level;level;kills;monsterLv;gold;exp;monsterNumIds;basementId,level;kills;monsterLv;monsterNumIds;basementId;gold;exp,57,2,
+monster.csv,id;id;isUp;hp;attack;defense;attackX;attackSpeed;attackDistance;moveSpeed;attackCd;addHp;exp;gold;isEnterHint;isBoss;isChangeTarget;changeTargetCd;isAutoAttack;patrolDistance;attackType;skillId;skillCd;name;actor;aiFile;effect,id;name;actor;aiFile;isUp;hp;attack;defense;attackX;attackSpeed;attackDistance;moveSpeed;attackCd;addHp;exp;gold;isEnterHint;isBoss;isChangeTarget;changeTargetCd;isAutoAttack;patrolDistance;attackType;skillId;skillCd;effect,57,2,
+monster_num.csv,id;monsterId;num,id;monsterId;num,57,2,
+player_level.csv,level;level;exp,level;exp,57,2,
+skill.csv,id;id;duration;width;height;density;name;color,id;name;duration;width;height;color;density,57,2,

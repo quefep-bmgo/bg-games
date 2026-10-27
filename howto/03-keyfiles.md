@@ -199,19 +199,25 @@ What is known:
 - the legacy **TOC** is standard AES-128-ECB with key `blrsp20241212345`
 - legacy entry plaintext uses the same 3-byte cipher
 - one legacy entry was fully recovered from known plaintext and re-encrypted byte-exactly
-- the legacy keyfile blob is encrypted, but its blob key/KDF was not recovered
+- the first legacy keyfile blob is **AES-128-ECB** with key `blsle20240112345`
+- the second blob (patch map) is **AES-128-ECB** with key `bmlle20240922345`
+- both blobs use PKCS#7 padding
+- the eight names and four key arrays in the outer header are opaque metadata; they are not the blob keys
 
 Therefore:
 
 - legacy TOCs are parsed
 - legacy `flag=1` CSVs are decoded
-- legacy `flag=0` Lua is left in `cipher\`
-- legacy blind decryption is blocked on the `sandboxol` blob key
+- legacy `flag=0` Lua is fully decryptable with the KeyObject database
+- the earlier "blocked on the blob key" conclusion is obsolete
+
+The supplied `bg_libBlockMan_arm64.so` parser is the **current numeric-frame** parser; it is not the legacy 8+4 loader.
 
 See:
 
 ```text
-...\DECRYPTED\REPORTS\LEGACY_FORMAT_REPORT.md
+howto\13-legacy-sandboxol-decryption.md
+howto\scripts\decrypt_legacy_sandboxol.py
 ```
 
 ## 7. Reference files

@@ -1,0 +1,31 @@
+id,level,itemId,name,image,type,attack,range,speed,maxBullet,knockback,sniperDistance,bulletPerShoot,bulletOffset,attackX,price,,extra_cn
+100000,1,426.0,creepyalients_gun_name_1.name,set:items.json image:gun01,1.0,30.0,25.0,0.3,15.0,0.0,0.0,1.0,28.0,0.55,0.0,手枪,HK-P2000手枪
+100001,2,436.0,creepyalients_gun_name_27.name,set:items.json image:gun27,5.0,43.0,30.0,0.1,30.0,0.0,0.0,1.0,24.0,0.19,1500.0,步枪,R1895手枪
+100002,3,435.0,creepyalients_gun_name_37.name,set:items.json image:gun37,1.0,57.0,25.0,0.35,12.0,0.0,0.0,1.0,32.0,0.71,4000.0,狙击枪,Micro Uzi冲锋枪
+100003,4,437.0,creepyalients_gun_name_36.name,set:items.json image:gun36,4.0,71.0,20.0,0.5,2.0,1.0,0.0,6.0,64.0,0.27,7000.0,散弹枪,SearsRanger霰弹枪
+100004,5,438.0,creepyalients_gun_name_38.name,set:items.json image:gun38,1.0,92.0,25.0,0.25,9.0,0.0,0.0,1.0,20.0,0.55,11000.0,冲锋枪,DessertEagle手枪
+100005,6,439.0,creepyalients_gun_name_25.name,set:items.json image:gun25,5.0,132.0,30.0,0.125,24.0,0.0,0.0,1.0,32.0,0.27,16000.0,,Tommy Gun冲锋枪
+100006,7,440.0,creepyalients_gun_name_29.name,set:items.json image:gun29,4.0,158.0,20.0,0.5,7.0,1.0,0.0,6.0,72.0,0.2,22000.0,,M1014霰弹枪
+100007,8,428.0,creepyalients_gun_name_3.name,set:items.json image:gun03,5.0,186.0,30.0,0.085,27.0,0.0,0.0,1.0,28.0,0.2,30000.0,,MP9冲锋枪
+100008,9,427.0,creepyalients_gun_name_2.name,set:items.json image:gun02,2.0,220.0,45.0,0.15,30.0,0.0,0.0,1.0,28.0,0.38,40000.0,,AK-47步枪
+100009,10,429.0,creepyalients_gun_name_4.name,set:items.json image:gun04,4.0,258.0,25.0,0.4,12.0,1.0,0.0,6.0,48.0,0.19,52000.0,,HAWK-12霰弹枪
+100010,11,700.0,creepyalients_gun_name_28.name,set:items.json image:gun28,5.0,314.0,30.0,0.115,25.0,0.0,0.0,1.0,28.0,0.32,64000.0,,Type100冲锋枪
+100011,12,701.0,creepyalients_gun_name_34.name,set:items.json image:gun34,5.0,353.0,35.0,0.1,30.0,0.0,0.0,1.0,24.0,0.29,78000.0,,MK5冲锋枪
+100012,13,702.0,creepyalients_gun_name_23.name,set:items.json image:gun23,2.0,394.0,45.0,0.18,30.0,0.0,0.0,1.0,20.0,0.54,94000.0,,M16A4步枪
+100013,14,704.0,creepyalients_gun_name_26.name,set:items.json image:gun26,5.0,436.0,35.0,0.075,45.0,0.0,0.0,1.0,24.0,0.23,112000.0,,Vector冲锋枪
+100014,15,705.0,creepyalients_gun_name_24.name,set:items.json image:gun24,2.0,481.0,45.0,0.1,50.0,0.0,0.0,1.0,24.0,0.31,132000.0,,Groza步枪
+100015,16,431.0,creepyalients_gun_name_9.name,set:items.json image:gun09,2.0,555.0,45.0,0.15,30.0,0.0,0.0,1.0,16.0,0.48,154000.0,,M4A1步枪
+100016,17,430.0,creepyalients_gun_name_6.name,set:items.json image:gun06,3.0,606.0,80.0,2.4,7.0,0.0,10.0,1.0,4.0,7.7,178000.0,,M40A3狙击枪
+100017,18,706.0,creepyalients_gun_name_18.name,set:items.json image:gun18,2.0,658.0,45.0,0.14,50.0,0.0,0.0,1.0,20.0,0.45,204000.0,,DP-28机枪
+100018,19,707.0,creepyalients_gun_name_33.name,set:items.json image:gun33,2.0,713.0,45.0,0.18,30.0,0.0,0.0,1.0,16.0,0.59,232000.0,,SCAR-L步枪
+100019,20,708.0,creepyalients_gun_name_13.name,set:items.json image:gun13,3.0,770.0,80.0,2.7,6.0,0.0,10.0,1.0,4.0,8.8,262000.0,,85狙击枪
+100020,21,709.0,creepyalients_gun_name_21.name,set:items.json image:gun21,2.0,861.0,45.0,0.25,25.0,0.0,0.0,1.0,8.0,0.81,294000.0,,95步枪
+100021,22,710.0,creepyalients_gun_name_17.name,set:items.json image:gun17,2.0,924.0,45.0,0.12,55.0,0.0,0.0,1.0,24.0,0.39,328000.0,,M1941机枪
+100022,23,711.0,creepyalients_gun_name_20.name,set:items.json image:gun20,3.0,998.0,80.0,2.0,8.0,0.0,10.0,1.0,4.0,6.4,364000.0,,W2000狙击枪
+100023,24,712.0,creepyalients_gun_name_31.name,set:items.json image:gun31,2.0,1076.0,45.0,0.15,40.0,0.0,0.0,1.0,16.0,0.48,402000.0,,AUG A3步枪
+100024,25,432.0,creepyalients_gun_name_8.name,set:items.json image:gun08,3.0,1156.0,80.0,3.0,8.0,0.0,10.0,1.0,4.0,9.5,442000.0,,98K狙击枪
+100025,26,713.0,creepyalients_gun_name_19.name,set:items.json image:gun19,2.0,1326.0,50.0,0.125,45.0,0.0,0.0,1.0,12.0,0.39,484000.0,,MK14步枪
+100026,27,434.0,creepyalients_gun_name_10.name,set:items.json image:gun10,3.0,1427.0,80.0,1.8,12.0,0.0,10.0,1.0,4.0,5.55,528000.0,,巴雷特狙击枪
+100027,28,703.0,creepyalients_gun_name_35.name,set:items.json image:gun35,4.0,1531.0,30.0,0.24,24.0,1.0,0.0,6.0,36.0,0.18,574000.0,,AA12霰弹枪
+100028,29,714.0,creepyalients_gun_name_15.name,set:items.json image:gun15,2.0,1640.0,50.0,0.15,80.0,0.0,0.0,1.0,24.0,0.46,622000.0,,MK60机枪
+100029,30,433.0,creepyalients_gun_name_11.name,set:items.json image:gun11,2.0,1800.0,50.0,0.115,150.0,0.0,0.0,1.0,20.0,0.36,672000.0,,加特林机枪

@@ -1,0 +1,124 @@
+﻿pair,metric,normal_map,normal_channel,normal_value,hard_map,hard_channel,hard_value,ratio,delta,unit,source_table,source_columns,first_version,last_version,n_versions,versions,notes
+A1_A10,config.waitingTime,m1019_1,live,60,m1019_10,live,30,0.5,-30,s,config.yml,waitingTime,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=60; hard=30
+A1_A10,config.prepareTime,m1019_1,live,60,m1019_10,live,30,0.5,-30,s,config.yml,prepareTime,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=60; hard=30
+A1_A10,config.gamePrepareTime,m1019_1,live,10,m1019_10,live,8,0.8,-2,s,config.yml,gamePrepareTime,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=10; hard=8
+A1_A10,config.gameLevelTime,m1019_1,live,190,m1019_10,live,310,1.631579,120,s,config.yml,gameLevelTime,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=190; hard=310
+A1_A10,config.gameOverTime,m1019_1,live,10,m1019_10,live,10,1,0,s,config.yml,gameOverTime,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=10; hard=10
+A1_A10,config.refreshMonsterTime,m1019_1,live,6,m1019_10,live,5,0.833333,-1,s,config.yml,refreshMonsterTime,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=6; hard=5
+A1_A10,config.refreshMonsterTimes,m1019_1,live,10,m1019_10,live,15,1.5,5,count,config.yml,refreshMonsterTimes,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=10; hard=15
+A1_A10,config.maxMonsters,m1019_1,live,30,m1019_10,live,33,1.1,3,count,config.yml,maxMonsters,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=30; hard=33
+A1_A10,config.playerHp,m1019_1,live,1500,m1019_10,live,1500,1,0,hp,config.yml,playerAttr.hp,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=1500; hard=1500
+A1_A10,config.playerAttack,m1019_1,live,300,m1019_10,live,450,1.5,150,attack,config.yml,playerAttr.attack,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=300; hard=450
+A1_A10,config.playerDefense,m1019_1,live,300,m1019_10,live,330,1.1,30,defense,config.yml,playerAttr.defense,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=300; hard=330
+A1_A10,config.playerAddHp,m1019_1,live,0,m1019_10,live,10,,10,hp_regen,config.yml,playerAttr.addHp,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=0; hard=10
+A1_A10,config.playerUpgradeHealthReply,m1019_1,live,0.1,m1019_10,live,0.15,1.5,0.05,fraction,config.yml,PlayerUpgradeHealthReply,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=0.1; hard=0.15
+A1_A10,config.basementUpgradeHealthReply,m1019_1,live,0.2,m1019_10,live,0.33,1.65,0.13,fraction,config.yml,BasementUpgradeHealthReply,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=0.2; hard=0.33
+A1_A10,summary.levels,m1019_1,live,100,m1019_10,live,60,0.6,-40,count,LEVEL_THRESHOLDS,levels,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=100; hard=60
+A1_A10,summary.totalKills,m1019_1,live,8159,m1019_10,live,7986,0.978796,-173,kills,LEVEL_THRESHOLDS,kills_configured,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=8159; hard=7986
+A1_A10,summary.totalSpawned,m1019_1,live,8112,m1019_10,live,7986,0.984467,-126,monsters,LEVEL_THRESHOLDS,spawned_total,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=8112; hard=7986
+A1_A10,summary.totalEffectiveHp,m1019_1,live,23903894.05,m1019_10,live,58294545.5,2.438705,34390651.45,hp,LEVEL_THRESHOLDS,effective_hp_total,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=23903894.05; hard=58294545.5
+A1_A10,summary.hpPerKill,m1019_1,live,2946.732501,m1019_10,live,7299.592474,2.477182,4352.859973,hp_per_kill,LEVEL_THRESHOLDS,effective_hp_total/effective_kill_threshold,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=2946.732501232742; hard=7299.5924743300775
+A1_A10,summary.totalGold,m1019_1,live,3405820,m1019_10,live,6286293,1.84575,2880473,gold,ECONOMY_SUMMARY,total_gold,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=3405820; hard=6286293
+A1_A10,summary.totalExp,m1019_1,live,385899,m1019_10,live,701216,1.817097,315317,exp,ECONOMY_SUMMARY,total_exp,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=385899; hard=701216
+A1_A10,summary.goldPerKill,m1019_1,live,417.431058,m1019_10,live,787.164162,1.885735,369.733105,gold_per_kill,ECONOMY_SUMMARY,total_gold/total_kills,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=417.4310577276627; hard=787.164162283997
+A1_A10,summary.expPerKill,m1019_1,live,47.29734,m1019_10,live,87.80566,1.856461,40.50832,exp_per_kill,ECONOMY_SUMMARY,total_exp/total_kills,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=47.297340360338275; hard=87.80565990483346
+A1_A10,summary.maxLevelHp,m1019_1,live,940572,m1019_10,live,3598620,3.825991,2658048,hp,LEVEL_THRESHOLDS,max effective_hp_total,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=940572.0; hard=3598620.0
+A1_A10,summary.finalLevelHp,m1019_1,live,312800,m1019_10,live,3598620,11.50454,3285820,hp,LEVEL_THRESHOLDS,final effective_hp_total,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=312800.0; hard=3598620.0
+A1_A10,summary.maxRequiredDps,m1019_1,live,4950.378947,m1019_10,live,11608.451613,2.344962,6658.072666,hp_per_s,LEVEL_THRESHOLDS,max required_dps,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=4950.378947368421; hard=11608.451612903225
+A1_A10,summary.finalRequiredDps,m1019_1,live,1646.315789,m1019_10,live,11608.451613,7.051169,9962.135823,hp_per_s,LEVEL_THRESHOLDS,final required_dps,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=1646.3157894736842; hard=11608.451612903225
+A1_A10,summary.maxBasementHp,m1019_1,live,70000,m1019_10,live,138750,1.982143,68750,hp,BASEMENT,hp,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=70000; hard=138750
+A1_A10,summary.finalBasementHp,m1019_1,live,70000,m1019_10,live,138750,1.982143,68750,hp,BASEMENT,hp,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=70000; hard=138750
+A1_A10,summary.bossSpawns,m1019_1,live,17,m1019_10,live,17,1,0,count,LEVEL_THRESHOLDS,boss_spawns,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=17; hard=17
+A1_A10,summary.finalBossHp,m1019_1,live,312800,m1019_10,live,2852700,9.119885,2539900,hp,LEVEL_THRESHOLDS,final boss_hp,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=312800.0; hard=2852700.0
+A1_A10,summary.finalBossCount,m1019_1,live,4,m1019_10,live,6,1.5,2,count,LEVEL_THRESHOLDS,final boss_spawns,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=4; hard=6
+A1_A10,summary.finalBossHpShare,m1019_1,live,1,m1019_10,live,0.792721,0.792721,-0.207279,fraction,LEVEL_THRESHOLDS,final boss_hp_share,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=1.0; hard=0.7927205428747687
+A1_A10,weapon.maxNominalDps,m1019_1,live,6138.457048,m1019_10,live,8293.057824,1.351,2154.600776,dps,WEAPON_PROGRESSION,max nominal_dps_def150,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=6138.457048484954; hard=8293.05782411424
+A1_A10,weapon.weapon28NominalDps,m1019_1,live,5147.488337,m1019_10,live,8293.057824,1.611088,3145.569487,dps,WEAPON_PROGRESSION,nominal_dps_def150 at level 28,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=5147.488336646653; hard=8293.05782411424
+A1_A10,weapon.costToMax,m1019_1,live,6403500,m1019_10,live,6403500,1,0,gold,WEAPON_PROGRESSION,cumulative_price at max,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=6403500; hard=6403500
+A1_A10,equipment.costToMax,m1019_1,live,3046160,m1019_10,live,3046160,1,0,gold,EQUIPMENT_PROGRESSION,cumulative_price at max,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=3046160; hard=3046160
+A1_A10,economy.runsToAffordAll,m1019_1,live,2.774562,m1019_10,live,1.503217,0.541785,-1.271346,runs,ECONOMY_SUMMARY,full_clear_gold/total_cost_to_max,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=2.774562366772172; hard=1.5032166015806137
+A1_A10,level.finalDpsMarginAll,m1019_1,live,3.866103,m1019_10,live,0.994909,0.257342,-2.871195,ratio,LEVEL_THRESHOLDS,final dps_margin_all,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=3.8661034033045762; hard=0.9949088790055897
+A1_A10,level.finalDpsMarginAffordable,m1019_1,live,2.226833,m1019_10,live,0.994909,0.446782,-1.231925,ratio,LEVEL_THRESHOLDS,final dps_margin_affordable,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=2.226833450448679; hard=0.9949088790055897
+A1_A10,level.finalRequiredPlayerLevel,m1019_1,live,-1395.802944,m1019_10,live,687.855656,-0.492803,2083.6586,level,LEVEL_THRESHOLDS,final required_player_level,v10110,v10113,4,v10110;v10111;v10112;v10113,normal=-1395.8029439650043; hard=687.8556556043904
+A10_A2,config.waitingTime,m1019_10,live,30,m1019_2,staging,30,1,0,s,config.yml,waitingTime,v10113,v10113,1,v10113,normal=30; hard=30
+A10_A2,config.prepareTime,m1019_10,live,30,m1019_2,staging,30,1,0,s,config.yml,prepareTime,v10113,v10113,1,v10113,normal=30; hard=30
+A10_A2,config.gamePrepareTime,m1019_10,live,8,m1019_2,staging,8,1,0,s,config.yml,gamePrepareTime,v10113,v10113,1,v10113,normal=8; hard=8
+A10_A2,config.gameLevelTime,m1019_10,live,310,m1019_2,staging,310,1,0,s,config.yml,gameLevelTime,v10113,v10113,1,v10113,normal=310; hard=310
+A10_A2,config.gameOverTime,m1019_10,live,10,m1019_2,staging,8,0.8,-2,s,config.yml,gameOverTime,v10113,v10113,1,v10113,normal=10; hard=8
+A10_A2,config.refreshMonsterTime,m1019_10,live,5,m1019_2,staging,5,1,0,s,config.yml,refreshMonsterTime,v10113,v10113,1,v10113,normal=5; hard=5
+A10_A2,config.refreshMonsterTimes,m1019_10,live,15,m1019_2,staging,15,1,0,count,config.yml,refreshMonsterTimes,v10113,v10113,1,v10113,normal=15; hard=15
+A10_A2,config.maxMonsters,m1019_10,live,33,m1019_2,staging,30,0.909091,-3,count,config.yml,maxMonsters,v10113,v10113,1,v10113,normal=33; hard=30
+A10_A2,config.playerHp,m1019_10,live,1500,m1019_2,staging,1500,1,0,hp,config.yml,playerAttr.hp,v10113,v10113,1,v10113,normal=1500; hard=1500
+A10_A2,config.playerAttack,m1019_10,live,450,m1019_2,staging,450,1,0,attack,config.yml,playerAttr.attack,v10113,v10113,1,v10113,normal=450; hard=450
+A10_A2,config.playerDefense,m1019_10,live,330,m1019_2,staging,330,1,0,defense,config.yml,playerAttr.defense,v10113,v10113,1,v10113,normal=330; hard=330
+A10_A2,config.playerAddHp,m1019_10,live,10,m1019_2,staging,10,1,0,hp_regen,config.yml,playerAttr.addHp,v10113,v10113,1,v10113,normal=10; hard=10
+A10_A2,config.playerUpgradeHealthReply,m1019_10,live,0.15,m1019_2,staging,0.2,1.333333,0.05,fraction,config.yml,PlayerUpgradeHealthReply,v10113,v10113,1,v10113,normal=0.15; hard=0.2
+A10_A2,config.basementUpgradeHealthReply,m1019_10,live,0.33,m1019_2,staging,0.35,1.060606,0.02,fraction,config.yml,BasementUpgradeHealthReply,v10113,v10113,1,v10113,normal=0.33; hard=0.35
+A10_A2,summary.levels,m1019_10,live,60,m1019_2,staging,60,1,0,count,LEVEL_THRESHOLDS,levels,v10113,v10113,1,v10113,normal=60; hard=60
+A10_A2,summary.totalKills,m1019_10,live,7986,m1019_2,staging,7986,1,0,kills,LEVEL_THRESHOLDS,kills_configured,v10113,v10113,1,v10113,normal=7986; hard=7986
+A10_A2,summary.totalSpawned,m1019_10,live,7986,m1019_2,staging,7986,1,0,monsters,LEVEL_THRESHOLDS,spawned_total,v10113,v10113,1,v10113,normal=7986; hard=7986
+A10_A2,summary.totalEffectiveHp,m1019_10,live,58294545.5,m1019_2,staging,55384319.5,0.950077,-2910226,hp,LEVEL_THRESHOLDS,effective_hp_total,v10113,v10113,1,v10113,normal=58294545.5; hard=55384319.5
+A10_A2,summary.hpPerKill,m1019_10,live,7299.592474,m1019_2,staging,6935.176496,0.950077,-364.415978,hp_per_kill,LEVEL_THRESHOLDS,effective_hp_total/effective_kill_threshold,v10113,v10113,1,v10113,normal=7299.5924743300775; hard=6935.1764963686455
+A10_A2,summary.totalGold,m1019_10,live,6286293,m1019_2,staging,6382893,1.015367,96600,gold,ECONOMY_SUMMARY,total_gold,v10113,v10113,1,v10113,normal=6286293; hard=6382893
+A10_A2,summary.totalExp,m1019_10,live,701216,m1019_2,staging,706306,1.007259,5090,exp,ECONOMY_SUMMARY,total_exp,v10113,v10113,1,v10113,normal=701216; hard=706306
+A10_A2,summary.goldPerKill,m1019_10,live,787.164162,m1019_2,staging,799.260331,1.015367,12.096168,gold_per_kill,ECONOMY_SUMMARY,total_gold/total_kills,v10113,v10113,1,v10113,normal=787.164162283997; hard=799.2603305785124
+A10_A2,summary.expPerKill,m1019_10,live,87.80566,m1019_2,staging,88.443025,1.007259,0.637365,exp_per_kill,ECONOMY_SUMMARY,total_exp/total_kills,v10113,v10113,1,v10113,normal=87.80565990483346; hard=88.44302529426497
+A10_A2,summary.maxLevelHp,m1019_10,live,3598620,m1019_2,staging,3149250,0.875127,-449370,hp,LEVEL_THRESHOLDS,max effective_hp_total,v10113,v10113,1,v10113,normal=3598620.0; hard=3149250.0
+A10_A2,summary.finalLevelHp,m1019_10,live,3598620,m1019_2,staging,2710620,0.753239,-888000,hp,LEVEL_THRESHOLDS,final effective_hp_total,v10113,v10113,1,v10113,normal=3598620.0; hard=2710620.0
+A10_A2,summary.maxRequiredDps,m1019_10,live,11608.451613,m1019_2,staging,10158.870968,0.875127,-1449.580645,hp_per_s,LEVEL_THRESHOLDS,max required_dps,v10113,v10113,1,v10113,normal=11608.451612903225; hard=10158.870967741936
+A10_A2,summary.finalRequiredDps,m1019_10,live,11608.451613,m1019_2,staging,8743.935484,0.753239,-2864.516129,hp_per_s,LEVEL_THRESHOLDS,final required_dps,v10113,v10113,1,v10113,normal=11608.451612903225; hard=8743.935483870968
+A10_A2,summary.maxBasementHp,m1019_10,live,138750,m1019_2,staging,3700000,26.666667,3561250,hp,BASEMENT,hp,v10113,v10113,1,v10113,normal=138750; hard=3700000
+A10_A2,summary.finalBasementHp,m1019_10,live,138750,m1019_2,staging,3700000,26.666667,3561250,hp,BASEMENT,hp,v10113,v10113,1,v10113,normal=138750; hard=3700000
+A10_A2,summary.bossSpawns,m1019_10,live,17,m1019_2,staging,17,1,0,count,LEVEL_THRESHOLDS,boss_spawns,v10113,v10113,1,v10113,normal=17; hard=17
+A10_A2,summary.finalBossHp,m1019_10,live,2852700,m1019_2,staging,1964700,0.688716,-888000,hp,LEVEL_THRESHOLDS,final boss_hp,v10113,v10113,1,v10113,normal=2852700.0; hard=1964700.0
+A10_A2,summary.finalBossCount,m1019_10,live,6,m1019_2,staging,6,1,0,count,LEVEL_THRESHOLDS,final boss_spawns,v10113,v10113,1,v10113,normal=6; hard=6
+A10_A2,summary.finalBossHpShare,m1019_10,live,0.792721,m1019_2,staging,0.724816,0.91434,-0.067905,fraction,LEVEL_THRESHOLDS,final boss_hp_share,v10113,v10113,1,v10113,normal=0.7927205428747687; hard=0.7248157248157249
+A10_A2,weapon.maxNominalDps,m1019_10,live,8293.057824,m1019_2,staging,8182.48372,0.986667,-110.574104,dps,WEAPON_PROGRESSION,max nominal_dps_def150,v10113,v10113,1,v10113,normal=8293.05782411424; hard=8182.483719792715
+A10_A2,weapon.weapon28NominalDps,m1019_10,live,8293.057824,m1019_2,staging,8182.48372,0.986667,-110.574104,dps,WEAPON_PROGRESSION,nominal_dps_def150 at level 28,v10113,v10113,1,v10113,normal=8293.05782411424; hard=8182.483719792715
+A10_A2,weapon.costToMax,m1019_10,live,6403500,m1019_2,staging,6403500,1,0,gold,WEAPON_PROGRESSION,cumulative_price at max,v10113,v10113,1,v10113,normal=6403500; hard=6403500
+A10_A2,equipment.costToMax,m1019_10,live,3046160,m1019_2,staging,3046160,1,0,gold,EQUIPMENT_PROGRESSION,cumulative_price at max,v10113,v10113,1,v10113,normal=3046160; hard=3046160
+A10_A2,economy.runsToAffordAll,m1019_10,live,1.503217,m1019_2,staging,1.480467,0.984866,-0.02275,runs,ECONOMY_SUMMARY,full_clear_gold/total_cost_to_max,v10113,v10113,1,v10113,normal=1.5032166015806137; hard=1.4804666159999862
+A10_A2,level.finalDpsMarginAll,m1019_10,live,0.994909,m1019_2,staging,1.304583,1.311259,0.309675,ratio,LEVEL_THRESHOLDS,final dps_margin_all,v10113,v10113,1,v10113,normal=0.9949088790055897; hard=1.3045833833092426
+A10_A2,level.finalDpsMarginAffordable,m1019_10,live,0.994909,m1019_2,staging,1.304583,1.311259,0.309675,ratio,LEVEL_THRESHOLDS,final dps_margin_affordable,v10113,v10113,1,v10113,normal=0.9949088790055897; hard=1.3045833833092426
+A10_A2,level.finalRequiredPlayerLevel,m1019_10,live,687.855656,m1019_2,staging,228.497328,0.332188,-459.358328,level,LEVEL_THRESHOLDS,final required_player_level,v10113,v10113,1,v10113,normal=687.8556556043904; hard=228.4973280629546
+A1_A2,config.waitingTime,m1019_1,live,60,m1019_2,staging,30,0.5,-30,s,config.yml,waitingTime,v10113,v10113,1,v10113,normal=60; hard=30
+A1_A2,config.prepareTime,m1019_1,live,60,m1019_2,staging,30,0.5,-30,s,config.yml,prepareTime,v10113,v10113,1,v10113,normal=60; hard=30
+A1_A2,config.gamePrepareTime,m1019_1,live,10,m1019_2,staging,8,0.8,-2,s,config.yml,gamePrepareTime,v10113,v10113,1,v10113,normal=10; hard=8
+A1_A2,config.gameLevelTime,m1019_1,live,190,m1019_2,staging,310,1.631579,120,s,config.yml,gameLevelTime,v10113,v10113,1,v10113,normal=190; hard=310
+A1_A2,config.gameOverTime,m1019_1,live,10,m1019_2,staging,8,0.8,-2,s,config.yml,gameOverTime,v10113,v10113,1,v10113,normal=10; hard=8
+A1_A2,config.refreshMonsterTime,m1019_1,live,6,m1019_2,staging,5,0.833333,-1,s,config.yml,refreshMonsterTime,v10113,v10113,1,v10113,normal=6; hard=5
+A1_A2,config.refreshMonsterTimes,m1019_1,live,10,m1019_2,staging,15,1.5,5,count,config.yml,refreshMonsterTimes,v10113,v10113,1,v10113,normal=10; hard=15
+A1_A2,config.maxMonsters,m1019_1,live,30,m1019_2,staging,30,1,0,count,config.yml,maxMonsters,v10113,v10113,1,v10113,normal=30; hard=30
+A1_A2,config.playerHp,m1019_1,live,1500,m1019_2,staging,1500,1,0,hp,config.yml,playerAttr.hp,v10113,v10113,1,v10113,normal=1500; hard=1500
+A1_A2,config.playerAttack,m1019_1,live,300,m1019_2,staging,450,1.5,150,attack,config.yml,playerAttr.attack,v10113,v10113,1,v10113,normal=300; hard=450
+A1_A2,config.playerDefense,m1019_1,live,300,m1019_2,staging,330,1.1,30,defense,config.yml,playerAttr.defense,v10113,v10113,1,v10113,normal=300; hard=330
+A1_A2,config.playerAddHp,m1019_1,live,0,m1019_2,staging,10,,10,hp_regen,config.yml,playerAttr.addHp,v10113,v10113,1,v10113,normal=0; hard=10
+A1_A2,config.playerUpgradeHealthReply,m1019_1,live,0.1,m1019_2,staging,0.2,2,0.1,fraction,config.yml,PlayerUpgradeHealthReply,v10113,v10113,1,v10113,normal=0.1; hard=0.2
+A1_A2,config.basementUpgradeHealthReply,m1019_1,live,0.2,m1019_2,staging,0.35,1.75,0.15,fraction,config.yml,BasementUpgradeHealthReply,v10113,v10113,1,v10113,normal=0.2; hard=0.35
+A1_A2,summary.levels,m1019_1,live,100,m1019_2,staging,60,0.6,-40,count,LEVEL_THRESHOLDS,levels,v10113,v10113,1,v10113,normal=100; hard=60
+A1_A2,summary.totalKills,m1019_1,live,8159,m1019_2,staging,7986,0.978796,-173,kills,LEVEL_THRESHOLDS,kills_configured,v10113,v10113,1,v10113,normal=8159; hard=7986
+A1_A2,summary.totalSpawned,m1019_1,live,8112,m1019_2,staging,7986,0.984467,-126,monsters,LEVEL_THRESHOLDS,spawned_total,v10113,v10113,1,v10113,normal=8112; hard=7986
+A1_A2,summary.totalEffectiveHp,m1019_1,live,23903894.05,m1019_2,staging,55384319.5,2.316958,31480425.45,hp,LEVEL_THRESHOLDS,effective_hp_total,v10113,v10113,1,v10113,normal=23903894.05; hard=55384319.5
+A1_A2,summary.hpPerKill,m1019_1,live,2946.732501,m1019_2,staging,6935.176496,2.353514,3988.443995,hp_per_kill,LEVEL_THRESHOLDS,effective_hp_total/effective_kill_threshold,v10113,v10113,1,v10113,normal=2946.732501232742; hard=6935.1764963686455
+A1_A2,summary.totalGold,m1019_1,live,3405820,m1019_2,staging,6382893,1.874113,2977073,gold,ECONOMY_SUMMARY,total_gold,v10113,v10113,1,v10113,normal=3405820; hard=6382893
+A1_A2,summary.totalExp,m1019_1,live,385899,m1019_2,staging,706306,1.830287,320407,exp,ECONOMY_SUMMARY,total_exp,v10113,v10113,1,v10113,normal=385899; hard=706306
+A1_A2,summary.goldPerKill,m1019_1,live,417.431058,m1019_2,staging,799.260331,1.914712,381.829273,gold_per_kill,ECONOMY_SUMMARY,total_gold/total_kills,v10113,v10113,1,v10113,normal=417.4310577276627; hard=799.2603305785124
+A1_A2,summary.expPerKill,m1019_1,live,47.29734,m1019_2,staging,88.443025,1.869937,41.145685,exp_per_kill,ECONOMY_SUMMARY,total_exp/total_kills,v10113,v10113,1,v10113,normal=47.297340360338275; hard=88.44302529426497
+A1_A2,summary.maxLevelHp,m1019_1,live,940572,m1019_2,staging,3149250,3.348229,2208678,hp,LEVEL_THRESHOLDS,max effective_hp_total,v10113,v10113,1,v10113,normal=940572.0; hard=3149250.0
+A1_A2,summary.finalLevelHp,m1019_1,live,312800,m1019_2,staging,2710620,8.665665,2397820,hp,LEVEL_THRESHOLDS,final effective_hp_total,v10113,v10113,1,v10113,normal=312800.0; hard=2710620.0
+A1_A2,summary.maxRequiredDps,m1019_1,live,4950.378947,m1019_2,staging,10158.870968,2.05214,5208.49202,hp_per_s,LEVEL_THRESHOLDS,max required_dps,v10113,v10113,1,v10113,normal=4950.378947368421; hard=10158.870967741936
+A1_A2,summary.finalRequiredDps,m1019_1,live,1646.315789,m1019_2,staging,8743.935484,5.311214,7097.619694,hp_per_s,LEVEL_THRESHOLDS,final required_dps,v10113,v10113,1,v10113,normal=1646.3157894736842; hard=8743.935483870968
+A1_A2,summary.maxBasementHp,m1019_1,live,70000,m1019_2,staging,3700000,52.857143,3630000,hp,BASEMENT,hp,v10113,v10113,1,v10113,normal=70000; hard=3700000
+A1_A2,summary.finalBasementHp,m1019_1,live,70000,m1019_2,staging,3700000,52.857143,3630000,hp,BASEMENT,hp,v10113,v10113,1,v10113,normal=70000; hard=3700000
+A1_A2,summary.bossSpawns,m1019_1,live,17,m1019_2,staging,17,1,0,count,LEVEL_THRESHOLDS,boss_spawns,v10113,v10113,1,v10113,normal=17; hard=17
+A1_A2,summary.finalBossHp,m1019_1,live,312800,m1019_2,staging,1964700,6.28101,1651900,hp,LEVEL_THRESHOLDS,final boss_hp,v10113,v10113,1,v10113,normal=312800.0; hard=1964700.0
+A1_A2,summary.finalBossCount,m1019_1,live,4,m1019_2,staging,6,1.5,2,count,LEVEL_THRESHOLDS,final boss_spawns,v10113,v10113,1,v10113,normal=4; hard=6
+A1_A2,summary.finalBossHpShare,m1019_1,live,1,m1019_2,staging,0.724816,0.724816,-0.275184,fraction,LEVEL_THRESHOLDS,final boss_hp_share,v10113,v10113,1,v10113,normal=1.0; hard=0.7248157248157249
+A1_A2,weapon.maxNominalDps,m1019_1,live,6138.457048,m1019_2,staging,8182.48372,1.332987,2044.026671,dps,WEAPON_PROGRESSION,max nominal_dps_def150,v10113,v10113,1,v10113,normal=6138.457048484954; hard=8182.483719792715
+A1_A2,weapon.weapon28NominalDps,m1019_1,live,5147.488337,m1019_2,staging,8182.48372,1.589607,3034.995383,dps,WEAPON_PROGRESSION,nominal_dps_def150 at level 28,v10113,v10113,1,v10113,normal=5147.488336646653; hard=8182.483719792715
+A1_A2,weapon.costToMax,m1019_1,live,6403500,m1019_2,staging,6403500,1,0,gold,WEAPON_PROGRESSION,cumulative_price at max,v10113,v10113,1,v10113,normal=6403500; hard=6403500
+A1_A2,equipment.costToMax,m1019_1,live,3046160,m1019_2,staging,3046160,1,0,gold,EQUIPMENT_PROGRESSION,cumulative_price at max,v10113,v10113,1,v10113,normal=3046160; hard=3046160
+A1_A2,economy.runsToAffordAll,m1019_1,live,2.774562,m1019_2,staging,1.480467,0.533586,-1.294096,runs,ECONOMY_SUMMARY,full_clear_gold/total_cost_to_max,v10113,v10113,1,v10113,normal=2.774562366772172; hard=1.4804666159999862
+A1_A2,level.finalDpsMarginAll,m1019_1,live,3.866103,m1019_2,staging,1.304583,0.337441,-2.56152,ratio,LEVEL_THRESHOLDS,final dps_margin_all,v10113,v10113,1,v10113,normal=3.8661034033045762; hard=1.3045833833092426
+A1_A2,level.finalDpsMarginAffordable,m1019_1,live,2.226833,m1019_2,staging,1.304583,0.585847,-0.92225,ratio,LEVEL_THRESHOLDS,final dps_margin_affordable,v10113,v10113,1,v10113,normal=2.226833450448679; hard=1.3045833833092426
+A1_A2,level.finalRequiredPlayerLevel,m1019_1,live,-1395.802944,m1019_2,staging,228.497328,-0.163703,1624.300272,level,LEVEL_THRESHOLDS,final required_player_level,v10113,v10113,1,v10113,normal=-1395.8029439650043; hard=228.4973280629546

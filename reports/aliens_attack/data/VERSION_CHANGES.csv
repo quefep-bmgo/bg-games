@@ -1,0 +1,14 @@
+﻿change_type,map_id,channel,table,row_id,field,old_value,new_value,from_version,to_version,balance_data_changed,description
+map_available,m1019_1,live,all,,,,available,v10068,v10068,0,m1019_1/live available v10068..v10113
+map_available,m1019_1,staging,all,,,,available,v10077,v10079,0,m1019_1/staging available v10079..v10088
+map_unavailable,m1019_1,staging,all,,,available,missing,v10088,v10090,0,m1019_1/staging not available after v10088
+map_available,m1019_1,staging,all,,,,available,v10103,v10104,0,m1019_1/staging available v10104..v10105
+map_unavailable,m1019_1,staging,all,,,available,missing,v10105,v10106,0,m1019_1/staging not available after v10105
+map_available,m1019_10,live,all,,,,available,v10109,v10110,0,m1019_10/live available v10110..v10113
+map_available,m1019_2,staging,all,,,,available,v10112,v10113,0,m1019_2/staging available v10113..v10113
+packaging,m1019_1,live,all,,,direct csv,legacy res.pack,v10108,v10109,0,m1019_1 config tables packaged in res.pack starting v10109
+packaging,m1019_1,live,all,,,legacy res.pack,current res.pack,v10112,v10113,0,m1019_1 config tables packaged in res.pack starting v10113
+plugin_code,,,GamePlayer.lua,,identity_api,"buildNameList(userId,...) -> string","buildNameList(self,...) -> table",v10090,v10091,0,Cosmetic player identity API change; no combat formula change
+plugin_code,,,all server lua,,obfuscation,plaintext,obfuscated/packed,v10103,v10104,0,Plugin source format changed; v10113 decrypted source matches v10103 formula files
+plugin_code,,,server lua files,,line_endings,LF,CRLF,v10071,v10072,0,GameMonster/GamePlayer files switch to CRLF line endings; content is byte-equivalent after newline normalization
+plugin_code,,,server lua files,,line_endings,CRLF,LF,v10074,v10075,0,Server lua files return to LF line endings; content is byte-equivalent after newline normalization

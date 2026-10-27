@@ -54,7 +54,7 @@ in both g1019 and g1042; the single mismatch is a stale `sandboxol` checksum
 Full method, table and decoder:
 
 ```text
-howto/13-v10104-v10105-formats.md
+howto/16-v10104-v10105-formats.md
 howto/data/v10104_sbox.json
 howto/scripts/v10104_harvest.py
 ```
@@ -82,7 +82,7 @@ header to `D0`/`D1` is the only unknown.
 Full method and tools:
 
 ```text
-howto/13-v10104-v10105-formats.md
+howto/16-v10104-v10105-formats.md
 howto/scripts/v10105_crib.py
 howto/scripts/v10105_fullvote.py
 howto/scripts/v10105_editsearch.py
@@ -119,19 +119,15 @@ Recovery counts are in each `MANIFEST.json`.
 
 ## 7. Legacy v10109-v10112 packs
 
-Status: TOC and CSV solved; Lua blocked.
+Status: fully solved for the tested packs.
 
-What works:
+- legacy TOC: AES-128-ECB/PKCS#7 with `blrsp20241212345`
+- KeyObject blob: AES-128-ECB/PKCS#7 with `blsle20240112345`
+- patch map: AES-128-ECB/PKCS#7 with `bmlle20240922345`
+- 501/501 g1042 v10112 entries and 452/452 g1019 v10112 entries re-encrypt exactly
+- 500/501 and 451/452 source hashes match the patch map; the one miss is the stale `new_vip.lua` publisher hash
 
-- legacy TOC via AES-128-ECB/PKCS#7 with `blrsp20241212345`
-- all `flag=1` CSVs
-- known-plaintext proof for one Lua entry, re-encrypted byte-exactly
-
-What remains blocked:
-
-- blind decryption of legacy Lua entries, because the legacy `sandboxol` blob key/KDF was not recovered
-
-The Lua ciphertext is preserved in `cipher\`; the entry names/sizes/hashes are in `MANIFEST.json`.
+See `13-legacy-sandboxol-decryption.md`.
 
 ## 8. Map terrain
 
@@ -143,9 +139,9 @@ Map configs are extracted into `map_config\`.
 
 - live server/backend logic
 - anti-cheat native routines beyond the AES path
-- legacy `sandboxol` blob encryption
-- v10105 per-file KDF from the raw header to the code tables (format itself is solved; see §5)
+- v10105 per-file KDF from the raw header to the code tables (format itself is solved; see ?5)
 - 11 unique-content v10105 entries whose exact source is absent from the known corpus
 - `lang.csv` Unicode bytes absent from the substitution table
 
+The legacy `sandboxol` blobs are no longer on this list.
 Everything else in the current packs is represented as source, bytecode, CSV, or explicit ciphertext.
