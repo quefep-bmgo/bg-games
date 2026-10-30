@@ -3,3 +3,4 @@
 *.xlsx binary
 *.pkl binary
 *.bin binary
+games/g1108/captures/2026-10-30/appres-g1108.zip filter=lfs diff=lfs merge=lfs -text
