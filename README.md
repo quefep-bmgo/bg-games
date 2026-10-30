@@ -67,6 +67,10 @@ what is present.
   hard-mode, feature, balance, extraction, and hidden-content analysis.
 - [`tools/mapconv/`](tools/mapconv/README.md) - map conversion implementation.
 
+## Engine2 packages
+
+Engine2 games use a separate plain-ZIP package/runtime workflow rather than engine1's encrypted `res.pack` path. See [`engine2/README.md`](engine2/README.md) for app-flow capture, version/hash checks, local staging, older-runtime setup, and debugging.
+
 ## Provenance
 
 - Game assets were downloaded from the public Blockman GO CDN endpoints recorded in each

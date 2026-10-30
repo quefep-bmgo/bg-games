@@ -2,6 +2,8 @@
 
 This folder documents how the `res.pack`, `sandboxol` keyfiles, Lua wrappers, map CSVs, and Lua 5.1 bytecode were decrypted, extracted, and verified.
 
+Engine2 games use a separate plain-ZIP format and runtime. Their capture/run workflow is documented in [`../engine2/README.md`](../engine2/README.md).
+
 It covers the formats used by:
 
 - `g1042` Build and Shoot / Pixel Gun Hall
