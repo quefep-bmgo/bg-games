@@ -1,0 +1,29 @@
+{
+  "bossId": 70,
+  "visibleRecommendation": 500000,
+  "runtimeFightTarget": 500000,
+  "testedRuntimeFight": 500210,
+  "attributes": {
+    "attDamage": 264,
+    "attFire": 264,
+    "attPoison": 264,
+    "attIce": 264,
+    "maxHp": 155279,
+    "defDamage": 3,
+    "defFire": 3,
+    "defPoison": 3,
+    "defIce": 3,
+    "defRegen": 123
+  },
+  "preserve": [
+    "bossLevel",
+    "actorName",
+    "boss skills",
+    "rewardPoolId",
+    "spawn/portal positions"
+  ],
+  "notes": [
+    "recommend is the displayed challenge recommendation, not the computed boss fight.",
+    "The proposed stats were tested with the local runtime AttrHelper and report about 500.21K fight."
+  ]
+}

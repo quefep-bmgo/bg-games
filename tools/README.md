@@ -26,6 +26,8 @@ toolkit.
 | `mapconv/legacy_blocks.py` | Legacy numeric block ID + metadata to modern block-state mapping |
 | `mapconv/world_template/` | Minecraft 26.3 world metadata template (no terrain) |
 | `mapconv/README.md` | Usage and conversion limitations |
+| `../V10113_TO_MC_26.3_AI_GUIDE.md` | Full v10113 format and GitHub-to-26.3 conversion contract |
+| `mapconv/convert-map.cmd` | Windows wrapper for drag-and-drop conversion |
 
 ## Decompilation
 
@@ -33,6 +35,15 @@ toolkit.
 | --- | --- |
 | `decompile_engine.py` | Decompile decrypted engine Lua bytecode with unluac |
 | `decompile_games.py` | Decompile decrypted game Lua bytecode with unluac |
+
+## Engine2 packages
+
+| File | Purpose |
+| --- | --- |
+| `engine2_collect.py` | Open engine2 game detail via app deep link, tap Start, capture static ZIP URLs from the proxy log |
+| `engine2_download.py` | Download and verify the engine2 ZIP corpus from `engine2_packs/catalog.tsv` |
+
+See `../howto/17-engine2.md`.
 
 ## Runtime expectations
 

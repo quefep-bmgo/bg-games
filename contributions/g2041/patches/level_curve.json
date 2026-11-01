@@ -1,0 +1,35 @@
+{
+  "startLevel": 91,
+  "endLevel": 150,
+  "baseLevel": 90,
+  "baseUpgradePrice": 100000000,
+  "upgradePricePerLevel": 6000000,
+  "legacyAAAAtBase": 13887900,
+  "legacyAAAPerLevel": 150000,
+  "baseAttack": 800,
+  "attackPerLevel": 18,
+  "baseMaxHp": 8003,
+  "maxHpPerLevel": 180,
+  "baseDefense": 10,
+  "defenseStepEveryLevels": 10,
+  "regenDivisor": 100,
+  "fightWeights": {
+    "attDamage": 25,
+    "attFire": 25,
+    "attPoison": 25,
+    "attIce": 25,
+    "maxHp": 3,
+    "defDamage": 50,
+    "defFire": 50,
+    "defPoison": 50,
+    "defIce": 50,
+    "defRegen": 60,
+    "defTough": 50,
+    "defDodge": 50
+  },
+  "notes": [
+    "This is a starter continuation, not an official balance curve.",
+    "The local runtime config reader ignores the legacy AAA column; its linear continuation preserves the table shape.",
+    "Fight is floored from the observed runtime attribute weights; crit-damage has zero runtime fight weight."
+  ]
+}

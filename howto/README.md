@@ -14,6 +14,8 @@ It covers the formats used by:
 - legacy packs `v10109`–`v10112`
 - per-file inline-MD5 packs `v10105`–`v10108`
 
+Engine2 (`engineType=2`, plus `engineType=0` with `isNewEngine=1`) is a separate plain-ZIP format. See `17-engine2.md` for the live corpus, URL patterns, collector, downloader, and last-update analysis.
+
 ## Quick algorithm summary
 
 ```text
